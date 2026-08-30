@@ -249,9 +249,10 @@ def main():
     if not lst:
         lines.append("**今日无新增论文** ✅")
     for p in lst:
-        lines += [f"## {p['rating']} {p['title']}",
+        title_line = f"## {p['rating']} [{p['title']}]({p['doi']})" if p["doi"] else f"## {p['rating']} {p['title']}"
+        lines += [title_line,
                   f"- 作者: {', '.join(p['authors']) or '-'}",
-                  f"- 期刊: {p['journal']} | 发表: {p['pubdate']} | DOI: {p['doi'] or '-'}",
+                  f"- 期刊: {p['journal']} | 发表: {p['pubdate']}",
                   f"- 技术分类: {p['category']} | 机构类别: {', '.join(p['orgs'])}"]
         if p["abstract"]:
             lines.append(f"- 摘要: {p['abstract']}…")
@@ -270,11 +271,14 @@ def main():
         for r in ["⭐顶刊", "★显示核心", "📌行业关注", "一般"]:
             if r in counts:
                 parts.append(f"| {r} | {counts[r]} |")
-        parts += ["", "### 重点论文"]
+        parts += ["", "### 重点论文(标题可点击跳转)"]
         for p in [x for x in lst if x["rating"] in ("⭐顶刊", "★显示核心", "📌行业关注")][:15]:
-            doi_link = f"[[DOI]]({p['doi']})" if p["doi"] else "-"
-            parts.append(f"- {p['rating']} **{p['title'][:80]}**")
-            parts.append(f"  {p['journal']} · {p['pubdate']} · {p['category']} · {doi_link}")
+            title_text = p["title"][:80]
+            if p["doi"]:
+                parts.append(f"- {p['rating']} [{title_text}]({p['doi']})")
+            else:
+                parts.append(f"- {p['rating']} **{title_text}**")
+            parts.append(f"  {p['journal']} · {p['pubdate']} · {p['category']}")
         parts += ["", f"共 {len(lst)} 篇, 完整日报见仓库 reports/ 目录."]
     else:
         title = f"显示论文日报 {today_cn.month}/{today_cn.day}: 无新增"
