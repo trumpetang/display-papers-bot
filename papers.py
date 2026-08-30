@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 显示面板行业论文每日监控 + Server酱微信推送
-数据源: OpenAlex API (https://api.openalex.org)
+数据源：OpenAlex API（https://api.openalex.org）
 覆盖: SID 2025 全部参与机构(见 institutions.json)
 排除: SID Digest / ICDT / IMID 会议论文
 去重: seen.json 记录已推送论文 ID, 跨次执行增量推送
@@ -12,24 +12,24 @@
 import json
 import os
 import sys
-import time
-import urllib.parse
-import urllib.request
-from datetime import datetime, timedelta, timezone
+ time
+ urllib.解析
+urllib.request
+来自 datetime import datetime、timedelta、timezone
 
-BASE = os.path.dirname(os.path.abspath(__file__))
-INSTITUTIONS_FILE = os.path.join(BASE, "institutions.json")
-SEEN_FILE = os.path.join(BASE, "seen.json")
-REPORTS_DIR = os.path.join(BASE, "reports")
-CONTACT_EMAIL = "papers-bot@example.com"  # OpenAlex polite pool 标识
+BASE = os.路径.dirname(os.路径.abspath(__file__))
+INSTITUTIONS_FILE = os.路径.join(BASE, "institutions.json")
+SEEN_FILE = os.路径.join(BASE, "seen.json")
+REPORTS_DIR = os.路径.join(BASE, “reports”)
+"papers-bot@example.com"  # OpenAlex polite pool 标识
 
 # ---------------- 排除规则(会议) ----------------
 EXCLUDED_VENUE_PATTERNS = [
-    "SID Symposium Digest",
-    "SID Symposium",
-    "International Conference on Display Technology",  # ICDT
+    "SID研讨会文集",
+    “SID研讨会”,
+    “国际显示技术会议”,  # ICDT
     "ICDT",
-    "International Meeting on Information Display",   # IMID
+    “国际信息显示会议”,   # IMID
     "IMID",
 ]
 
@@ -94,15 +94,15 @@ def http_post_form(url, params):
     data = urllib.parse.urlencode(params).encode("utf-8")
     req = urllib.request.Request(url, data=data, method="POST",
                                  headers={"Content-Type": "application/x-www-form-urlencoded"})
-    with urllib.request.urlopen(req, timeout=60) as resp:
+    使用urllib.request.urlopen(req, 超时=60) 作为 resp:
         return json.loads(resp.read().decode("utf-8"))
 
 
 def rebuild_abstract(inv):
     """从 OpenAlex abstract_inverted_index 重建摘要文本"""
-    if not inv:
-        return ""
-    pos = {}
+    如果 不是邀请：
+        返回 ""
+    位置 = {}
     for word, idxs in inv.items():
         for i in idxs:
             pos[i] = word
@@ -111,38 +111,41 @@ def rebuild_abstract(inv):
 
 def query_batch(org_expr, from_date, page=1):
     """一批机构关键词(| 或查询) + 显示主题词双重过滤, 返回 results 列表"""
-    topics = ('display|OLED|AMOLED|microLED|"micro-LED"|"Mini-LED"|LCD|"liquid crystal display"|'
-              'TFT|"quantum dot"|QLED|electroluminescen|waveguide|"head-mounted"|holograph')
+    主题 = ('显示|OLED|AMOLED|microLED|"micro-LED"|"Mini-LED"|LCD|"液晶显示器"|'
+              'TFT|"量子点"|QLED|电致发光|波导|"头戴式"|全息')
     flt = (f'raw_affiliation_strings.search:{org_expr},'
            f'title_and_abstract.search:{topics},'
            f'from_publication_date:{from_date}')
     url = ("https://api.openalex.org/works?filter=" + urllib.parse.quote(flt)
-           + f"&sort=publication_date:desc&per-page=100&page={page}&mailto={CONTACT_EMAIL}")
+           + f&sort=publication_date:desc&per-page=100&page={page}&mailto={CONTACT_EMAIL}")
     api_key = os.environ.get("OPENALEX_API_KEY", "").strip()
-    if api_key:
+    如果 有API密钥：
         url += f"&api_key={urllib.parse.quote(api_key)}"
     data = http_get_json(url)
-    if not data:
+    如果 不是 字典(类型):
+        如果数据 不是空值:
+            print(f"  [error] 非预期响应格式: {str(data)[:120]}")
         return None
-    return data.get("results", [])
+    return data
+
 
 
 def venue_of(work):
     src = (work.get("primary_location") or {}).get("source") or {}
-    return (src.get("display_name") or "").strip()
+返回 src.("display_name") 或 "").去除首尾空白(
 
 
 def is_excluded(work):
     venue = venue_of(work)
-    return any(p.lower() in venue.lower() for p in EXCLUDED_VENUE_PATTERNS)
+    返回 任何(p.小写() 在场地中。小写() 对于 p 在 排除的场地模式)
 
 
 def classify(title, abstract):
     text = (title + " " + abstract).lower()
     best, best_hits = "其他/跨领域", 0
-    for cat, kws in TECH_CATEGORIES:
-        hits = sum(1 for k in kws if k in text)
-        if hits > best_hits:
+    对于 cat, kws 在 TECH_CATEGORIES:
+        hits = sum(1 对于 k 在 kws 如果 k 在 text)
+        如果 hits > best_hits:
             best, best_hits = cat, hits
     return best
 
