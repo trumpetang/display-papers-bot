@@ -1,0 +1,38 @@
+name: Display Papers Daily
+
+on:
+  schedule:
+    - cron: "10 0 * * *"  # 00:10 UTC = 北京时间 08:10 (避开 UTC 午夜额度重置 + GitHub 整点拥堵)
+  workflow_dispatch: {}    # 支持手动触发测试
+
+permissions:
+  contents: write          # 允许回写 seen.json 与 reports/ 日报
+
+concurrency:
+  group: display-papers-daily
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run papers bot
+        env:
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python -u papers.py
+
+      - name: Commit state & reports
+        run: |
+          git config user.name "papers-bot"
+          git config user.email "actions@github.com"
+          git add seen.json reports/ || true
+          if git diff --cached --quiet; then
+            echo "无文件变更, 跳过提交"
+          else
+            git commit -m "daily: $(date -u +%F) papers update"
+            git push
+          fi
