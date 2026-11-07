@@ -1,38 +1,51 @@
-name: Display Papers Daily
-
+name: Display Daily Brief
 on:
   schedule:
-    - cron: "10 0 * * *"  # 00:10 UTC = 北京时间 08:10 (避开 UTC 午夜额度重置 + GitHub 整点拥堵)
-  workflow_dispatch: {}    # 支持手动触发测试
-
+    # 00:00 UTC = 08:00 Asia/Shanghai
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 permissions:
-  contents: write          # 允许回写 seen.json 与 reports/ 日报
-
+  contents: write
 concurrency:
-  group: display-papers-daily
+  group: display-daily-brief
   cancel-in-progress: false
-
 jobs:
-  fetch-and-push:
+  brief:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Run papers bot
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Syntax check
+        run: python -m py_compile brief.py news_digest.py
+      - name: Generate papers + news and send one brief
         env:
-          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
-        run: python -u papers.py
-
-      - name: Commit state & reports
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          BRIEF_TO: ${{ secrets.BRIEF_TO }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python news_digest.py
+      - name: Clean Python cache
+        if: always()
+        run: rm -rf __pycache__
+      - name: Persist state and reports
+        if: always()
         run: |
-          git config user.name "papers-bot"
-          git config user.email "actions@github.com"
-          git add seen.json reports/ || true
-          if git diff --cached --quiet; then
-            echo "无文件变更, 跳过提交"
+          git config user.name "display-brief-bot"
+          git config user.email "display-brief-bot@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
           else
-            git commit -m "daily: $(date -u +%F) papers update"
+            git commit -m "daily: $(date -u +%F) combined brief"
             git push
           fi
