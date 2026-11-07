@@ -124,7 +124,7 @@ llm:
 
 email:
   enabled: true
-  smtp_host: smtp.139.com
+  smtp_host: smtp.qq.com
   smtp_port: 465
   use_ssl: true
   username_env: SMTP_USER
