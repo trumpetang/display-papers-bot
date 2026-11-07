@@ -1,0 +1,139 @@
+# News-only config used by news_digest.py.
+# The existing papers.py remains responsible for papers.
+
+timezone: Asia/Shanghai
+lookback_hours: 36
+max_papers: 0
+max_news: 10
+max_per_source: 2
+max_per_source_papers: 0
+max_per_source_news: 2
+min_paper_score: 3
+min_news_score: 2
+
+user_agent: "DisplayDailyBrief/1.0 (https://github.com/trumpetang/display-papers-bot; mailto:you@example.com)"
+mailto: "you@example.com"
+
+# Papers are handled by papers.py; keep these off.
+arxiv:
+  enabled: false
+openalex:
+  enabled: false
+crossref:
+  enabled: false
+
+rss:
+  - name: OLED-Info
+    url: https://www.oled-info.com/rss.xml
+    kind: news
+    keep_all: true
+  - name: MicroLED-Info
+    url: https://www.microled-info.com/rss.xml
+    kind: news
+    keep_all: true
+  - name: FlatpanelsHD
+    url: https://www.flatpanelshd.com/rss/news.xml
+    kind: news
+    keep_all: false
+  - name: TrendForce
+    url: https://www.trendforce.com/news/feed_v2/
+    kind: news
+    keep_all: false
+  - name: The Elec
+    url: https://www.thelec.kr/rss/allArticle.xml
+    kind: news
+    keep_all: false
+
+google_news:
+  enabled: false
+  hl: en-US
+  gl: US
+  ceid: "US:en"
+  queries:
+    - "OLED display"
+    - "microLED display"
+    - "display panel"
+    - "AR glasses display"
+    - "site:displaydaily.com"
+    - "site:displaysupplychain.com"
+
+keywords:
+  papers: []
+  news:
+    - display panel
+    - panel price
+    - OLED
+    - AMOLED
+    - microLED
+    - micro-LED
+    - miniLED
+    - Mini-LED
+    - LCD
+    - quantum dot
+    - QD-OLED
+    - foldable
+    - foldable phone
+    - foldable display
+    - AR glasses
+    - smart glasses
+    - microdisplay
+    - automotive display
+    - digital signage
+    - e-paper
+    - tablet panel
+    - laptop panel
+    - smartphone panel
+    - TV panel
+    - display driver
+    - DDIC
+    - polarizer
+    - backlight
+    - 显示
+    - 面板
+    - 折叠屏
+    - 柔性显示
+    - 近眼显示
+    - 电子纸
+    - 触控
+    - 驱动芯片
+    - 偏光片
+    - 背光
+    - 蒸镀
+    - 封装
+    - 良率
+    - 디스플레이
+    - 마이크로LED
+    - 미니LED
+    - 폴더블
+    - 패널
+  exclude:
+    - display of power
+    - display advertising
+    - job posting
+    - webinar
+    - podcast
+    - award ceremony
+
+llm:
+  enabled: true
+  base_url: https://api.deepseek.com
+  model: deepseek-chat
+  api_key_env: DEEPSEEK_API_KEY
+  max_items_per_call: 16
+  timeout_seconds: 120
+
+email:
+  enabled: true
+  smtp_host: smtp.qq.com
+  smtp_port: 465
+  use_ssl: true
+  username_env: SMTP_USER
+  password_env: SMTP_PASS
+  from_name: 显示行业日报
+  to_env: BRIEF_TO
+
+push:
+  feishu_webhook_env: FEISHU_WEBHOOK
+
+state_path: state/news_seen.json
+archive_dir: news
