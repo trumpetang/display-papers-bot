@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T05:24:06Z",
+  "digest": {
+    "overview": "今日条目集中在OLED与MicroLED两条技术路线的竞争与产业化进展：MicroLED在可穿戴领域已有商用产品，但功耗与续航仍是短板；OLED方面则出现中国厂商扩产、设备订单、专利挑战与车用认证等多点动态。整体看，产业链上游材料、设备与标准认证的动向比终端产品发布更活跃。",
+    "papers": [],
+    "news": [
+      {
+        "id": "url:ace02fa6643a046b",
+        "kind": "news",
+        "title_zh": "OLED开发者应了解的MicroLED可穿戴设备：新白皮书详述现状与路线图",
+        "summary_zh": "MicroLED产业协会发布白皮书，评估MicroLED可穿戴显示的技术现状、供应链与到2030年的路线图。文中提到2025年9月上市的Garmin Fenix 8 Pro MicroLED画质获好评，但智能手表模式下续航从AMOLED版本的27天降至10天，表壳约厚3毫米。",
+        "why": "为OLED材料与器件开发者提供了MicroLED在可穿戴这一直接竞争市场的对标基准，提示系统集成与功耗仍是MicroLED商用化的关键瓶颈。",
+        "tags": [
+          "MicroLED",
+          "可穿戴",
+          "OLED",
+          "产业白皮书"
+        ]
+      },
+      {
+        "id": "url:82ebf95e7ad6cf77",
+        "kind": "news",
+        "title_zh": "MicroLED产业协会发布MicroLED可穿戴显示白皮书",
+        "summary_zh": "MicroLED产业协会发布白皮书，对智能手表等腕戴设备的MicroLED显示做技术、市场与路线图评估。白皮书指出Garmin Fenix 8 Pro MicroLED的显示功耗约为AMOLED版本的三倍，并将续航差距归因于系统集成差距而非技术本身被否定。",
+        "why": "白皮书将功耗问题定位为系统集成问题，可能引导产业链在驱动、电源管理与封装环节加大投入。",
+        "tags": [
+          "MicroLED",
+          "智能手表",
+          "功耗",
+          "路线图"
+        ]
+      },
+      {
+        "id": "url:61a2fd97e6832434",
+        "kind": "news",
+        "title_zh": "Homways（原Metaways）滁州第二条12英寸OLED微显示产线投产",
+        "summary_zh": "中国OLED微显示厂商Homways（原Metaways）宣布其位于安徽滁州的第二条12英寸OLEDoS产线开始生产，运营主体为子公司安徽宏禧微显示技术，2026年11月6日举行投产仪式。该项目投资20亿元人民币（约3亿美元），覆盖从驱动IC设计、12英寸晶圆加工到OLED蒸镀与模组封装的全链条。",
+        "why": "12英寸OLEDoS产能扩张将增强中国在AR/VR微显示领域的供给能力，并带动驱动IC、蒸镀设备与封装环节需求。",
+        "tags": [
+          "OLEDoS",
+          "微显示",
+          "12英寸",
+          "产能"
+        ]
+      },
+      {
+        "id": "url:83dec9819f1e2e3a",
+        "kind": "news",
+        "title_zh": "三星显示获得两项车用OLED网络安全认证",
+        "summary_zh": "三星显示宣布业内首次同时获得两项汽车网络安全相关国际认证，认证机构为DQS，认证覆盖车用OLED从开发到生产的网络安全风险管理体系。所获认证为ISO/SAE 21434与ENX VCS，授证仪式在龙仁办公大楼举行。",
+        "why": "车用OLED的网络安全合规门槛提高，有助于三星显示在车载显示供应链中建立差异化资质壁垒。",
+        "tags": [
+          "车用OLED",
+          "网络安全",
+          "认证",
+          "三星显示"
+        ]
+      },
+      {
+        "id": "url:c4eaba8ef60b5166",
+        "kind": "news",
+        "title_zh": "中国HKC第六代OLED投资延迟",
+        "summary_zh": "中国显示厂商HKC在四川绵阳推进的第六代OLED产线（H7）设备订单出现延迟，原计划2027年3月搬入蒸镀设备、2028年6月量产，但目前主要设备尚未下单。业界认为OLED市场低迷与技术获取问题叠加，最坏情况下投资可能被取消。",
+        "why": "若投资持续推迟，将影响上游蒸镀等OLED设备厂商的订单节奏，也反映中国新增OLED产能扩张趋于谨慎。",
+        "tags": [
+          "OLED",
+          "第六代",
+          "产能投资",
+          "HKC"
+        ]
+      },
+      {
+        "id": "url:f77440a4dcefbd68",
+        "kind": "news",
+        "title_zh": "带领LGD扭亏的郑哲东：从“救火队长”到副会长？",
+        "summary_zh": "LG Display社长郑哲东下月将迎来就任三周年，其上任后清理中国LCD业务、转向以OLED为核心，带动公司四年来首次年度扭亏。其就任前的2023年营业亏损为2.5102万亿韩元，2024年收窄至5606亿韩元，2025年进一步改善。",
+        "why": "LGD的OLED转型成效得到验证，其管理层变动预期可能影响后续OLED投资与产能策略。",
+        "tags": [
+          "LGD",
+          "OLED",
+          "经营扭亏",
+          "人事"
+        ]
+      },
+      {
+        "id": "url:49233a328e1f2502",
+        "kind": "news",
+        "title_zh": "Global Technologies在深圳举办显示技术研讨会",
+        "summary_zh": "Global Technologies在中国深圳举办“GT Tech Symposium 2026”，面向当地显示厂商与产业伙伴，介绍结合时分驱动（TSO）技术与IC、光学、封装的解决方案，并讨论产品应用与生产销售合作。TCL CSOT、Innolux、ZTE、WG Tech、Nationstar等显示与半导体相关企业参会。",
+        "why": "TSO等驱动方案在中国显示产业链的推广，可能影响LED驱动IC与封装环节的配套选择。",
+        "tags": [
+          "TSO",
+          "LED驱动",
+          "研讨会",
+          "产业链合作"
+        ]
+      },
+      {
+        "id": "url:fcc0679314c8f898",
+        "kind": "news",
+        "title_zh": "吉林OLED在韩请求无效LG化学OLED材料专利，系中国企业首次此类挑战",
+        "summary_zh": "据韩国业界消息，中国吉林OLED材料科技向韩国知识产权审判上诉院请求无效LG化学持有的一项OLED材料专利，这是中国企业首次在韩国对LG化学OLED专利提出无效审判。涉诉专利KR 10-1499356名为“杂环化合物及包含其的有机发光器件”，2013年申请、2015年授权，覆盖以含氮（azine）环为核心的化合物家族，涉及EIL、ETL、HIL、HTL层用途。",
+        "why": "中国材料厂商主动挑战海外OLED材料专利，显示材料环节的知识产权竞争加剧，可能影响OLED材料供应格局。",
+        "tags": [
+          "OLED材料",
+          "专利无效",
+          "LG化学",
+          "知识产权"
+        ]
+      },
+      {
+        "id": "url:f2a5698982f093b3",
+        "kind": "news",
+        "title_zh": "Naintech将为TCL CSOT第8.6代喷墨打印OLED线供应基板传输设备",
+        "summary_zh": "韩国设备厂商Naintech宣布将为TCL CSOT在中国的第8.6代喷墨打印OLED量产线供应基板传输设备，该设备通过LG电子供货，后者于2026年6月与Naintech签署1870万美元设备供应合同。该系统由传输模块、装载锁、缓冲与传送带组成，在真空或氮气环境下于工艺设备间搬运玻璃基板，用于喷墨打印与薄膜封装（TFE）等工序。",
+        "why": "第8.6代喷墨打印OLED产线的设备订单落地，表明印刷OLED量产推进，利好相关传输与封装设备供应链。",
+        "tags": [
+          "喷墨打印OLED",
+          "第8.6代",
+          "设备",
+          "TCL CSOT"
+        ]
+      }
+    ],
+    "trends": [
+      "MicroLED与OLED在可穿戴等终端市场的直接竞争成为关注焦点，功耗与续航是核心比较维度。",
+      "中国OLED产业链持续扩张与调整并存：微显示新产线投产、高世代线设备订单推进，同时部分六代线投资出现延迟。",
+      "OLED材料与设备的供应链竞争加剧，表现为专利无效挑战与设备厂商跨国供货合作增多。"
+    ]
+  },
+  "items": [
+    {
+      "id": "url:ace02fa6643a046b",
+      "kind": "news",
+      "title": "What OLED developers should know about microLED wearables: a new white paper details the status and roadmap",
+      "abstract": "If you are developing OLED displays or materials, it is worth following the progress of microLED - and especially in wearables, the first market in which the two technologies compete directly in a shipping consumer product. A new white paper from the MicroLED Industry Association assesses the status of microLED wearable displays, the supply base and the roadmap to 2030. A summary edition is openly available to download here . For now, OLED is well ahead. Garmin's Fenix 8 Pro MicroLED , launched in September 2025, was praised for its image quality - but according to the white paper, battery life falls from 27 days to 10 days in smartwatch mode compared to the AMOLED version, and the case is roughly 3 mm thicker. Garmin's newer Fenix 9 Pro is, for now, offered with AMOLED displays only .",
+      "url": "https://www.oled-info.com/what-oled-developers-should-know-about-microled-wearables-new-white-paper",
+      "source": "OLED-Info",
+      "published": "2026-11-09T04:30:32Z",
+      "authors": [],
+      "score": 7
+    },
+    {
+      "id": "url:82ebf95e7ad6cf77",
+      "kind": "news",
+      "title": "The MicroLED Industry Association publishes a microLED wearable displays white paper",
+      "abstract": "The MicroLED Industry Association published a new white paper that provides a technology, market and roadmap assessment of microLED displays for smartwatches and other wrist-worn devices. A summary edition of the white paper is openly available to download here . In September 2025, Garmin shipped the Fenix 8 Pro MicroLED, the first commercial consumer product of any kind with a microLED display. Reviewers were near-unanimous that it is the best-looking smartwatch screen ever made, but battery life falls from 27 days to 10 days in smartwatch mode compared to the AMOLED version, and the display draws on the order of three times the power. The white paper argues that this is a system-integration gap, and not a refutation of the technology.",
+      "url": "https://www.microled-info.com/microled-industry-association-publishes-microled-wearable-displays-white-paper",
+      "source": "MicroLED-Info",
+      "published": "2026-11-09T04:00:08Z",
+      "authors": [],
+      "score": 7
+    },
+    {
+      "id": "url:61a2fd97e6832434",
+      "kind": "news",
+      "title": "Homways (formerly Metaways) starts production at its second 12-inch OLED microdisplay fab, in Chuzhou",
+      "abstract": "China-based OLED microdisplay producer Homways (previously Metaways) announced that it has started production at its second 12-inch OLED microdisplay (OLEDoS) production line, in Chuzhou, Anhui province. The line, operated by the company's subsidiary Anhui Hongxi Microdisplay Technology, held its production-start ceremony on November 6, 2026. The Chuzhou project, in the Sino-Singapore Suzhou-Chuzhou High-Tech Zone, is a 2 billion Yuan (around $300 million USD) investment. Homways says that the site covers the whole production chain, from driver IC design and 12-inch wafer processing to OLED deposition and microdisplay module packaging.",
+      "url": "https://www.oled-info.com/homways-formerly-metaways-starts-production-its-second-12-inch-oled",
+      "source": "OLED-Info",
+      "published": "2026-11-09T08:49:12Z",
+      "authors": [],
+      "score": 6
+    },
+    {
+      "id": "url:83dec9819f1e2e3a",
+      "kind": "news",
+      "title": "삼성D, 차량용 OLED 사이버 보안 인증 2종 획득",
+      "abstract": "삼성디스플레이가 업계 최초로 자동차 사이버 보안 관련 국제 인증 2종을 동시에 획득했다. 차량용 유기발광다이오드(OLED)의 개발부터 생산까지 사이버 보안 위험을 관리하는 체계를 인정받았다.삼성디스플레이는 10일 경기 용인 사옥에서 글로벌 인증기관 DQS로부터 'ISO/SAE 21434'와 'ENX VCS' 인증을 받았다고 밝혔다. 수여식에는 유경진 삼성디스플레이 중소형 제품개발팀장(부사장)과 잉고 M. 뤼베나흐 DQS 최고경영자(CEO) 등이 참석했다.ISO/SAE 21434는 자동차의 설계·개발부터 폐기까지 전 생애주기에 걸쳐",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65207",
+      "source": "The Elec",
+      "published": "2026-11-10T14:13:32Z",
+      "authors": [],
+      "score": 4
+    },
+    {
+      "id": "url:c4eaba8ef60b5166",
+      "kind": "news",
+      "title": "中 HKC, 6세대 OLED 투자 지연",
+      "abstract": "중국 디스플레이 업체 HKC의 6세대 유기발광다이오드(OLED) 투자가 당초 계획보다 늦어지고 있다. 업계에서는 OLED 시장 침체와 기술 확보 문제 등이 겹치면서 최악의 경우 투자 자체가 취소될 가능성도 거론된다.9일 업계에 따르면 HKC가 중국 쓰촨성 몐양에 추진하는 6세대 OLED 생산라인(H7)의 장비 발주가 지연되고 있다. 당초 2027년 3월 증착장비 반입, 2028년 6월 양산을 목표로 했지만 현재까지 주요 장비 발주가 이뤄지지 않은 것으로 파악됐다.HKC는 지난 7월 국내 장비업체를 대상으로 원가 검토를 위한 견적 작",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65079",
+      "source": "The Elec",
+      "published": "2026-11-09T18:08:04Z",
+      "authors": [],
+      "score": 4
+    },
+    {
+      "id": "url:f77440a4dcefbd68",
+      "kind": "news",
+      "title": "LGD 적자 끊어낸 정철동…'구원투수'에서 부회장으로?",
+      "abstract": "LG디스플레이의 '구원투수'로 투입된 정철동 사장이 다음 달 취임 3년을 맞는다. 정 사장은 취임 이후 중국 액정표시장치(LCD) 사업을 정리하고 유기발광다이오드(OLED) 중심으로 사업구조를 재편해 4년 만에 연간 흑자 전환을 이끌었다. 이달 말로 예상되는 LG그룹 정기 임원 인사를 앞두고 정 사장의 거취에 업계의 관심이 쏠리고 있다.정 사장이 2023년 12월 취임한 이후 LG디스플레이의 영업손익은 3조원 이상 개선됐다. 취임 직전인 2023년 2조5102억원이던 영업손실은 2024년 5606억원으로 줄었다. 지난해에는 5170",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65149",
+      "source": "The Elec",
+      "published": "2026-11-10T13:54:56Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:49233a328e1f2502",
+      "kind": "news",
+      "title": "글로벌테크놀로지, 중국서 디스플레이 기술 심포지엄 개최",
+      "abstract": "글로벌테크놀로지가 중국 선전에서 현지 디스플레이 업체와 산업 파트너를 대상으로 기술 심포지엄을 열었다. 시분할 구동(TSO) 기술과 IC, 광학, 패키지를 결합한 솔루션을 소개하고 제품 적용과 생산·판매 협력 방안을 논의했다.글로벌테크놀로지는 최근 중국 선전에서 'GT 테크 심포지엄 2026'을 개최했다고 9일 밝혔다. 행사에는 TCL CSOT와 이노룩스, ZTE, WG 테크, 네이션스타 등 디스플레이·반도체 관련 업체들이 참석했다.TSO는 하나의 발광다이오드(LED) 구동 채널을 시간차로 나눠 여러 LED를 구동하는 기술이다. 구",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65115",
+      "source": "The Elec",
+      "published": "2026-11-09T16:08:04Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:fcc0679314c8f898",
+      "kind": "news",
+      "title": "Jilin OLED files to invalidate an LG Chem OLED material patent in Korea, the first such challenge by a Chinese company",
+      "abstract": "According to industry sources in Korea, China's Jilin OLED Material Tech asked Korea's Intellectual Property Trial and Appeal Board (IPTAB) to invalidate an OLED material patent owned by LG Chem . This is the first time that a Chinese company has filed an invalidation trial against one of LG Chem's OLED patents in Korea. The request was filed in November 2025, and in late October 2026 the tribunal notified both companies of the date set for an oral hearing. The patent, KR 10-1499356 , is titled \"Hetero-cyclic compound and organic light emitting device comprising the same\". LG Chem filed it in 2013, and it was granted in 2015. It covers a family of compounds built around a nitrogen-containing (azine) ring, a common building block of electron transport materials, and it lists uses in the electron injection (EIL), electron transport (ETL), hole injection (HIL) and hole transport (HTL) layers, as well as a host in the emitting layer. LG Chem was also granted patents on the same invention in China, Japan and Europe.",
+      "url": "https://www.oled-info.com/jilin-oled-files-invalidate-lg-chem-oled-material-patent-korea-first-such",
+      "source": "OLED-Info",
+      "published": "2026-11-09T09:00:07Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:f2a5698982f093b3",
+      "kind": "news",
+      "title": "Naintech to supply substrate transfer equipment for TCL CSOT's 8.6-Gen inkjet printed OLED line",
+      "abstract": "Korea-based equipment maker Naintech announced that it will supply substrate transfer equipment for TCL CSOT 's 8.6-Gen inkjet printed OLED mass production line in China. The equipment is supplied through LG Electronics, which signed a $18.7 million equipment supply contract with Naintech in June 2026. Naintech's system is a material handling system made of transfer modules, load locks, buffers and conveyors. It moves the glass substrates between process tools (or holds them briefly) while keeping them under vacuum or a nitrogen atmosphere, and it is used in several OLED process steps, including inkjet printing and thin-film encapsulation (TFE).",
+      "url": "https://www.oled-info.com/naintech-supply-substrate-transfer-equipment-tcl-csots-86-gen-inkjet-printed",
+      "source": "OLED-Info",
+      "published": "2026-11-09T04:00:08Z",
+      "authors": [],
+      "score": 3
+    }
+  ],
+  "errors": [],
+  "plain": "显示行业日报 | 2026-11-10\n今日 2 篇论文 · 9 条新闻\n\n【论文日报】\n\n# 显示面板论文日报 2026-11-10\n\n- 检索机构关键词: 88 个 | 时间窗口: 2026-11-07 ~ 2026-11-10 | 新增论文: 2 篇\n\n## 一般 [Influence of Extra-framework Cations on SO2 Adsorption and Fluorescence Detection in SSZ-13 Zeolites](https://doi.org/10.1021/acsmaterialslett.6c00618)\n- 作者: Valeria B. López‐Cervantes, Daisong Chen, Yoarhy A. Amador‐Sánchez\n- 期刊: ACS Materials Letters | 发表: 2026-11-07\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Herein, SSZ-13 zeolites exchanged with Na+-, K+-, and Ce3+ were investigated to determine how cation identity regulates sulfur dioxide adsorption (SO2) and optical response. The three materials exhibited reversible SO2 adsorption, with similar capacities of 5.48–5.59 mmol g–1 at 25 °C and 1…\n\n## 一般 [Nanofluid wetting of Cu enables thin lithium negative electrodes for high-energy and long-cycling lithium metal batteries](https://doi.org/10.1038/s41467-026-79376-x)\n- 作者: Wei Tao Wu, Qilong Wu, Wenting Liu\n- 期刊: Nature Communications | 发表: 2026-11-07\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Exploiting thin Li foils ≤ 20 μm is required for high-energy-density and long-cycling-lifespan battery, but is severely hindered by the poor processability of Li, as well as its inhomogeneous plating behaviors and resulting low Coulombic efficiency. Herein, an approach balancing Li supply a…\n\n【行业新闻】\n\n显示行业日报 | 2026-11-10\n今日 2 篇论文 · 9 条新闻\n\n今日条目集中在OLED与MicroLED两条技术路线的竞争与产业化进展：MicroLED在可穿戴领域已有商用产品，但功耗与续航仍是短板；OLED方面则出现中国厂商扩产、设备订单、专利挑战与车用认证等多点动态。整体看，产业链上游材料、设备与标准认证的动向比终端产品发布更活跃。\n\n行业新闻\n\n1. OLED开发者应了解的MicroLED可穿戴设备：新白皮书详述现状与路线图\n   OLED-Info · 2026-11-09\n   MicroLED产业协会发布白皮书，评估MicroLED可穿戴显示的技术现状、供应链与到2030年的路线图。文中提到2025年9月上市的Garmin Fenix 8 Pro MicroLED画质获好评，但智能手表模式下续航从AMOLED版本的27天降至10天，表壳约厚3毫米。\n   https://www.oled-info.com/what-oled-developers-should-know-about-microled-wearables-new-white-paper\n\n2. MicroLED产业协会发布MicroLED可穿戴显示白皮书\n   MicroLED-Info · 2026-11-09\n   MicroLED产业协会发布白皮书，对智能手表等腕戴设备的MicroLED显示做技术、市场与路线图评估。白皮书指出Garmin Fenix 8 Pro MicroLED的显示功耗约为AMOLED版本的三倍，并将续航差距归因于系统集成差距而非技术本身被否定。\n   https://www.microled-info.com/microled-industry-association-publishes-microled-wearable-displays-white-paper\n\n3. Homways（原Metaways）滁州第二条12英寸OLED微显示产线投产\n   OLED-Info · 2026-11-09\n   中国OLED微显示厂商Homways（原Metaways）宣布其位于安徽滁州的第二条12英寸OLEDoS产线开始生产，运营主体为子公司安徽宏禧微显示技术，2026年11月6日举行投产仪式。该项目投资20亿元人民币（约3亿美元），覆盖从驱动IC设计、12英寸晶圆加工到OLED蒸镀与模组封装的全链条。\n   https://www.oled-info.com/homways-formerly-metaways-starts-production-its-second-12-inch-oled\n\n4. 三星显示获得两项车用OLED网络安全认证\n   The Elec · 2026-11-10\n   三星显示宣布业内首次同时获得两项汽车网络安全相关国际认证，认证机构为DQS，认证覆盖车用OLED从开发到生产的网络安全风险管理体系。所获认证为ISO/SAE 21434与ENX VCS，授证仪式在龙仁办公大楼举行。\n   https://www.thelec.kr/news/articleView.html?idxno=65207\n\n5. 中国HKC第六代OLED投资延迟\n   The Elec · 2026-11-09\n   中国显示厂商HKC在四川绵阳推进的第六代OLED产线（H7）设备订单出现延迟，原计划2027年3月搬入蒸镀设备、2028年6月量产，但目前主要设备尚未下单。业界认为OLED市场低迷与技术获取问题叠加，最坏情况下投资可能被取消。\n   https://www.thelec.kr/news/articleView.html?idxno=65079\n\n6. 带领LGD扭亏的郑哲东：从“救火队长”到副会长？\n   The Elec · 2026-11-10\n   LG Display社长郑哲东下月将迎来就任三周年，其上任后清理中国LCD业务、转向以OLED为核心，带动公司四年来首次年度扭亏。其就任前的2023年营业亏损为2.5102万亿韩元，2024年收窄至5606亿韩元，2025年进一步改善。\n   https://www.thelec.kr/news/articleView.html?idxno=65149\n\n7. Global Technologies在深圳举办显示技术研讨会\n   The Elec · 2026-11-09\n   Global Technologies在中国深圳举办“GT Tech Symposium 2026”，面向当地显示厂商与产业伙伴，介绍结合时分驱动（TSO）技术与IC、光学、封装的解决方案，并讨论产品应用与生产销售合作。TCL CSOT、Innolux、ZTE、WG Tech、Nationstar等显示与半导体相关企业参会。\n   https://www.thelec.kr/news/articleView.html?idxno=65115\n\n8. 吉林OLED在韩请求无效LG化学OLED材料专利，系中国企业首次此类挑战\n   OLED-Info · 2026-11-09\n   据韩国业界消息，中国吉林OLED材料科技向韩国知识产权审判上诉院请求无效LG化学持有的一项OLED材料专利，这是中国企业首次在韩国对LG化学OLED专利提出无效审判。涉诉专利KR 10-1499356名为“杂环化合物及包含其的有机发光器件”，2013年申请、2015年授权，覆盖以含氮（azine）环为核心的化合物家族，涉及EIL、ETL、HIL、HTL层用途。\n   https://www.oled-info.com/jilin-oled-files-invalidate-lg-chem-oled-material-patent-korea-first-such\n\n9. Naintech将为TCL CSOT第8.6代喷墨打印OLED线供应基板传输设备\n   OLED-Info · 2026-11-09\n   韩国设备厂商Naintech宣布将为TCL CSOT在中国的第8.6代喷墨打印OLED量产线供应基板传输设备，该设备通过LG电子供货，后者于2026年6月与Naintech签署1870万美元设备供应合同。该系统由传输模块、装载锁、缓冲与传送带组成，在真空或氮气环境下于工艺设备间搬运玻璃基板，用于喷墨打印与薄膜封装（TFE）等工序。\n   https://www.oled-info.com/naintech-supply-substrate-transfer-equipment-tcl-csots-86-gen-inkjet-printed\n"
+}
