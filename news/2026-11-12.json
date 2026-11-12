@@ -1,0 +1,203 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T05:02:18Z",
+  "digest": {
+    "overview": "今日条目集中在OLED与microLED两条主线：OLED方面涵盖发光材料（TADF、磷光）、器件寿命提升、无FMM像素图案化技术以及面板价格与产能投资；microLED方面则体现为Kopin研发收入驱动的营收增长和大型交互显示墙的落地案例。整体看，材料/器件效率与寿命优化、以及面向大尺寸与高附加值应用的产能与产品布局是今日信息的主要落点。",
+    "papers": [],
+    "news": [
+      {
+        "id": "url:667e187cce218200",
+        "kind": "news",
+        "title_zh": "Kopin 2026年第三季度营收增长52%，受资助的microLED开发项目驱动",
+        "summary_zh": "美国microdisplay开发商Kopin公布2026年第三季度业绩，营收同比增长52%至1820万美元，营业亏损收窄至50万美元（2026年第二季度为350万美元）。增长主要来自受资助的开发项目而非产品销售，产品收入从上年同期的1070万美元降至880万美元，研发收入从120万美元增至570万美元，并计入310万美元美国政府彩色microLED项目资助收入。",
+        "why": "显示microLED产业化仍处研发与政府资助驱动阶段，短期营收结构对产品放量的依赖度有限。",
+        "tags": [
+          "microLED",
+          "财务业绩",
+          "研发投入"
+        ]
+      },
+      {
+        "id": "url:eb9dba21f3fcdf21",
+        "kind": "news",
+        "title_zh": "Logic Integration在旧金山一家AI工作室安装50英尺LiDAR触控交互microLED墙",
+        "summary_zh": "丹佛AV集成商Logic Integration在旧金山一家全球技术咨询公司的“Interactive AI Studio”安装了15.1×2.4米、12000×1890像素的交互microLED视频墙，环绕房间两个转角，借助LiDAR触控系统实现整墙触屏。该显示由175个Planar DirectLight Pro 1.2mm箱体（25×7）构成，箱体带45度斜边以支持转角拼接。",
+        "why": "fine-pitch microLED在高端商用交互场景落地，利好箱体、拼接与触控集成环节。",
+        "tags": [
+          "microLED",
+          "交互显示",
+          "商用显示"
+        ]
+      },
+      {
+        "id": "url:36023098a0b80212",
+        "kind": "news",
+        "title_zh": "三星正式启动忠清圈144万亿韩元投资……扩建HBM、OLED、半导体基板",
+        "summary_zh": "三星在忠清圈投资总计144万亿韩元扩建半导体、显示、基板与电池生产设施，并在温阳园区举行“忠清圈大型项目开工仪式”，总统李在明与三星电子会长李在镕出席。各子公司中长期投资计划为三星电子60万亿韩元、三星显示67万亿韩元、三星电机8万亿韩元、三星SDI 9万亿韩元，用于先进封装、OLED面板、AI服务器封装基板与电池产线。",
+        "why": "OLED面板与先进封装产能同步扩张，将强化韩国在中小尺寸OLED及AI相关基板供应链的地位。",
+        "tags": [
+          "OLED",
+          "产能投资",
+          "半导体封装"
+        ]
+      },
+      {
+        "id": "url:9af4f9329cc27ba3",
+        "kind": "news",
+        "title_zh": "三星显示与LG显示计划明年上调显示器OLED价格",
+        "summary_zh": "据市场调查机构SigmaIntel 11日消息，三星显示与LG显示计划在2027年上调显示器用OLED面板价格，并因材料成本负担加大而下调了明年OLED显示器面板出货目标。OLED显示器面板目前主要由三星显示与LG显示供应扩张。",
+        "why": "面板涨价与出货目标下调并存，可能推高下游显示器整机成本并影响OLED显示器渗透节奏。",
+        "tags": [
+          "OLED",
+          "面板价格",
+          "显示器"
+        ]
+      },
+      {
+        "id": "url:dfc447f20f19b521",
+        "kind": "news",
+        "title_zh": "三星研究院与韩巴大学合作通过调控电子阻挡层表面电势延长OLED寿命",
+        "summary_zh": "韩国韩巴国立大学与三星先进技术研究院（SAIT）合作，通过优化电子阻挡层（EBL）的负“巨表面电势”（GSP）来降低效率损失并延长器件寿命。采用优化GSP的EBL后，器件LT95寿命从约29小时提升至35小时，提升约20%；研究指出真空沉积的极性有机分子定向排列会在界面产生电荷，过量空穴与激子相互作用引发激子-极化子猝灭。",
+        "why": "为OLED寿命与效率损失机理提供界面电势调控路径，对材料与器件结构设计有直接参考价值。",
+        "tags": [
+          "OLED",
+          "器件寿命",
+          "界面工程"
+        ]
+      },
+      {
+        "id": "url:dd6e5f54d6d23d3b",
+        "kind": "news",
+        "title_zh": "研究人员设计柔性无金属TADF分子，实现高效橙至红OLED",
+        "summary_zh": "日本大阪大学联合波兰、丹麦与英国合作者开发出基于空间电荷转移（TSCT）的无金属橙至红TADF发光体，与以往长波长TSCT发光体不同，新分子具有柔性、无需刚性结构锁定。所制OLED器件发光波长598–624 nm，外量子效率最高达14.9%，在较宽亮度范围内效率滚降有限。",
+        "why": "柔性无金属长波长TADF为橙红光OLED提供新分子设计思路，有助于降低对贵金属的依赖。",
+        "tags": [
+          "OLED",
+          "TADF",
+          "发光材料"
+        ]
+      },
+      {
+        "id": "url:e418608d6719b0bb",
+        "kind": "news",
+        "title_zh": "LG显示首次内部公开下一代OLED技术“FLiPP”",
+        "summary_zh": "LG显示在11日至13日于坡州事业场举行的技术研讨会“Tech X”上，首次向全体员工公开下一代OLED像素图案化技术FLiPP（FMM-Less innovative Pixel Patterning）。FLiPP是在OLED像素形成过程中不使用FMM的图案化技术，活动上公司还分享了技术开发方向与未来OLED技术路线图。",
+        "why": "无FMM图案化若成熟，可能影响OLED像素制程与掩膜材料供应链格局。",
+        "tags": [
+          "OLED",
+          "图案化",
+          "制程技术"
+        ]
+      },
+      {
+        "id": "url:f8f131e3a88b0300",
+        "kind": "news",
+        "title_zh": "OLED发光体系统第二部分：磷光——100%效率，仍在等待蓝光",
+        "summary_zh": "该文是OLED发光体技术六篇系列指南的第二篇，聚焦磷光（PHOLED）发光体，介绍其工作原理、激子利用方式、采用该技术的面板以及路线图走向。文章指出磷光可实现100%效率，但蓝光磷光仍是待解难题。",
+        "why": "梳理磷光发光体技术现状与蓝光瓶颈，为OLED材料路线判断提供参考框架。",
+        "tags": [
+          "OLED",
+          "磷光",
+          "发光材料"
+        ]
+      }
+    ],
+    "trends": [
+      "OLED材料与器件优化是今日主线，涉及TADF发光体、磷光发光体以及电子阻挡层界面电势调控等方向。",
+      "OLED制程与供应链动态密集，包括无FMM的FLiPP图案化技术、显示器OLED面板涨价计划与三星显示的大规模产能投资。",
+      "microLED同时出现在研发资助驱动的营收增长与商用大尺寸交互显示落地两类信息中，显示其产业化仍处推进阶段。"
+    ]
+  },
+  "items": [
+    {
+      "id": "url:667e187cce218200",
+      "kind": "news",
+      "title": "Kopin's revenues grow 52% in Q3 2026, driven by funded microLED development programs",
+      "abstract": "US-based microdisplay developer Kopin reported its financial results for Q3 2026. Revenue grew 52% from Q3 2025 to $18.2 million, and the company's operating loss narrowed to $0.5 million (from $3.5 million in Q2 2026). The net loss was $3.4 million, which includes about $2.7 million of mostly non-cash losses on Kopin's strategic equity investments. The growth came from Kopin's funded development programs, not from product sales. Product revenue actually declined to $8.8 million, from $10.7 million a year ago. R&D revenue grew to $5.7 million (from $1.2 million), mainly thanks to the joint development program with Fabric.AI, and Kopin booked $3.1 million in grant income from its US government color microLED award.",
+      "url": "https://www.microled-info.com/kopins-revenues-grow-52-q3-2026-driven-funded-microled-development-programs",
+      "source": "MicroLED-Info",
+      "published": "2026-11-11T08:00:07Z",
+      "authors": [],
+      "score": 7
+    },
+    {
+      "id": "url:eb9dba21f3fcdf21",
+      "kind": "news",
+      "title": "Logic Integration installs a 50-foot interactive microLED wall with LiDAR touch at an AI studio in San Francisco",
+      "abstract": "Denver-based AV integrator Logic Integration has installed a large interactive microLED video wall (or room, really) at the \"Interactive AI Studio\" of a global technology consulting firm in San Francisco. The 15.1 x 2.4 meters display has a resolution of 12,000 x 1,890 pixels and wraps around two corners of the room. Visitors can use the entire wall as a touchscreen, thanks to a LiDAR-based touch system. The display is made from 175 cabinets (25 x 7) of Planar's 1.2 mm DirectLight Pro model. Planar, which China's Leyard acquired in 2015, markets the DirectLight Pro Series as fine-pitch microLED video walls, with pixel pitches from 0.9 to 1.8 mm. The cabinets have 45-degree beveled edges, which allow a video wall to turn a corner. The consulting firm uses the space to show AI applications to its visiting clients, with demos selected for each client and an interface created by a custom UX/UI designer.",
+      "url": "https://www.microled-info.com/logic-integration-installs-50-foot-interactive-microled-wall-lidar-touch-ai",
+      "source": "MicroLED-Info",
+      "published": "2026-11-11T05:33:56Z",
+      "authors": [],
+      "score": 6
+    },
+    {
+      "id": "url:36023098a0b80212",
+      "kind": "news",
+      "title": "삼성, 충청권 144조 투자 본격화…HBM·OLED·반도체 기판 증설",
+      "abstract": "삼성이 충청권에 총 144조원을 투자해 반도체와 디스플레이, 기판, 배터리 생산시설을 확충한다.삼성전자는 12일 온양캠퍼스에서 '충청권 메가프로젝트 착공식'을 열고 주요 계열사의 투자 계획과 추진 현황을 공개했다. 이재명 대통령과 이재용 삼성전자 회장이 참석했다.계열사별 중장기 투자 계획은 삼성전자 60조원, 삼성디스플레이 67조원, 삼성전기 8조원, 삼성SDI 9조원이다. 반도체 첨단 패키징과 유기발광다이오드(OLED) 패널, AI 서버용 패키지 기판, 배터리 생산시설을 짓는 데 쓴다.이날 착공식은 삼성전자 온양 첨단 패키징 팹과",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65339",
+      "source": "The Elec",
+      "published": "2026-11-12T12:31:22Z",
+      "authors": [],
+      "score": 5
+    },
+    {
+      "id": "url:9af4f9329cc27ba3",
+      "kind": "news",
+      "title": "\"삼성D·LGD, 내년 모니터 OLED 가격 인상\"",
+      "abstract": "삼성디스플레이와 LG디스플레이가 내년 모니터용 유기발광다이오드(OLED) 패널 가격 인상을 계획하고 있는 것으로 전해졌다. 양사는 가격 인상에 따른 수요 위축 가능성을 고려해 내년 OLED 모니터 패널 출하 목표도 당초 계획보다 낮춰 잡은 것으로 분석됐다.시장조사업체 시그마인텔은 11일 \"삼성디스플레이와 LG디스플레이가 2027년 OLED 모니터 패널 가격 인상을 계획하고 있다\"며 \"재료비 부담이 커져 양사가 내년 OLED 모니터 패널 출하 목표를 하향 조정했다\"고 밝혔다.OLED 모니터는 삼성디스플레이와 LG디스플레이가 공급 확대",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65272",
+      "source": "The Elec",
+      "published": "2026-11-11T16:27:39Z",
+      "authors": [],
+      "score": 5
+    },
+    {
+      "id": "url:dfc447f20f19b521",
+      "kind": "news",
+      "title": "Samsung researchers and colleagues from Hanbat National University extend OLED lifetime by tuning the surface potential of the electron-blocking layer",
+      "abstract": "Researchers from Korea's Hanbat National University, together with colleagues from the Samsung Advanced Institute of Technology (SAIT), have shown that tuning the electrical surface potential of a thin layer inside an OLED can reduce efficiency losses and extend the device lifetime. Using an electron-blocking layer (EBL) with an optimized negative \"giant surface potential\" (GSP), the researchers extended the device's LT95 lifetime by about 20%, from around 29 hours to 35 hours. When polar organic molecules are deposited in vacuum, they tend to align in a preferred direction, and the film builds up a giant surface potential. This creates charges at the interfaces between the layers, which can pull holes toward the emitting layer. These excess holes interact with the excitons and destroy them before they emit light, a loss mechanism called exciton-polaron quenching, which lowers both the efficiency and the lifetime of the device.",
+      "url": "https://www.oled-info.com/korean-researchers-extend-oled-lifetime-tuning-surface-potential-electron",
+      "source": "OLED-Info",
+      "published": "2026-11-11T20:00:04Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:dd6e5f54d6d23d3b",
+      "kind": "news",
+      "title": "Researchers design flexible, metal-free TADF molecules for efficient orange-to-red OLEDs",
+      "abstract": "Researchers from Japan's University of Osaka, working with partners in Poland, Denmark and the UK, have developed metal-free orange-to-red TADF emitters that use through-space charge transfer (TSCT). Unlike earlier long-wavelength TSCT emitters, the new molecules are flexible and do not need a rigid structure to hold them in shape. OLED devices made with the new emitters glow at 598–624 nm and reach an external quantum efficiency (EQE) of up to 14.9%, with limited efficiency roll-off over a broad brightness range. In a TSCT emitter, the electron-donating and electron-accepting parts of the molecule face each other across a small gap, and the charge moves between them through space rather than through the chemical bonds. To control this coupling, especially for long-wavelength emission, TSCT-TADF emitters are usually built as rigid, \"locked\" structures that hold the donor and the acceptor face to face. The Osaka team took a different approach, and designed an S-shaped molecule in which two phenoxazine donors are attached to a central dibenzo[a,j]phenazine acceptor through rotatable xanthene linkers.",
+      "url": "https://www.oled-info.com/researchers-design-flexible-metal-free-tadf-molecules-efficient-orange-red",
+      "source": "OLED-Info",
+      "published": "2026-11-11T14:00:04Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:e418608d6719b0bb",
+      "kind": "news",
+      "title": "LGD, 차세대 OLED 기술 'FLiPP' 사내 첫 공개",
+      "abstract": "LG디스플레이가 차세대 유기발광다이오드(OLED) 패터닝 기술 플립(FLiPP: FMM-Less innovative Pixel Patterning)을 전사 임직원에게 처음 공개했다. LG디스플레이는 11일부터 13일까지 파주 사업장을 중심으로 기술 워크숍 '테크 X'를 열고 FLiPP 기술을 소개·전시한다고 밝혔다.FLiPP은 OLED 화소를 형성하는 과정에서 FMM을 사용하지 않는 패터닝 기술이다. LG디스플레이는 전시를 통해 기술의 개발 방향과 향후 OLED 기술 로드맵을 임직원들과 공유했다.행사에서는 LG디스플레이가 위닝 테크",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65314",
+      "source": "The Elec",
+      "published": "2026-11-12T10:00:00Z",
+      "authors": [],
+      "score": 4
+    },
+    {
+      "id": "url:f8f131e3a88b0300",
+      "kind": "news",
+      "title": "OLED Emitter Systems, Part 2: Phosphorescence - 100% efficiency, still waiting on blue",
+      "abstract": "The OLED emitter is the material at the heart of every pixel, the organic molecule that actually turns electricity into light. Everything else in the stack exists to deliver charge to it. The emitter is a key part in determining the display's color, efficiency and lifetime. This article is the second in a six-part series that offers a practical guide to the OLED emitter technologies of today, and of the future. Across the parts we explain how each one works, how it harvests (or wastes) the excitons that carry the energy, which panels use it, and where its roadmap is heading. The journey runs through the emitter generations in the order the industry numbered them — though, as we will see, not the order in which the market actually adopted them: Part 1: Fluorescence, the first generation, and still the blue in every OLED panel shipping today Part 2: Phosphorescence (PHOLED) , iridium chemistry, red and green since 2003, and the blue that is always two years away (this article) Part 3: TADF, the generation that was leapfrogged, and found a second life as a sensitizer Part 4: Sensitized fluorescence, Hyperfluorescence, pTSF and PSF Part 5: Polymer and solution-processed OLEDs, printing the emitter instead of evaporating it Part 6: Emerging emitters and the roadmap, radicals, carbene-metal-amides, and narrowband platinum",
+      "url": "https://www.oled-info.com/oled-emitter-systems-part-2-phosphorescence-100-efficiency-still-waiting-blue",
+      "source": "OLED-Info",
+      "published": "2026-11-11T04:00:05Z",
+      "authors": [],
+      "score": 3
+    }
+  ],
+  "errors": [],
+  "plain": "显示行业日报 | 2026-11-12\n今日 20 篇论文 · 8 条新闻\n\n【论文日报】\n\n# 显示面板论文日报 2026-11-12\n\n- 检索机构关键词: 88 个 | 时间窗口: 2026-11-09 ~ 2026-11-12 | 新增论文: 20 篇\n\n## 一般 [Activating Hidden Magnons With Anomalous Rotational Symmetry](https://doi.org/10.1002/advs.78597)\n- 作者: Dirk Wulferding, F. Gabriele, Wojciech Brzezicki\n- 期刊: Advanced Science | 发表: 2026-11-09\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: ABSTRACT Correlated materials with competing spin–orbit and crystal‐field interactions can host composite spin–orbital magnons that are highly susceptible to structural and electronic perturbations, enabling the control of magnetic dynamics beyond spin‐only physics. Using Raman spectroscopy on , we …\n\n## 一般 [FERONIA Limits Jasmonic Acid Overaccumulation and Oxidative Stress to Enable Plant Survival Under Sustained Elevated Temperature](https://doi.org/10.1111/pce.71033)\n- 作者: Jeonghyang Park, Jinwoo Park, Geonhee Hwang\n- 期刊: Plant Cell & Environment | 发表: 2026-11-09\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: Plants, as sessile organisms, must continually adapt to fluctuating temperatures to ensure survival. The plasma membrane-localized receptor-like kinase FERONIA (FER) coordinates diverse physiological processes and responses to various biotic and abiotic stresses. However, the role of FER in plant ad…\n\n## 一般 [Functional conservation of insecticide resistance-associated AChE1 mutations in the AChE2 paralog](https://doi.org/10.1016/j.pestbp.2026.107413)\n- 作者: Jong Hyeok Lee, Si Hyeock Lee, Kyungjae Andrew Yoon\n- 期刊: Pesticide Biochemistry and Physiology | 发表: 2026-11-09\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Opportunistic at-sea associations and within-pair foraging behavior of Chinstrap penguins](https://doi.org/10.1007/s00300-026-03562-2)\n- 作者: Hyunjae Chung, 노희진, Sehyeok Im\n- 期刊: Polar Biology | 发表: 2026-11-09\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Successive High‐Output Synthesis of Cu Nanowire Ink for 3D Sonication Printing of Large‐Size Transparent Flexible Touch Screen Sheet](https://doi.org/10.1002/smll.76647)\n- 作者: Shini Yang, Caiyu Liu, Maowei Yang\n- 期刊: Small | 发表: 2026-11-09\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: ABSTRACT Flexible transparent conductive film is essential in modern optoelectronic applications. However, how to obtain high‐output and high‐quality transparent conductive electrode (TCE) materials at low cost still remains challenging. This study demonstrates a successive synthesis system based on…\n\n## 一般 [Beyond bandgap tunability: controlling quantum-dot solids for efficient solar cells](https://doi.org/10.20517/energymater.2026.259)\n- 作者: Muhammad Irfan Ullah, Chunhui Duan\n- 期刊: Energy Materials | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Chiral isolation and absolute configuration of (+)- and (−)-desyunnane A and melissifoliane B, two homogentisic acid derivatives from Desmos yunnanensis](https://doi.org/10.1080/14786419.2026.2759277)\n- 作者: Tiantian Wang, Yaping Guo, Tingliang Liu\n- 期刊: Natural Product Research | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: A previously unreported homogentisic acid derivative (1, desyunnane A) and a known analogue (2, melissifoliane B) were isolated from the branches and leaves of Desmos yunnanensis. Their structures were determined by NMR analysis combined with quantum chemical calculations. Melissifoliane B displayed…\n\n## 一般 [Correction: Application of digital-intelligent technologies in physical education: a systematic review](https://doi.org/10.3389/fpubh.2026.2006403)\n- 作者: Qiying Zhong, Jiajun Jiang, Wenting Bai\n- 期刊: Frontiers in Public Health | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: The convergence of digital technologies and artificial intelligence has led to the emergence of \"digital-intelligent integration, \" a key trend in the evolution of educational technologies that has driven significant transformations in education systems (1). In this context, educational paradigms sh…\n\n## 一般 [Editorial: Investigating affective polarization: implications for political behavior and democratic institutions](https://doi.org/10.3389/fpos.2026.2012774)\n- 作者: Danilo Serani, Roula Nezi, Rongbo Jin\n- 期刊: Frontiers in Political Science | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Affective polarization has become a central concern in the study of contemporary democracy because political disagreement increasingly extends into social and emotional relations. Yet polarization is neither a unitary phenomenon nor an automatically anti-democratic one. Strong identities can mobiliz…\n\n## 一般 [Effect of Competency-Oriented Multimodal Training on Standardized Patient Performance: A Prospective, Assessor-Blinded, Randomized Controlled Mixed-Methods Study](https://doi.org/10.21203/rs.3.rs-11394618/v1)\n- 作者: MingYue Zhou, 张亚文, Qian Chen\n- 期刊: Research Square | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Background Standardized patients (SPs) support clinical teaching and assessment, but their value depends on authentic, accurate, and consistent performance and effective feedback. This mixed-methods research plan compares competency-oriented multimodal training (Combi-SP) with conventional …\n\n## 一般 [Emerging Perovskite Quantum Dots for Optoelectronic Sensing–Memory–Computing Neuromorphic Systems](https://doi.org/10.1088/2631-7990/aec058)\n- 作者: Yang Li, Chen Cao, Jiarui Hua\n- 期刊: International Journal of Extreme Manufacturing | 发表: 2026-11-10\n- 技术分类: QLED/QD | 机构类别: \n- 摘要: Abstract With the explosive development of artificial intelligence (AI), unprecedented demands have been imposed on modern computing hardware. Conventional von Neumann architectures suffer from inherent data throughput and energy efficiency bottlenecks due to physical isolation between computation a…\n\n## 一般 [One Health phylogenomics of antibiotic-resistant Salmonella enterica reveals cross-source relatedness and detection of mcr-3 -carrying ST34 isolates in Hong Kong](https://doi.org/10.1080/22221751.2026.2761740)\n- 作者: Tsz Tuen Li, Wing Ho Li, Wai Man Tong\n- 期刊: Emerging Microbes & Infections | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Nontyphoidal Salmonella enterica serovars are a major driver of foodborne illnesses in Hong Kong. Beyond well-recognized extended spectrum beta-lactamase (ESBL)- and carbapenemase-producing strains, colistin resistance remains a critical concern for treating severe multidrug-resistant (MDR) infectio…\n\n## 一般 [Programmable multistable structures via bioinspired, mechanically guided 4D printing](https://doi.org/10.1073/pnas.2614289123)\n- 作者: Yan Zhao, Hanlin Zhu, Yifeng He\n- 期刊: Proceedings of the National Academy of Sciences | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Multistable structures, characterized by rapid shape morphing, instantaneous force amplification, and zero standby power, are pivotal for soft robotics and energy harvesting. However, achieving multistability while systematically controlling the accessible deformation modes remains a significant cha…\n\n## 一般 [RankCloak conceals the surface form of synthetic cryptographic artifacts in language model generated text](https://doi.org/10.1038/s41598-026-78891-7)\n- 作者: Alexander V. Mantzaris\n- 期刊: Scientific Reports | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Cryptographic artifacts such as hashes, nonces, identifiers, and ciphertexts are conspicuous when transmitted in their usual textual forms. RankCloak conceals this recognizable form by encoding each synthetic artifact through language model token choices, producing cover text that does not directly …\n\n## 一般 [Singlet-doublet transitions and Josephson currents in a superconducting ring with a quantum dot](https://doi.org/10.1088/1361-648x/aec07e)\n- 作者: Guo-Hui Ding, Fei Ye, Bing Dong\n- 期刊: Journal of Physics Condensed Matter | 发表: 2026-11-10\n- 技术分类: QLED/QD | 机构类别: \n- 摘要: Abstract We investigate the ground state properties of a superconducting ring embedded with a quantum dot (QD) by using a variational wave-function approach. A theoretical formulation for the treatment of the finite-U Anderson impurity coupled with a superconducting ring are presented. We demonstrat…\n\n## 一般 [Source data and MATLAB code for \"Observation of a tripartite quantum phase for coexisting extended, localized, and critical states\"](https://doi.org/10.5281/zenodo.24097879)\n- 作者: Zhongshu Hu\n- 期刊: Zenodo (CERN European Organization for Nuclear Research) | 发表: 2026-11-10\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: This record contains numerical source data and MATLAB routines associated with the manuscript \"Observation of a tripartite quantum phase for coexisting extended, localized, and critical states\". Source_Data.zip contains experimental data values and displayed uncertainties, image arrays, momentum-den…\n\n## 一般 [Spatial bias in multimodal large language model reasoning: divergence from human perceptions of cycling safety](https://doi.org/10.1016/j.tbs.2026.101438)\n- 作者: Lurong Xu, Shuli Luo, Yizhen Yan\n- 期刊: Travel Behaviour and Society | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Synergistic Self‐Crystallization and Surface Passivation Enable Enhanced Thermostability and Photostability of Pure‐Green CsPbBr 3 Quantum‐Dot Glasses for Backlit Displays](https://doi.org/10.1002/lpor.72186)\n- 作者: Juqing Li, Yanhong Fan, Tongtong Xuan\n- 期刊: Laser & Photonics Review | 发表: 2026-11-10\n- 技术分类: QLED/QD | 机构类别: \n- 摘要: ABSTRACT CsPbBr 3 perovskites quantum dots (QDs) have garnered significant attention as next‐generation green emitter materials due to their high photoluminescence quantum yield (PLQY) and exceptional narrow band emission. However, their performance is still largely constrained by their photostabili…\n\n## 一般 [The Neural Basis of Emotion Regulation: A Review of Prefrontal-Limbic Mechanisms and Their Implications for Psychotherapy](https://doi.org/10.54254/2753-7048/2027.sj38835)\n- 作者: Kuan Jiang\n- 期刊: Lecture Notes in Education Psychology and Public Media | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Emotion regulation involves the strategies by which people adjust the strength, time course, or display of emotional responses. This review integrates psychological theory, functional neuroimaging, meta-analytic evidence, and intervention studies to characterize the neurocognitive basis for emotion …\n\n## 一般 [Wavelength‐Tailored Distributed Bragg Reflector Capping Layers for Highly Efficient and Color‐Pure RGB TEOLEDs](https://doi.org/10.1002/adfm.79598)\n- 作者: Kyo‐Cheol Kang, Ji‐sung Lee, Sangpil Hwang\n- 期刊: Advanced Functional Materials | 发表: 2026-11-10\n- 技术分类: OLED | 机构类别: \n- 摘要: ABSTRACT Color‐selective optical management is essential for improving the efficiency and color purity of red, green, and blue (RGB) top‐emitting organic light‐emitting diodes (TEOLEDs). This study introduces wavelength‐tailored distributed Bragg reflector capping layers (DBR‐CPLs) as color‐specific…\n\n【行业新闻】\n\n显示行业日报 | 2026-11-12\n今日 20 篇论文 · 8 条新闻\n\n今日条目集中在OLED与microLED两条主线：OLED方面涵盖发光材料（TADF、磷光）、器件寿命提升、无FMM像素图案化技术以及面板价格与产能投资；microLED方面则体现为Kopin研发收入驱动的营收增长和大型交互显示墙的落地案例。整体看，材料/器件效率与寿命优化、以及面向大尺寸与高附加值应用的产能与产品布局是今日信息的主要落点。\n\n行业新闻\n\n1. Kopin 2026年第三季度营收增长52%，受资助的microLED开发项目驱动\n   MicroLED-Info · 2026-11-11\n   美国microdisplay开发商Kopin公布2026年第三季度业绩，营收同比增长52%至1820万美元，营业亏损收窄至50万美元（2026年第二季度为350万美元）。增长主要来自受资助的开发项目而非产品销售，产品收入从上年同期的1070万美元降至880万美元，研发收入从120万美元增至570万美元，并计入310万美元美国政府彩色microLED项目资助收入。\n   https://www.microled-info.com/kopins-revenues-grow-52-q3-2026-driven-funded-microled-development-programs\n\n2. Logic Integration在旧金山一家AI工作室安装50英尺LiDAR触控交互microLED墙\n   MicroLED-Info · 2026-11-11\n   丹佛AV集成商Logic Integration在旧金山一家全球技术咨询公司的“Interactive AI Studio”安装了15.1×2.4米、12000×1890像素的交互microLED视频墙，环绕房间两个转角，借助LiDAR触控系统实现整墙触屏。该显示由175个Planar DirectLight Pro 1.2mm箱体（25×7）构成，箱体带45度斜边以支持转角拼接。\n   https://www.microled-info.com/logic-integration-installs-50-foot-interactive-microled-wall-lidar-touch-ai\n\n3. 三星正式启动忠清圈144万亿韩元投资……扩建HBM、OLED、半导体基板\n   The Elec · 2026-11-12\n   三星在忠清圈投资总计144万亿韩元扩建半导体、显示、基板与电池生产设施，并在温阳园区举行“忠清圈大型项目开工仪式”，总统李在明与三星电子会长李在镕出席。各子公司中长期投资计划为三星电子60万亿韩元、三星显示67万亿韩元、三星电机8万亿韩元、三星SDI 9万亿韩元，用于先进封装、OLED面板、AI服务器封装基板与电池产线。\n   https://www.thelec.kr/news/articleView.html?idxno=65339\n\n4. 三星显示与LG显示计划明年上调显示器OLED价格\n   The Elec · 2026-11-11\n   据市场调查机构SigmaIntel 11日消息，三星显示与LG显示计划在2027年上调显示器用OLED面板价格，并因材料成本负担加大而下调了明年OLED显示器面板出货目标。OLED显示器面板目前主要由三星显示与LG显示供应扩张。\n   https://www.thelec.kr/news/articleView.html?idxno=65272\n\n5. 三星研究院与韩巴大学合作通过调控电子阻挡层表面电势延长OLED寿命\n   OLED-Info · 2026-11-11\n   韩国韩巴国立大学与三星先进技术研究院（SAIT）合作，通过优化电子阻挡层（EBL）的负“巨表面电势”（GSP）来降低效率损失并延长器件寿命。采用优化GSP的EBL后，器件LT95寿命从约29小时提升至35小时，提升约20%；研究指出真空沉积的极性有机分子定向排列会在界面产生电荷，过量空穴与激子相互作用引发激子-极化子猝灭。\n   https://www.oled-info.com/korean-researchers-extend-oled-lifetime-tuning-surface-potential-electron\n\n6. 研究人员设计柔性无金属TADF分子，实现高效橙至红OLED\n   OLED-Info · 2026-11-11\n   日本大阪大学联合波兰、丹麦与英国合作者开发出基于空间电荷转移（TSCT）的无金属橙至红TADF发光体，与以往长波长TSCT发光体不同，新分子具有柔性、无需刚性结构锁定。所制OLED器件发光波长598–624 nm，外量子效率最高达14.9%，在较宽亮度范围内效率滚降有限。\n   https://www.oled-info.com/researchers-design-flexible-metal-free-tadf-molecules-efficient-orange-red\n\n7. LG显示首次内部公开下一代OLED技术“FLiPP”\n   The Elec · 2026-11-12\n   LG显示在11日至13日于坡州事业场举行的技术研讨会“Tech X”上，首次向全体员工公开下一代OLED像素图案化技术FLiPP（FMM-Less innovative Pixel Patterning）。FLiPP是在OLED像素形成过程中不使用FMM的图案化技术，活动上公司还分享了技术开发方向与未来OLED技术路线图。\n   https://www.thelec.kr/news/articleView.html?idxno=65314\n\n8. OLED发光体系统第二部分：磷光——100%效率，仍在等待蓝光\n   OLED-Info · 2026-11-11\n   该文是OLED发光体技术六篇系列指南的第二篇，聚焦磷光（PHOLED）发光体，介绍其工作原理、激子利用方式、采用该技术的面板以及路线图走向。文章指出磷光可实现100%效率，但蓝光磷光仍是待解难题。\n   https://www.oled-info.com/oled-emitter-systems-part-2-phosphorescence-100-efficiency-still-waiting-blue\n"
+}
