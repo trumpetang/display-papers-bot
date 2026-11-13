@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T04:18:12Z",
+  "digest": {
+    "overview": "今日条目主要围绕显示与相关设备市场：Aixtron 的 microLED 系统需求仍偏软，但 AR 与 AI 光互连活动增加；电视端出现 RGB miniLED 新品评测与对“假”Mini LED 电视的质疑；同时 OLED-Info 推出移动应用。整体信息显示，设备需求结构与终端产品宣传真实性是今日值得关注的两条线索。",
+    "papers": [],
+    "news": [
+      {
+        "id": "url:fe23f3b95336dd54",
+        "kind": "news",
+        "title_zh": "Aixtron 称 microLED 系统需求仍然疲软，但 AR 与 AI 光互连活动增加",
+        "summary_zh": "Aixtron 公布 2026 年第三季度业绩，营收同比增长 54% 至 2.04 亿美元，订单额翻倍以上至 3.06 亿美元。公司称 LED 与 microLED 系统需求仍然疲软，但看到 AR 和 AI 光互连应用活动增加，其中光电子（主要为面向 AI 数据中心通信的 InP 激光器）占设备订单 68%，GaN 与 SiC 功率电子占 24%，LED 与 microLED 系统合计不足 10%。",
+        "why": "显示用 microLED 设备短期需求承压，设备商收入更多依赖 AI 数据中心光通信与功率电子，可能影响 microLED 产业化节奏与设备投资预期。",
+        "tags": [
+          "microLED",
+          "设备",
+          "AR",
+          "AI 光互连"
+        ]
+      },
+      {
+        "id": "url:4041f186d2cd63ba",
+        "kind": "news",
+        "title_zh": "评测：海信 UR9S（RGB miniLED）",
+        "summary_zh": "该条目为海信第二代 RGB miniLED LCD 电视 UR9S 的评测，摘要信息有限，请见原文。",
+        "why": "RGB miniLED 电视新品进入评测环节，反映终端厂商继续推进 miniLED 背光产品迭代，对高端 LCD 电视竞争格局有参考意义。",
+        "tags": [
+          "RGB miniLED",
+          "电视",
+          "海信",
+          "评测"
+        ]
+      },
+      {
+        "id": "url:be47a1c6130e3a55",
+        "kind": "news",
+        "title_zh": "“假”三星 Mini LED 电视缺乏局部调光——甚至可能并非 miniLED",
+        "summary_zh": "该条目质疑部分三星 Mini LED 电视缺乏局部调光，甚至可能并非真正采用 miniLED，摘要信息有限，请见原文。",
+        "why": "若属实，将引发对 Mini LED 电视宣传与规格标注的信任问题，影响消费者认知与产业链对 Mini LED 定位的讨论。",
+        "tags": [
+          "Mini LED",
+          "三星",
+          "局部调光",
+          "电视"
+        ]
+      },
+      {
+        "id": "url:e0a5db3558725e81",
+        "kind": "news",
+        "title_zh": "OLED-Info 应用上线：在手机上获取每日 OLED 新闻、提醒与 Pro 情报",
+        "summary_zh": "OLED-Info 推出免费 iPhone 与 Android 应用，提供每日 OLED 新闻、提醒以及面向 Pro 会员的报告与数据。该机构自 2004 年起每日报道 OLED 显示与照明行业，此前主要通过浏览器访问。",
+        "why": "行业信息分发向移动端延伸，有助于 OLED 产业链从业者更及时获取新闻与 Pro 情报，提升信息触达效率。",
+        "tags": [
+          "OLED",
+          "行业媒体",
+          "移动应用",
+          "Pro 情报"
+        ]
+      }
+    ],
+    "trends": [
+      "microLED 与 Mini LED 相关需求与产品动态并存，但设备端需求偏软与终端宣传质疑同时出现",
+      "AI 相关光互连与数据中心需求成为设备订单的重要来源，显示相关设备占比相对有限",
+      "行业信息获取方式向移动应用与每日推送延伸，OLED 领域媒体加强 Pro 情报服务"
+    ]
+  },
+  "items": [
+    {
+      "id": "url:fe23f3b95336dd54",
+      "kind": "news",
+      "title": "Aixtron says microLED system demand remains soft, but sees increasing activity in AR and AI optical interconnects",
+      "abstract": "Aixtron reported its financial results for Q3 2026, with strong growth driven by demand for its laser deposition systems for AI data centers. Looking at the microLED market, Aixtron says that demand for LED and microLED systems remains soft, but it now sees increasing activity in AR and AI optical interconnect applications, and it still considers the long-term opportunity attractive. Aixtron's Q3 revenue grew 54% from Q3 2025 to $204 million, and order intake more than doubled to $306 million. Optoelectronics (mostly InP-based lasers for AI data-center communications) accounted for 68% of the equipment orders, and GaN and SiC power electronics for 24%, which leaves less than 10% for LED and microLED systems. The equipment backlog reached $611 million, and Aixtron confirmed its guidance of around $620 million in revenue for 2026.",
+      "url": "https://www.microled-info.com/aixtron-says-microled-system-demand-remains-soft-sees-increasing-activity-ar",
+      "source": "MicroLED-Info",
+      "published": "2026-11-12T06:59:22Z",
+      "authors": [],
+      "score": 6
+    },
+    {
+      "id": "url:4041f186d2cd63ba",
+      "kind": "news",
+      "title": "Review: Hisense UR9S (RGB miniLED)",
+      "abstract": "Hisense's second-generation RGB miniLED LCD TV",
+      "url": "https://www.flatpanelshd.com/review.php?subaction=showfull&id=1794468664",
+      "source": "FlatpanelsHD",
+      "published": "2026-11-12T09:10:00Z",
+      "authors": [],
+      "score": 4
+    },
+    {
+      "id": "url:be47a1c6130e3a55",
+      "kind": "news",
+      "title": "\"Fake\" Samsung Mini LED TVs lack local dimming - maybe even miniLEDs",
+      "abstract": "Rebranded low-end TVs?",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1794468081",
+      "source": "FlatpanelsHD",
+      "published": "2026-11-12T07:10:00Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:e0a5db3558725e81",
+      "kind": "news",
+      "title": "The OLED-Info app is here: daily OLED news, alerts and Pro intelligence on your phone",
+      "abstract": "OLED-Info has covered the OLED display and lighting industry every day since 2004. Until today, that meant a browser tab. From today it also means an app: the OLED-Info app is available for iPhone and Android, free of charge. Download on the App Store · Get it on Google Play We built the app around how the people in this industry actually read us: a quick scan in the morning, a deeper look when a story touches their own company or technology, and, for Pro members, the reports and data they open in meetings. Here is what it does:",
+      "url": "https://www.oled-info.com/oled-info-app-announcement-2026-11",
+      "source": "OLED-Info",
+      "published": "2026-11-12T07:02:44Z",
+      "authors": [],
+      "score": 3
+    }
+  ],
+  "errors": [],
+  "plain": "显示行业日报 | 2026-11-13\n今日 15 篇论文 · 4 条新闻\n\n【论文日报】\n\n# 显示面板论文日报 2026-11-13\n\n- 检索机构关键词: 88 个 | 时间窗口: 2026-11-10 ~ 2026-11-13 | 新增论文: 15 篇\n\n## 一般 [An exploration of the physical and mental health impact among a diverse population in the United Kingdom experiencing perimenopause and menopause (MARIE UK-WP2a)](https://doi.org/10.1097/gme.0000000000002940)\n- 作者: Gayathri Delanerolle, Jie Sun, Julie Scott Taylor\n- 期刊: Menopause The Journal of The North American Menopause Society | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: OBJECTIVE: Menopause is associated with diverse physical, psychological, and cognitive symptoms, yet variation across menopausal stages and modes of onset remains poorly characterized in the United Kingdom-based populations. This study aimed to evaluate symptom burden and quality of life across peri…\n\n## 一般 [Delayed radiation-induced epigenetic remodeling is associated with enhanced somatic cell reprogramming](https://doi.org/10.1038/s41598-026-77957-w)\n- 作者: Minji Kang, Hyeonjeong Park, Jeeyong Lee\n- 期刊: Scientific Reports | 发表: 2026-11-10\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Ionizing radiation triggers targeted responses in directly irradiated cells and non-targeted responses in several cell generations after the initial exposure. A delayed non-targeted response to radiation enhances the efficiency of induced pluripotent stem cell (iPSC) generation. However, the underly…\n\n## 一般 [A Fuzzy Collaborative Approach for Online Product Recommendation and Display](https://doi.org/10.1142/s0217595926500466)\n- 作者: Ling Gai, Wenjing Zhou, Yuping Xing\n- 期刊: Asia Pacific Journal of Operational Research | 发表: 2026-11-11\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: Online retailers face a coupled recommendation-display decision: they must infer user preferences from sparse, attribute-level, and linguistically uncertain evaluations, and then allocate scarce display slots under conflicting user-utility and platform-revenue objectives. This study proposes a two-s…\n\n## 一般 [Auditable Feasibility-Gated Command Admission for Language-Conditioned Robotic Task Allocation](https://doi.org/10.1007/s10846-026-02476-9)\n- 作者: Yukang Lin, Jingyang Cao\n- 期刊: Journal of Intelligent & Robotic Systems | 发表: 2026-11-11\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: Abstract Language-conditioned robotic systems can map natural-language instructions to plausible skills, yet a semantically matched skill may still be non-executable on a particular robot. This paper presents QER–HFV, an auditable command-admission layer for robotic task allocation under semantic un…\n\n## 一般 [Bacterial, archaeal, and fungal communities differ among contrasting land-use sites and soil depths in a phosphate-mining landscape](https://doi.org/10.1016/j.apsoil.2026.107587)\n- 作者: Yanan Chen, Rui Liu, Kaiming Shih\n- 期刊: Applied Soil Ecology | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Dual-Targeting Chitosan Nanogels Enable Magnetic Resonance Imaging-Guided Synergistic Chemo/Chemodynamic Therapy against Prostate Cancer Bone Metastasis](https://doi.org/10.1021/acs.biomac.6c01943)\n- 作者: Jiahui Liu, Jinxia Wang, Aiyu Li\n- 期刊: Biomacromolecules | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Prostate cancer bone metastasis is a major therapeutic challenge due to poor drug selectivity and insufficient tumor targeting. Herein, we engineer a biomimetic dual bone/tumor-targeting chitosan nanogel (NG) platform (UCNG/ZOL@CM) cloaked with homologous cancer cell membranes (CM) for co-d…\n\n## 一般 [Enhanced Nonlinear Optical and Time-Resolved Properties of Magic Number Iron (Fe) Nanoclusters Prepared by Egg-White Synthesis](https://doi.org/10.1021/acs.jpcc.6c04745)\n- 作者: Hannah Geiss, Betsy Dodgen, Karima J. Perry\n- 期刊: The Journal of Physical Chemistry C | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Protein-templated iron (EW:Fe) and gold (EW:Au) nanoclusters (NCs) were synthesized using chicken egg white as a biomolecular template and characterized with high-resolution transmission electron microscopy (HRTEM) and energy-dispersive X-ray spectroscopy (EDS). The synthesis yielded small …\n\n## 一般 [HSPB8 regulates CTP synthase filaments to couple nucleotide metabolism and autophagy in tumors](https://doi.org/10.1038/s41420-026-03441-z)\n- 作者: Chun-Yen Wang, Wei-Cheng Lin, Kuang-Jing Huang\n- 期刊: Cell Death Discovery | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Metabolic adaptation and proteostasis are essential for tumor survival under nutrient stress, yet how these processes are mechanistically integrated remains unclear. Here, we identify CTP synthase (CTPS) filament dynamics as a regulatory nexus linking nucleotide metabolism to autophagic flu…\n\n## 一般 [Holographic Retinal Projection With Wide Field of View and Large Eyebox Based on an Electrically Switchable Liquid Crystal Grating](https://doi.org/10.1002/lpor.72207)\n- 作者: Zi Wang, Li Liang, Yuan Liu\n- 期刊: Laser & Photonics Review | 发表: 2026-11-11\n- 技术分类: 显示光学 | 机构类别: \n- 摘要: ABSTRACT Holographic retinal projection display has become a focal point of the display field because of its imaging characteristics with constant focus and flexible wavefront modulation advantages. However, due to the restriction between the field of view (FOV) and the eyebox under the limited band…\n\n## 一般 [Immune Checkpoint-Related Gene Prognostic Signature Characterizes the Immunosuppressive Microenvironment and Predicts Immunotherapy Response in Clear Cell Renal Cell Carcinoma](https://doi.org/10.3390/ijms272210115)\n- 作者: Lei Dai, Lei Zheng, Hao Yuan\n- 期刊: International Journal of Molecular Sciences | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Clear cell renal cell carcinoma (ccRCC) shows heterogeneous responses to immune checkpoint inhibitors (ICIs). We aimed to develop an immune checkpoint-related gene (ICRG) signature for risk stratification, tumor microenvironment characterization, and immunotherapy prediction. Transcriptomic and clin…\n\n## 一般 [Investigating individual heat exposure inequality across income groups: a job–housing mobility perspective](https://doi.org/10.1016/j.apgeog.2026.104254)\n- 作者: Ruoyang Jin, Yong Liu, Heng Wu\n- 期刊: Applied Geography | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [KIF17 governs a trafficking checkpoint for tumor-specific MHC-II presentation and breast cancer immunity](https://doi.org/10.21203/rs.3.rs-11443622/v1)\n- 作者: Ying Lin, Tianfu Li, Duanyang Zhai\n- 期刊: Research Square | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Background Tumor-specific major histocompatibility complex class II (tsMHC-II) expression is associated with favorable prognosis and improved responsiveness to immune checkpoint blockade. However, the intracellular mechanisms controlling tsMHC-II trafficking and surface presentation remain …\n\n## 一般 [Molecular Tuning of Hole‐Selective Interfaces via Phosphonic Acid‐Functionalized Conjugated Polymers for Infrared Photodetectors](https://doi.org/10.1002/adfm.79615)\n- 作者: Ji Hyeon Lee, Byeong‐Chan Kim, Eun Soo Shim\n- 期刊: Advanced Functional Materials | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: ABSTRACT Conjugated polymers (CPs) are promising candidates for hole‐transporting layers (HTLs) in next‐generation optoelectronics. However, conventional CP‐based HTLs incorporating alkyl side chains suffer from insufficient interfacial interactions, leading to increased interfacial charge recombina…\n\n## 一般 [Neuroprotective sesquiterpenoid-monoterpenoid heterodimers from Lindera communis Hemsl.](https://doi.org/10.1016/j.phytochem.2026.115139)\n- 作者: Lu Guo, Meng-Ping Shao, Di Luo\n- 期刊: Phytochemistry | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Swimming motility and type IV pili modulate phagocytosis by shaping physical interactions between Pseudomonas aeruginosa and macrophages](https://doi.org/10.1371/journal.ppat.1014758)\n- 作者: Tania Distler, Chia-Ni Tsai, Han-Yi Huang\n- 期刊: PLoS Pathogens | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: During chronic lung infections, Pseudomonas aeruginosa diversifies under selection from antibiotics, metabolic constraints, and host defenses. Macrophages are key sentinels of the innate immune system and play a central role in clearing airway pathogens. Yet, how they process heterogeneous bacterial…\n\n【行业新闻】\n\n显示行业日报 | 2026-11-13\n今日 15 篇论文 · 4 条新闻\n\n今日条目主要围绕显示与相关设备市场：Aixtron 的 microLED 系统需求仍偏软，但 AR 与 AI 光互连活动增加；电视端出现 RGB miniLED 新品评测与对“假”Mini LED 电视的质疑；同时 OLED-Info 推出移动应用。整体信息显示，设备需求结构与终端产品宣传真实性是今日值得关注的两条线索。\n\n行业新闻\n\n1. Aixtron 称 microLED 系统需求仍然疲软，但 AR 与 AI 光互连活动增加\n   MicroLED-Info · 2026-11-12\n   Aixtron 公布 2026 年第三季度业绩，营收同比增长 54% 至 2.04 亿美元，订单额翻倍以上至 3.06 亿美元。公司称 LED 与 microLED 系统需求仍然疲软，但看到 AR 和 AI 光互连应用活动增加，其中光电子（主要为面向 AI 数据中心通信的 InP 激光器）占设备订单 68%，GaN 与 SiC 功率电子占 24%，LED 与 microLED 系统合计不足 10%。\n   https://www.microled-info.com/aixtron-says-microled-system-demand-remains-soft-sees-increasing-activity-ar\n\n2. 评测：海信 UR9S（RGB miniLED）\n   FlatpanelsHD · 2026-11-12\n   该条目为海信第二代 RGB miniLED LCD 电视 UR9S 的评测，摘要信息有限，请见原文。\n   https://www.flatpanelshd.com/review.php?subaction=showfull&id=1794468664\n\n3. “假”三星 Mini LED 电视缺乏局部调光——甚至可能并非 miniLED\n   FlatpanelsHD · 2026-11-12\n   该条目质疑部分三星 Mini LED 电视缺乏局部调光，甚至可能并非真正采用 miniLED，摘要信息有限，请见原文。\n   https://www.flatpanelshd.com/news.php?subaction=showfull&id=1794468081\n\n4. OLED-Info 应用上线：在手机上获取每日 OLED 新闻、提醒与 Pro 情报\n   OLED-Info · 2026-11-12\n   OLED-Info 推出免费 iPhone 与 Android 应用，提供每日 OLED 新闻、提醒以及面向 Pro 会员的报告与数据。该机构自 2004 年起每日报道 OLED 显示与照明行业，此前主要通过浏览器访问。\n   https://www.oled-info.com/oled-info-app-announcement-2026-11\n"
+}
