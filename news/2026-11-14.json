@@ -1,0 +1,211 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T04:14:46Z",
+  "digest": {
+    "overview": "今日条目集中在 OLED 产业链的价格、材料、设备与专利动态，同时涉及 microLED 光互连与终端显示体验问题。上游材料与设备国产化、面板涨价与专利诉讼构成主要看点。",
+    "papers": [],
+    "news": [
+      {
+        "id": "url:668b8c500d29be52",
+        "kind": "news",
+        "title_zh": "Sigmaintell：三星显示与LG显示将于2027年上调OLED显示器面板价格，内存成本飙升",
+        "summary_zh": "据市场研究机构Sigmaintell，三星显示和LG显示均计划在2027年上调OLED显示器面板价格，并因材料成本上升（主要受内存芯片价格飙升推动）下调了2027年OLED显示器面板出货目标。Sigmaintell指出，AI需求强劲导致GPU和显存供应趋紧，DRAM短缺及半导体封装测试瓶颈使scaler IC交期从不足一个月延长至一到两个月。",
+        "why": "面板涨价与出货目标下调将传导至显示器整机成本，并加剧上游存储与驱动芯片供应紧张对产业链的挤压。",
+        "tags": [
+          "OLED显示器",
+          "面板价格",
+          "内存成本",
+          "供应链"
+        ]
+      },
+      {
+        "id": "url:3d523ab5f43fa876",
+        "kind": "news",
+        "title_zh": "Polar Light Technologies与富士康科技签署首个microLED光互连协议",
+        "summary_zh": "瑞典microLED开发商Polar Light Technologies宣布与富士康科技签署其在microLED光互连领域的首个合作协议，双方将评估其microLED作为数据中心、AI加速器和高性能计算系统光链路光源。合作聚焦5 µm绿色microLED，该器件目前在其位于VTT的试产线上生产，属于其首个microLED产品的一部分。",
+        "why": "该合作将microLED应用从显示拓展至数据中心光互连，为microLED产业打开显示之外的新需求方向。",
+        "tags": [
+          "microLED",
+          "光互连",
+          "富士康",
+          "数据中心"
+        ]
+      },
+      {
+        "id": "url:3e0c2368a185f3f0",
+        "kind": "news",
+        "title_zh": "Solus Advanced Materials公布2026年Q3 OLED材料季度销售额创纪录，环比增长26%",
+        "summary_zh": "韩国OLED材料商Solus Advanced Materials公布2026年Q3初步业绩，其OLED业务创下最佳季度，营收2540万美元，环比增长26%，同比增长5.6%。公司称增长来自用于移动AMOLED的红色prime空穴传输材料及自有专利HBL材料出货增加，因一家中国面板客户恢复了智能手机面板生产。",
+        "why": "移动AMOLED材料需求回暖与中国客户复产，反映OLED上游材料供应链的景气修复。",
+        "tags": [
+          "OLED材料",
+          "AMOLED",
+          "业绩",
+          "韩国"
+        ]
+      },
+      {
+        "id": "url:ced0dd14be6ef25e",
+        "kind": "news",
+        "title_zh": "Hims挑战日本Lasertec垄断，实现大型光掩模检测设备国产化",
+        "summary_zh": "韩国设备商Hims将进入此前由日本Lasertec近乎垄断的大型显示用光掩模检测设备市场，其自研设备已通过三星显示的性能评估并临近商用化。据报道，Hims在今年2至6月三星显示的光掩模检测设备性能评估中通过约170个项目，7至8月完成最终验证，最早有望年内获得设备订单。",
+        "why": "若实现量产供货，将打破大型光掩模检测设备的日系垄断，提升韩国显示设备供应链的本地化水平。",
+        "tags": [
+          "光掩模检测",
+          "设备国产化",
+          "三星显示",
+          "韩国"
+        ]
+      },
+      {
+        "id": "url:12943b2317ce5724",
+        "kind": "news",
+        "title_zh": "飞利浦推出首款100英寸Ambilight电视",
+        "summary_zh": "飞利浦发布其首款100英寸Ambilight电视，但大尺寸OLED与miniLED机型仍需等待。",
+        "why": "超大尺寸电视产品线扩展，但OLED与miniLED大尺寸化节奏仍受限于成本与供应。",
+        "tags": [
+          "电视",
+          "超大尺寸",
+          "Ambilight",
+          "飞利浦"
+        ]
+      },
+      {
+        "id": "url:0133cc6914687fd5",
+        "kind": "news",
+        "title_zh": "部分苹果新款OLED MacBook Pro用户反映眼疲劳与头晕，归因于屏幕240Hz PWM调光",
+        "summary_zh": "苹果于11月6日开始出货其首款OLED笔记本MacBook Pro（PROLED XDR显示屏），部分早期买家反映使用后出现眼疲劳、头痛和头晕。相关投诉最初出现在Reddit，多与长时间阅读文本（尤其是深色模式白字黑底）有关，而非观看视频；部分用户称已退货并换回此前的miniLED MacBook Pro。",
+        "why": "OLED笔记本的PWM调光体验问题可能影响用户接受度，并推动面板厂在调光方案上的优化需求。",
+        "tags": [
+          "OLED笔记本",
+          "PWM调光",
+          "用户体验",
+          "苹果"
+        ]
+      },
+      {
+        "id": "url:01430a8ec0ffb585",
+        "kind": "news",
+        "title_zh": "与三星和解后，Pictiva Displays起诉BOE侵犯OLED专利",
+        "summary_zh": "爱尔兰专利授权公司Pictiva Displays及其母公司Key Patent Innovations在美国得克萨斯州东区联邦地区法院（Marshall分部）对BOE提起OLED专利侵权诉讼，起诉于2026年11月4日，即其与三星OLED专利纠纷和解后不久。Pictiva主张五项2014至2023年授权的美国专利，源自OSRAM的OLED组合，涵盖OLED器件封装、发光结构和多层封装工艺；诉状称其曾在2020年11月至2021年7月三次联系BOE讨论授权但未获正式回应。",
+        "why": "OLED专利诉讼再起，凸显面板厂在封装与器件结构领域的知识产权风险与授权成本压力。",
+        "tags": [
+          "OLED专利",
+          "诉讼",
+          "BOE",
+          "封装"
+        ]
+      },
+      {
+        "id": "url:051e50f9d837ed12",
+        "kind": "news",
+        "title_zh": "TCL华星披露喷墨打印OLED材料供应链，LG电子考虑2028-2029年推出印刷OLED显示器",
+        "summary_zh": "TCL华星在11月13日于武汉举行的年度DTC 2026（显示技术大会）上披露其喷墨打印OLED面板的材料供应商，包括SFC（蓝色发光层墨水）、Idemitsu Kosan（蓝色主体材料）、SK Materials JNC（蓝色掺杂剂）、三菱化学集团（蓝色prime材料）和Summer Sprout（红色墨水）。TCL华星称SFC的蓝主体-掺杂体系使溶解度提升约50%，SK Materials JNC的蓝色掺杂剂相较Y3系列材料使器件寿命提升约30%；同时LG电子正考虑在2028-2029年推出印刷OLED显示器。",
+        "why": "印刷OLED材料链公开与LG电子的产品规划，显示印刷OLED正加速向显示器应用推进。",
+        "tags": [
+          "印刷OLED",
+          "喷墨打印",
+          "材料供应链",
+          "TCL华星"
+        ]
+      }
+    ],
+    "trends": [
+      "OLED产业链上游材料与设备动态活跃，涵盖材料销售、设备国产化与材料供应链披露",
+      "成本与供应压力上升，内存涨价、交期延长与面板涨价计划相互关联",
+      "OLED专利诉讼与授权纠纷持续，涉及封装与器件结构等核心环节"
+    ]
+  },
+  "items": [
+    {
+      "id": "url:668b8c500d29be52",
+      "kind": "news",
+      "title": "Sigmaintell: Samsung Display and LG Display to raise OLED monitor panel prices in 2027, as memory costs surge",
+      "abstract": "According to market research firm Sigmaintell, both Samsung Display and LG Display plan to raise the prices of their OLED monitor panels in 2027. Rising material costs - mostly driven by surging memory chip prices - have also led both companies to lower their 2027 OLED monitor panel shipment targets, as higher prices are expected to dampen demand. Gaming monitor panel shipments by panel maker, 2025-2027 (million units, source: Sigmaintell) Sigmaintell explains that the strong AI demand is tightening the supply of GPUs and graphics memory, which puts pressure on the entire monitor market. DRAM shortages and bottlenecks in semiconductor packaging and testing also extended the production lead times of scaler ICs (the chips that control the monitor's display) from under one month to one to two months.",
+      "url": "https://www.oled-info.com/sigmaintell-samsung-display-and-lg-display-raise-oled-monitor-panel-prices-2027",
+      "source": "OLED-Info",
+      "published": "2026-11-13T14:00:05Z",
+      "authors": [],
+      "score": 6
+    },
+    {
+      "id": "url:3d523ab5f43fa876",
+      "kind": "news",
+      "title": "Polar Light Technologies signs its first microLED optical interconnect agreement, with Foxconn Technology",
+      "abstract": "Sweden-based microLED developer and MicroLED Industry Association member Polar Light Technologies announced its first cooperation agreement in the area of microLED optical interconnects. The company signed the agreement with Foxconn Technology, and the two will evaluate Polar Light's microLEDs as light sources for optical links in data centers, AI accelerators and high-performance computing systems. The collaboration will focus on 5 µm green microLEDs - the same devices that are now produced at Polar Light's manufacturing pilot line at VTT , as part of its first microLED product.",
+      "url": "https://www.microled-info.com/polar-light-technologies-signs-its-first-microled-optical-interconnect",
+      "source": "MicroLED-Info",
+      "published": "2026-11-13T09:23:29Z",
+      "authors": [],
+      "score": 6
+    },
+    {
+      "id": "url:3e0c2368a185f3f0",
+      "kind": "news",
+      "title": "Solus Advanced Materials reports record quarterly OLED material sales in Q3 2026, up 26% from Q2",
+      "abstract": "Korea-based OLED materials maker Solus Advanced Materials reported its preliminary financial results for Q3 2026, and its OLED business had its best quarter ever, with revenues of $25.4 million, up 26% from Q2 2026 and 5.6% from Q3 2025. Solus says that the growth came from higher shipments of its red prime hole transport materials for mobile AMOLED displays, and of its own patented HBL (hole blocking layer) material, as a Chinese panel customer resumed production of smartphone panels.",
+      "url": "https://www.oled-info.com/solus-advanced-materials-reports-record-quarterly-oled-material-sales-q3-2026",
+      "source": "OLED-Info",
+      "published": "2026-11-13T09:16:47Z",
+      "authors": [],
+      "score": 5
+    },
+    {
+      "id": "url:ced0dd14be6ef25e",
+      "kind": "news",
+      "title": "힘스, 日레이저텍 독점 깬다…대형 포토마스크 검사기 국산화",
+      "abstract": "일본 레이저텍이 사실상 독점해 온 대형 디스플레이용 포토마스크 검사장비 시장에 국내 장비업체 힘스가 진입한다. 힘스는 자체 개발한 장비로 삼성디스플레이의 성능 평가를 통과하고 상용화를 앞두고 있다.13일 업계에 따르면 힘스는 올해 2~6월 삼성디스플레이의 포토마스크 검사장비 성능 평가에서 170여개 항목을 모두 통과했다. 7~8월에는 평가 결과에 대한 최종 검증까지 마쳤다. 이르면 연내 장비 발주가 이뤄질 것으로 보인다. 힘스는 그동안 삼성디스플레이에 유기발광다이오드(OLED) 증착용 파인메탈마스크(FMM) 인장기와 검사장비 등을",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65401",
+      "source": "The Elec",
+      "published": "2026-11-13T15:01:35Z",
+      "authors": [],
+      "score": 2
+    },
+    {
+      "id": "url:12943b2317ce5724",
+      "kind": "news",
+      "title": "Philips launches its first 100-inch Ambilight TV",
+      "abstract": "But large-sized OLED and miniLED will have to wait",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1794563671",
+      "source": "FlatpanelsHD",
+      "published": "2026-11-13T09:17:00Z",
+      "authors": [],
+      "score": 2
+    },
+    {
+      "id": "url:0133cc6914687fd5",
+      "kind": "news",
+      "title": "Some users of Apple's new OLED MacBook Pro report eye strain and dizziness, blame the display's 240Hz PWM dimming",
+      "abstract": "Apple started shipping its first OLED laptop, the MacBook Pro with PROLED XDR Display , on November 6, and some early buyers already report that using it causes eye strain, headaches and dizziness. The complaints, first raised on Reddit, mostly relate to prolonged reading of text, especially in dark mode (white text on a black background), and less to watching videos. Some users say that they returned their new laptops and went back to the previous mini-LED MacBook Pro.",
+      "url": "https://www.oled-info.com/some-users-apples-new-oled-macbook-pro-report-eye-strain-and-dizziness-blame",
+      "source": "OLED-Info",
+      "published": "2026-11-13T19:00:08Z",
+      "authors": [],
+      "score": 4
+    },
+    {
+      "id": "url:01430a8ec0ffb585",
+      "kind": "news",
+      "title": "After settling with Samsung, Pictiva Displays sues BOE for OLED patent infringement",
+      "abstract": "Ireland-based patent licensing company Pictiva Displays , together with its parent company Key Patent Innovations, filed an OLED patent infringement lawsuit against BOE in the US District Court for the Eastern District of Texas (Marshall Division). The lawsuit was filed on November 4, 2026 - shortly after Pictiva settled its OLED patent disputes with Samsung . Pictiva asserts five US patents, granted between 2014 and 2023, that originated from OSRAM's OLED portfolio. The patents cover OLED device encapsulation, light-emitting structures and multi-layer encapsulation processes. According to the complaint, Pictiva contacted BOE three times between November 2020 and July 2021 to discuss licensing these patents, but never received a formal response.",
+      "url": "https://www.oled-info.com/days-after-settling-samsung-pictiva-displays-sues-boe-oled-patent-infringement",
+      "source": "OLED-Info",
+      "published": "2026-11-14T04:00:04Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:051e50f9d837ed12",
+      "kind": "news",
+      "title": "TCL CSOT reveals its inkjet printed OLED material supply chain, as LG Electronics considers printed OLED monitors for 2028-2029",
+      "abstract": "TCL CSOT revealed the material suppliers for its inkjet printed OLED panels at its annual DTC 2026 (Display Technology Conference) event, held on November 13 in Wuhan. The company listed five companies that supply it with OLED inks and materials: SFC - blue emissive layer (EML) ink Idemitsu Kosan - blue host material SK Materials JNC - blue dopant Mitsubishi Chemical Group - blue prime material Summer Sprout - red ink TCL CSOT says that SFC's blue host-dopant system improves solubility by around 50%, offers excellent device performance and film uniformity, and can be used to develop high-concentration inks. SK Materials JNC's blue dopant improves device lifetime by around 30% compared to Y3-series materials, and offers excellent chemical stability and resistance to device aging. Interestingly, SFC and SK Materials JNC have been fighting a long patent battle in Korea over SFC's fluorescent blue emitter, which SFC won earlier this year .",
+      "url": "https://www.oled-info.com/tcl-csot-reveals-its-inkjet-printed-oled-material-supply-chain-lg-electronics",
+      "source": "OLED-Info",
+      "published": "2026-11-13T10:20:07Z",
+      "authors": [],
+      "score": 3
+    }
+  ],
+  "errors": [],
+  "plain": "显示行业日报 | 2026-11-14\n今日 12 篇论文 · 8 条新闻\n\n【论文日报】\n\n# 显示面板论文日报 2026-11-14\n\n- 检索机构关键词: 88 个 | 时间窗口: 2026-11-11 ~ 2026-11-14 | 新增论文: 12 篇\n\n## 一般 [Chemoenergetics: Phase Geometry and Interference in Molecular Energy Organization](https://doi.org/10.26434/chemrxiv.15012006/v1)\n- 作者: Lin Zhuang\n- 期刊: ChemRxiv | 发表: 2026-11-11\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: Every chemical transformation requires both a spatial rearrangement of atoms and a local convergence of energy. While structural chemistry and quantum mechanics explain how atomic connectivity governs the barrier of an isolated elementary step, and macroscopic thermodynamics balances the total energ…\n\n## 一般 [Comparative Judgments of Waiting Time across Smartphone Countdown Formats](https://doi.org/10.1080/10447318.2026.2752467)\n- 作者: Takanori Komatsu, Shota Yamanaka\n- 期刊: International Journal of Human-Computer Interaction | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Numerical countdown formats may influence comparative judgments of waiting time. We compared six integer-only and decimal countdown formats on participants’ own smartphones. Experiment 1 measured paired judgments of countdown duration, whereas Experiment 2 measured paired judgments of site loading s…\n\n## 一般 [Domain-alteration chimeras rewire oncogenic complexes in prostate cancer](https://doi.org/10.1038/s41586-026-11262-4)\n- 作者: Jie Luo, Jianzhang Yang, Jean Ching-Yi Tien\n- 期刊: Nature | 发表: 2026-11-11\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Transcriptional addiction to the androgen receptor (AR) underlies metastatic castration-resistant prostate cancer 1 , in which AR maintains oncogenic programs through domain-specific interactions with the acetyltransferases p300 and CBP (collectively p300/CBP) 2 . Here we describe a novel t…\n\n## 一般 [Metasurface waveguides for all-day augmented reality glasses](https://doi.org/10.1038/s41586-026-11277-x)\n- 作者: Jeong-Geun Yun, Hyunjung Kang, Myongjo Choi\n- 期刊: Nature | 发表: 2026-11-11\n- 技术分类: 显示光学 | 机构类别: \n\n## 一般 [5DSTEM of Liquid-Phase Nanocrystal Growth Bridges Ensemble Kinetics and Nanoscale Dynamics](https://doi.org/10.1021/acsnano.6c18952)\n- 作者: Serin Lee, C Ophus, Jennifer A. Dionne\n- 期刊: ACS Nano | 发表: 2026-11-12\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Resolving how ensemble growth kinetics emerge from particle- and grain-level dynamics is essential for predictive control of nanocrystal synthesis. Here, time-resolved four-dimensional scanning transmission electron microscopy (4DSTEM), extended into five dimensions (5DSTEM) through continu…\n\n## 一般 [Accelerating the Discovery of Synthesizable 2D Hybrid Double Perovskites through Human–LLM Collaborative Descriptor Engineering](https://doi.org/10.1021/acsnano.6c17755)\n- 作者: Rong Guo, Changfeng Wang, Ming‐Gang Ju\n- 期刊: ACS Nano | 发表: 2026-11-12\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Two-dimensional hybrid perovskites offer exceptional structural diversity and multifunctional properties, yet their synthesis remains a major bottleneck due to low hit rates and strong reliance on empirical intuition. Here we introduce AL-SynAgent, a human-in-the-loop, ML-guided screening w…\n\n## 一般 [Enhanced Performance of AgBiS2 Colloidal Quantum Dot Near-Infrared Photodetectors](https://doi.org/10.3390/nano16221461)\n- 作者: He Li, Junlin Wang, Tianyu Luo\n- 期刊: Nanomaterials | 发表: 2026-11-12\n- 技术分类: QLED/QD | 机构类别: \n- 摘要: Colloidal quantum dot (CQD) near-infrared photodetectors have attracted a lot of interest in the fields of optical communications, environmental surveillance, imaging technologies, and wearable sensors, due to their tunable bandgaps and flexible solution processibility. In particular, AgBiS2 CQDs ha…\n\n## 一般 [Machine vision signal enhanced physical modeling for high precision melt penetration prediction toward wire arc additive manufacturing](https://doi.org/10.1016/j.ymssp.2026.115153)\n- 作者: Huangyi Qu, Yi Wang, Sam Wilson\n- 期刊: Mechanical Systems and Signal Processing | 发表: 2026-11-12\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Micro-LED-Activated Formaldehyde Sensing via Au Loading-Regulated Interfacial Engineering in Anatase TiO2 Nanofibers](https://doi.org/10.1021/acsnano.6c16286)\n- 作者: Euichul Shin, Kichul Lee, Yunsung Lim\n- 期刊: ACS Nano | 发表: 2026-11-12\n- 技术分类: Micro-LED | 机构类别: \n- 摘要: Abstract Photoactivated metal-oxide gas sensors reduce the energy demand associated with continuous heating, yet selective detection of volatile organic compounds remains constrained by weak electrical transduction and complex surface oxidation pathways. Here, Au-functionalized anatase TiO2 nanofibe…\n\n## 一般 [Nanostructured Display of the Conserved Neuraminidase HCA2 Epitope by Nanocomplexes and Virus-Like Particles for Influenza Vaccine Development](https://doi.org/10.1021/acsanm.6c04559)\n- 作者: Huan-Yu Cheng, Zhi-Ling Kang, Boon-Fatt Tan\n- 期刊: ACS Applied Nano Materials | 发表: 2026-11-12\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Influenza neuraminidase (NA) has emerged as a promising target for universal influenza vaccine development because it undergoes less antigenic drift than hemagglutinin. Among the diverse NA subtypes of influenza A and B viruses, a highly conserved sequence adjacent to the enzymatic active s…\n\n## 一般 [PolyEvo: Source data and code for an evolving workflow for polymer literature extraction](https://doi.org/10.5281/zenodo.24152176)\n- 作者: Qikai Zhang, Xuehan Li, You Qin\n- 期刊: Zenodo (CERN European Organization for Nuclear Research) | 发表: 2026-11-12\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Source data and code for PolyEvo: An evolving workflow for polymer literature extraction. The data archive contains development extraction records, fixed evaluation references, individual scoring decisions, source tables for numerical and preparation evolution, displayed method comparisons and all 1…\n\n## 一般 [Refining mobility patterns at the early Neolithic cemetery of Nitra-Horné Krškany, western Slovakia: An integrated isotopic approach](https://doi.org/10.1016/j.jasrep.2026.106176)\n- 作者: Miriam Vílchez Suárez, Zdeněk Tvrdý, Leopoldo D. Pena\n- 期刊: Journal of Archaeological Science Reports | 发表: 2026-11-12\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Mobility has played a central role in discussions of Linearbandkeramik (LBK) social organisation, particularly sex-differentiated residence, exogamy, and the formation of early farming communities. This study reassesses mobility at the Early Neolithic cemetery of Nitra-Horné Krškany (western Slovaki…\n\n【行业新闻】\n\n显示行业日报 | 2026-11-14\n今日 12 篇论文 · 8 条新闻\n\n今日条目集中在 OLED 产业链的价格、材料、设备与专利动态，同时涉及 microLED 光互连与终端显示体验问题。上游材料与设备国产化、面板涨价与专利诉讼构成主要看点。\n\n行业新闻\n\n1. Sigmaintell：三星显示与LG显示将于2027年上调OLED显示器面板价格，内存成本飙升\n   OLED-Info · 2026-11-13\n   据市场研究机构Sigmaintell，三星显示和LG显示均计划在2027年上调OLED显示器面板价格，并因材料成本上升（主要受内存芯片价格飙升推动）下调了2027年OLED显示器面板出货目标。Sigmaintell指出，AI需求强劲导致GPU和显存供应趋紧，DRAM短缺及半导体封装测试瓶颈使scaler IC交期从不足一个月延长至一到两个月。\n   https://www.oled-info.com/sigmaintell-samsung-display-and-lg-display-raise-oled-monitor-panel-prices-2027\n\n2. Polar Light Technologies与富士康科技签署首个microLED光互连协议\n   MicroLED-Info · 2026-11-13\n   瑞典microLED开发商Polar Light Technologies宣布与富士康科技签署其在microLED光互连领域的首个合作协议，双方将评估其microLED作为数据中心、AI加速器和高性能计算系统光链路光源。合作聚焦5 µm绿色microLED，该器件目前在其位于VTT的试产线上生产，属于其首个microLED产品的一部分。\n   https://www.microled-info.com/polar-light-technologies-signs-its-first-microled-optical-interconnect\n\n3. Solus Advanced Materials公布2026年Q3 OLED材料季度销售额创纪录，环比增长26%\n   OLED-Info · 2026-11-13\n   韩国OLED材料商Solus Advanced Materials公布2026年Q3初步业绩，其OLED业务创下最佳季度，营收2540万美元，环比增长26%，同比增长5.6%。公司称增长来自用于移动AMOLED的红色prime空穴传输材料及自有专利HBL材料出货增加，因一家中国面板客户恢复了智能手机面板生产。\n   https://www.oled-info.com/solus-advanced-materials-reports-record-quarterly-oled-material-sales-q3-2026\n\n4. Hims挑战日本Lasertec垄断，实现大型光掩模检测设备国产化\n   The Elec · 2026-11-13\n   韩国设备商Hims将进入此前由日本Lasertec近乎垄断的大型显示用光掩模检测设备市场，其自研设备已通过三星显示的性能评估并临近商用化。据报道，Hims在今年2至6月三星显示的光掩模检测设备性能评估中通过约170个项目，7至8月完成最终验证，最早有望年内获得设备订单。\n   https://www.thelec.kr/news/articleView.html?idxno=65401\n\n5. 飞利浦推出首款100英寸Ambilight电视\n   FlatpanelsHD · 2026-11-13\n   飞利浦发布其首款100英寸Ambilight电视，但大尺寸OLED与miniLED机型仍需等待。\n   https://www.flatpanelshd.com/news.php?subaction=showfull&id=1794563671\n\n6. 部分苹果新款OLED MacBook Pro用户反映眼疲劳与头晕，归因于屏幕240Hz PWM调光\n   OLED-Info · 2026-11-13\n   苹果于11月6日开始出货其首款OLED笔记本MacBook Pro（PROLED XDR显示屏），部分早期买家反映使用后出现眼疲劳、头痛和头晕。相关投诉最初出现在Reddit，多与长时间阅读文本（尤其是深色模式白字黑底）有关，而非观看视频；部分用户称已退货并换回此前的miniLED MacBook Pro。\n   https://www.oled-info.com/some-users-apples-new-oled-macbook-pro-report-eye-strain-and-dizziness-blame\n\n7. 与三星和解后，Pictiva Displays起诉BOE侵犯OLED专利\n   OLED-Info · 2026-11-14\n   爱尔兰专利授权公司Pictiva Displays及其母公司Key Patent Innovations在美国得克萨斯州东区联邦地区法院（Marshall分部）对BOE提起OLED专利侵权诉讼，起诉于2026年11月4日，即其与三星OLED专利纠纷和解后不久。Pictiva主张五项2014至2023年授权的美国专利，源自OSRAM的OLED组合，涵盖OLED器件封装、发光结构和多层封装工艺；诉状称其曾在2020年11月至2021年7月三次联系BOE讨论授权但未获正式回应。\n   https://www.oled-info.com/days-after-settling-samsung-pictiva-displays-sues-boe-oled-patent-infringement\n\n8. TCL华星披露喷墨打印OLED材料供应链，LG电子考虑2028-2029年推出印刷OLED显示器\n   OLED-Info · 2026-11-13\n   TCL华星在11月13日于武汉举行的年度DTC 2026（显示技术大会）上披露其喷墨打印OLED面板的材料供应商，包括SFC（蓝色发光层墨水）、Idemitsu Kosan（蓝色主体材料）、SK Materials JNC（蓝色掺杂剂）、三菱化学集团（蓝色prime材料）和Summer Sprout（红色墨水）。TCL华星称SFC的蓝主体-掺杂体系使溶解度提升约50%，SK Materials JNC的蓝色掺杂剂相较Y3系列材料使器件寿命提升约30%；同时LG电子正考虑在2028-2029年推出印刷OLED显示器。\n   https://www.oled-info.com/tcl-csot-reveals-its-inkjet-printed-oled-material-supply-chain-lg-electronics\n"
+}
