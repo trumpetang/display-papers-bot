@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T05:51:32Z",
+  "digest": {
+    "overview": "今日条目聚焦 MicroLED 产业活动与韩国 OLED 产业动态。MicroLED-Connect 2026 的参会与展区规模均同比增长 25%，议题覆盖 AR/AI 眼镜、车载与 AI 数据中心。韩国在今年上半年重夺全球 OLED 出货量第一，并以 68.3% 的营收份额扩大对中国的领先。韩国显示产业协会同时呼吁尽快通过“超广域特区法”，以改善投资与研发环境。",
+    "papers": [],
+    "news": [
+      {
+        "id": "url:63e9c8796660c772",
+        "kind": "news",
+        "title_zh": "MicroLED-Connect 2026 亮点回顾",
+        "summary_zh": "第三届 MicroLED-Connect 会议暨展览于 2026 年 9 月 16–17 日在荷兰埃因霍温 High Tech Campus 举行，9 月 15 日开设大师课，并与第二届 AR/VR Connect 及首届 Optical I/O Connect 同期举办。现场共有来自 25 个国家的 381 人（含参会者、演讲嘉宾与展商），其中 29% 来自欧洲以外，参会人数与展区规模均较 2025 年增长 25%，设有 6 场主题演讲、3 个分会场及 50 余场报告。",
+        "why": "会议规模与国际化程度提升，反映 MicroLED 在 AR 眼镜、车载与 AI 数据中心等应用方向的产业关注度持续升温。",
+        "tags": [
+          "MicroLED",
+          "AR/VR",
+          "产业会议",
+          "车载显示"
+        ]
+      },
+      {
+        "id": "url:386a0a5c62506c8f",
+        "kind": "news",
+        "title_zh": "韩国 OLED 上半年重夺出货量第一，营收份额扩大至 68.3%",
+        "summary_zh": "据韩国显示产业协会发布的《显示产业主要统计》，今年上半年韩国在全球 OLED 市场出货量份额为 50.1%，以 0.3 个百分点领先中国的 49.8%，夺回此前连续两年被中国拿走的上半年出货量首位。按营收计韩国优势更明显，份额较去年上半年提升 3 个百分点至 68.3%，与中国的差距进一步拉大。",
+        "why": "韩国在 OLED 出货量与营收两端同时扩大优势，将加剧中韩面板厂商在 OLED 产能与高端产品上的竞争。",
+        "tags": [
+          "OLED",
+          "市场份额",
+          "韩国",
+          "产业统计"
+        ]
+      },
+      {
+        "id": "url:0aec3b9d24d5785a",
+        "kind": "news",
+        "title_zh": "韩国显示产业协会：“期待超广域特区法尽快立法”",
+        "summary_zh": "韩国显示产业协会 11 月 16 日表示，对包含企业投资支持与研发人员工时灵活化等内容的“超广域特区法”发表示欢迎，并期待其尽快立法。该特别法案涵盖超广域圈产业据点建设、企业投资的财政与税收支持、监管特例及人才培养等内容。",
+        "why": "若立法落地，有望改善显示产业大规模设备投资与持续研发的政策环境，并带动区域内材料、零部件、设备企业协同发展。",
+        "tags": [
+          "产业政策",
+          "韩国",
+          "投资支持",
+          "显示产业"
+        ]
+      }
+    ],
+    "trends": [
+      "MicroLED 与 AR/VR、车载及 AI 数据中心等应用场景的结合受到持续关注",
+      "韩国在 OLED 出货量与营收份额上重获领先，中韩竞争格局仍是焦点",
+      "产业政策与投资环境支持成为显示产业发展的配套议题"
+    ]
+  },
+  "items": [
+    {
+      "id": "url:63e9c8796660c772",
+      "kind": "news",
+      "title": "Highlights from MicroLED-Connect 2026",
+      "abstract": "MicroLED-Connect 2026, the third edition of our microLED conference and exhibition, took place on September 16–17, 2026 at the High Tech Campus in Eindhoven, the Netherlands. Masterclasses ran the day before, on September 15. The event was co-located with the 2nd AR/VR Connect and the first Optical I/O Connect. MicroLED-Connect 2026 - highlights Our biggest edition yet. 381 people were onsite (attendees, speakers and exhibitors) from 25 countries, and 29% of them came from outside Europe. Attendance and exhibition size both grew by 25% over 2025. Six keynotes. Day 1 focused on AR and AI glasses, with Sony (Hiroshi Mukawa), Google (Bernard Kress) and Meta (Berthold Hahn). Day 2 turned to cars and AI data centers, with Aumovio (Kai Hohmann), Microsoft (Paolo Costa) and Mojo Vision (Nikhil Balram). Three tracks and 50+ talks. Topics ranged from AR light engines and waveguides to microLED microdisplays, hybrid bonding, mass transfer, inspection and metrology, quantum-dot color conversion, optical I/O and automotive displays. Two panels. Karl Guttag led a debate on AR light engines (microLEDs, LCoS and lasers), and Alexander Mityashin led an investor panel on microLED momentum in AR. Masterclasses and dinner. Eight industry-led masterclasses ran in two tracks on September 15, followed by the MicroLED Industry Association dinner. A sold-out exhibition. The ground floor sold out, so for the first time the exhibition also opened an upper floor. The whole value chain. Attendees came f",
+      "url": "https://www.microled-info.com/highlights-microled-connect-2026",
+      "source": "MicroLED-Info",
+      "published": "2026-11-16T04:00:00Z",
+      "authors": [],
+      "score": 8
+    },
+    {
+      "id": "url:386a0a5c62506c8f",
+      "kind": "news",
+      "title": "韓OLED, 상반기 출하량 1위 탈환…매출 점유율도 68.3%로 확대",
+      "abstract": "한국이 올해 상반기 세계 유기발광다이오드(OLED) 시장에서 출하량 1위를 되찾았다. 최근 2년 연속 중국에 내줬던 상반기 출하량 선두 자리를 탈환했다. 매출 점유율도 지난해 상반기보다 3%포인트 높은 68.3%로 올라 중국과의 격차를 벌렸다.17일 한국디스플레이산업협회가 발표한 '디스플레이산업 주요 통계'에 따르면 올해 상반기 한국의 세계 OLED 시장 출하량 점유율은 50.1%로 중국(49.8%)을 0.3%포인트 앞섰다. 지난해 상반기에는 한국이 47.9%, 중국이 51.7%였다.매출 기준으로는 한국의 우위가 더 뚜렷했다. 한국",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65512",
+      "source": "The Elec",
+      "published": "2026-11-17T13:52:46Z",
+      "authors": [],
+      "score": 4
+    },
+    {
+      "id": "url:0aec3b9d24d5785a",
+      "kind": "news",
+      "title": "디스플레이협회 \"초광역특구법 조속 입법 기대\"",
+      "abstract": "디스플레이업계가 기업 투자 지원과 연구개발 인력의 근로시간 유연화 등을 담은 '초광역특구법' 발의를 환영한다는 입장을 냈다.한국디스플레이산업협회는 16일 \"법안의 기본 취지와 추진 방향에 공감하며 조속한 입법을 기대한다\"고 밝혔다.'지방주도성장을 위한 초광역권전략산업특구 지정 및 운영에 관한 특별법안'에는 초광역권 산업거점 조성과 기업 투자에 대한 재정·세제 지원, 규제특례, 인재 양성 등이 담겼다.협회는 대규모 설비투자와 지속적인 연구개발이 필요한 디스플레이산업의 투자 여건을 개선할 수 있을 것으로 봤다. 지역 소재·부품·장비 업",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65478",
+      "source": "The Elec",
+      "published": "2026-11-16T16:53:10Z",
+      "authors": [],
+      "score": 3
+    }
+  ],
+  "errors": [],
+  "plain": "显示行业日报 | 2026-11-17\n今日 1 篇论文 · 3 条新闻\n\n【论文日报】\n\n# 显示面板论文日报 2026-11-17\n\n- 检索机构关键词: 88 个 | 时间窗口: 2026-11-14 ~ 2026-11-17 | 新增论文: 1 篇\n\n## 一般 [Bypassing Android System Services for Fast UI Responsiveness: A Kernel-Application Co-Design Approach](https://doi.org/10.1145/3828523.3857121)\n- 作者: Zizhan Chen, Renhai Chen, Zili Shao\n- 期刊: (预印本/未知) | 发表: 2026-11-14\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Android’s input and display paths rely heavily on user-space system services (InputFlinger, SurfaceFlinger), which introduce significant inter-process communication and scheduling overhead, leading to high latency and limited scalability. We present a method that bypasses these system services by sp…\n\n【行业新闻】\n\n显示行业日报 | 2026-11-17\n今日 1 篇论文 · 3 条新闻\n\n今日条目聚焦 MicroLED 产业活动与韩国 OLED 产业动态。MicroLED-Connect 2026 的参会与展区规模均同比增长 25%，议题覆盖 AR/AI 眼镜、车载与 AI 数据中心。韩国在今年上半年重夺全球 OLED 出货量第一，并以 68.3% 的营收份额扩大对中国的领先。韩国显示产业协会同时呼吁尽快通过“超广域特区法”，以改善投资与研发环境。\n\n行业新闻\n\n1. MicroLED-Connect 2026 亮点回顾\n   MicroLED-Info · 2026-11-16\n   第三届 MicroLED-Connect 会议暨展览于 2026 年 9 月 16–17 日在荷兰埃因霍温 High Tech Campus 举行，9 月 15 日开设大师课，并与第二届 AR/VR Connect 及首届 Optical I/O Connect 同期举办。现场共有来自 25 个国家的 381 人（含参会者、演讲嘉宾与展商），其中 29% 来自欧洲以外，参会人数与展区规模均较 2025 年增长 25%，设有 6 场主题演讲、3 个分会场及 50 余场报告。\n   https://www.microled-info.com/highlights-microled-connect-2026\n\n2. 韩国 OLED 上半年重夺出货量第一，营收份额扩大至 68.3%\n   The Elec · 2026-11-17\n   据韩国显示产业协会发布的《显示产业主要统计》，今年上半年韩国在全球 OLED 市场出货量份额为 50.1%，以 0.3 个百分点领先中国的 49.8%，夺回此前连续两年被中国拿走的上半年出货量首位。按营收计韩国优势更明显，份额较去年上半年提升 3 个百分点至 68.3%，与中国的差距进一步拉大。\n   https://www.thelec.kr/news/articleView.html?idxno=65512\n\n3. 韩国显示产业协会：“期待超广域特区法尽快立法”\n   The Elec · 2026-11-16\n   韩国显示产业协会 11 月 16 日表示，对包含企业投资支持与研发人员工时灵活化等内容的“超广域特区法”发表示欢迎，并期待其尽快立法。该特别法案涵盖超广域圈产业据点建设、企业投资的财政与税收支持、监管特例及人才培养等内容。\n   https://www.thelec.kr/news/articleView.html?idxno=65478\n"
+}
