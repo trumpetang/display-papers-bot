@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T05:18:18Z",
+  "digest": {
+    "overview": "今日条目集中在MicroLED与OLED两条主线：TCL华星发布0.1英寸超高亮度单芯片全彩MicroLED微显示，韩国高校联合LG电子推出改进型转印印章以提升巨量转移精度；OLED方面，SFC因估值问题撤回IPO并披露失去三星IT OLED材料中的蓝色掺杂剂位置，AP Systems洽谈将HMO背板空间ALD设备导入大尺寸IT OLED量产。此外，JDI出售茂原工厂、TCL研发500Hz与5K/6K印刷OLED等消息显示面板厂在产能与技术上持续调整。",
+    "papers": [],
+    "news": [
+      {
+        "id": "url:3058f883b529b280",
+        "kind": "news",
+        "title_zh": "TCL华星发布0.1英寸全彩MicroLED微显示，峰值亮度超100万尼特",
+        "summary_zh": "TCL华星在武汉DTC 2026活动上发布0.1英寸单芯片全彩MicroLED微显示，峰值亮度超过100万尼特，面向AR眼镜等近眼设备。该器件采用硅基架构，蓝、绿外延层垂直堆叠，红光由TCL自研量子点材料进行颜色转换，从而省去红色MicroLED芯片并降低多芯片集成与对准复杂度。",
+        "why": "若该架构量产可行，将降低全彩MicroLED微显示的集成难度，对AR近眼显示供应链的芯片与量子点材料环节形成推动。",
+        "tags": [
+          "MicroLED",
+          "微显示",
+          "AR眼镜",
+          "量子点"
+        ]
+      },
+      {
+        "id": "url:f4c3b8154389d252",
+        "kind": "news",
+        "title_zh": "研究人员开发刚性芯体MicroLED转印印章，芯片放置误差减半",
+        "summary_zh": "韩国汉阳大学、美国莱斯大学与LG电子生产技术研究院合作，开发出用于MicroLED转印的弹性印章，每个微柱在软PDMS中嵌入刚性PDMS芯体。刚性芯体可防止压合时微柱侧弯，软外层保持贴合接触，使芯片放置精度较标准印章显著提升、误差减半。",
+        "why": "转印精度提升直接关系MicroLED巨量转移良率，有助于推动MicroLED显示从研发走向量产。",
+        "tags": [
+          "MicroLED",
+          "巨量转移",
+          "转印印章",
+          "封装"
+        ]
+      },
+      {
+        "id": "url:43441e272fc7cb20",
+        "kind": "news",
+        "title_zh": "SFC在公开认购前一天撤回IPO，并披露失去三星最新IT OLED材料中的蓝色掺杂剂位置",
+        "summary_zh": "韩国蓝色OLED发光材料企业SFC在公开认购开始前一天撤回KOSPI上市计划，称在11月9日至13日机构需求预测后难以获得合理估值。公司原计划发行500万股、每股23.7至27.0美元，最高募资1.35亿美元，估值480至550亿美元区间远低于此前预期的7.5亿美元。",
+        "why": "蓝色发光材料企业融资受阻并失去三星IT OLED材料份额，反映OLED上游材料竞争与验证周期对供应商经营的影响。",
+        "tags": [
+          "OLED材料",
+          "蓝色发光",
+          "IPO",
+          "三星"
+        ]
+      },
+      {
+        "id": "url:5163210c7f5613bf",
+        "kind": "news",
+        "title_zh": "AP Systems洽谈将其HMO背板空间ALD设备导入大尺寸IT OLED量产",
+        "summary_zh": "韩国设备商AP Systems表示正与一家OLED生产商讨论，将其用于高迁移率氧化物（HMO）TFT背板的原子层沉积设备导入笔记本、平板和显示器等大尺寸IT OLED面板量产。公司未披露客户名称，称目标是进入主要客户下一代IT OLED产线，并已提升该系统的性能、准备供货。",
+        "why": "若被采用，将推动HMO背板设备在大尺寸IT OLED产线的国产化与量产导入，影响OLED设备供应链格局。",
+        "tags": [
+          "OLED",
+          "HMO",
+          "ALD设备",
+          "IT面板"
+        ]
+      },
+      {
+        "id": "url:2fba72036e3098a9",
+        "kind": "news",
+        "title_zh": "高丽锌业与美国SolarCycle合作开展光伏废弃面板回收",
+        "summary_zh": "高丽锌业17日与美国光伏废弃面板回收企业SolarCycle签署合同，成立合资公司Jupiter，交易完成后高丽锌业持有70%表决权、SolarCycle持有30%。合资公司通过结合高丽锌业美国资源循环子公司PedalPoint持有的Ebvterra股份与SolarCycle的业务部门设立，双方以实物出资。",
+        "why": "该合作指向光伏组件回收环节，与显示行业关联有限，但反映材料回收与资源循环在电子产业链中的延伸。",
+        "tags": [
+          "光伏回收",
+          "资源循环",
+          "合资公司"
+        ]
+      },
+      {
+        "id": "url:37950bfad14eceee",
+        "kind": "news",
+        "title_zh": "TCL研发500Hz、5K与6K印刷OLED显示屏",
+        "summary_zh": "据FlatpanelsHD报道，TCL正在研发500Hz、5K和6K印刷OLED显示屏，并涉及蓝色PHOLED面板。摘要信息有限，请见原文。",
+        "why": "若落地，将拓展印刷OLED在高刷新率与高分辨率方向的产品形态，对印刷OLED路线形成验证。",
+        "tags": [
+          "印刷OLED",
+          "PHOLED",
+          "高刷新率"
+        ]
+      },
+      {
+        "id": "url:5071229d2c532179",
+        "kind": "news",
+        "title_zh": "日本显示器将茂原OLED工厂出售给新光电气工业",
+        "summary_zh": "日本显示器（JDI）于2026年9月30日签署协议，将千叶县茂原工厂出售给半导体封装基板企业新光电气工业，后者计划将其改造为倒装芯片封装核心工厂，预计2028财年投产。JDI未披露价格，但预计录得3.22亿美元收益，按其账面价值1.67亿美元及出售费用推算，售价至少约4.9亿美元；截至2026年9月底净资产回升至3100万美元。",
+        "why": "JDI出售OLED工厂并改善净资产，反映其收缩面板制造、转向维持上市地位；厂址转用于先进封装则体现半导体与显示产能资源的再配置。",
+        "tags": [
+          "JDI",
+          "OLED工厂",
+          "资产出售",
+          "先进封装"
+        ]
+      }
+    ],
+    "trends": [
+      "MicroLED在微显示与巨量转移环节同步推进，亮度与转移精度成为关键指标",
+      "OLED上游材料与设备环节竞争加剧，涉及蓝色发光材料份额与HMO背板沉积设备导入",
+      "面板厂持续进行产能与资产结构调整，同时推进印刷OLED、高刷新率等新技术方向"
+    ]
+  },
+  "items": [
+    {
+      "id": "url:3058f883b529b280",
+      "kind": "news",
+      "title": "TCL CSOT unveils a 0.1-inch full-color microLED microdisplay with a peak brightness of over 1 million nits",
+      "abstract": "China-based display maker TCL CSOT unveiled a 0.1-inch single-chip full-color microLED microdisplay with a peak brightness of over 1 million nits, at its DTC 2026 event held on November 13 in Wuhan. TCL says that this is the world's brightest single-chip full-color microLED-on-silicon display, and it targets AR glasses and other near-eye devices. The new microdisplay uses a new silicon-substrate architecture, in which blue and green epitaxial layers are stacked vertically, while red light is created by color conversion, using quantum dot materials developed in-house by TCL. Compared with integrating separate red, green and blue microLED chips, this approach removes the need for a red microLED chip, which should reduce the complexity of multi-chip integration and precise alignment, while keeping a high brightness, a wide color gamut and good manufacturing yields. TCL did not disclose the display's resolution or pixel density.",
+      "url": "https://www.microled-info.com/tcl-csot-unveils-01-inch-full-color-microled-microdisplay-peak-brightness-over",
+      "source": "MicroLED-Info",
+      "published": "2026-11-17T09:03:06Z",
+      "authors": [],
+      "score": 11
+    },
+    {
+      "id": "url:f4c3b8154389d252",
+      "kind": "news",
+      "title": "Researchers develop a microLED transfer stamp with a stiff core that halves chip placement errors",
+      "abstract": "Researchers from Korea's Hanyang University and Rice University in the US, together with engineers from LG Electronics' Production Engineering Research Institute, have developed a new elastomer stamp for microLED transfer printing that places the chips much more accurately than a standard stamp. Each micropillar in the stamp has a stiff PDMS core embedded within soft PDMS. The core stops the pillar from bending as it presses a chip onto the display substrate, while the soft outer layer keeps the conformal contact needed to pick up and release the chips. In transfer printing, a stamp made of soft silicone rubber (PDMS) picks up microLEDs from their donor wafer and presses them onto the receiving substrate. If the substrate is slightly tilted or uneven, the soft pillars bend sideways under the pressure, and the chips slide away from their intended positions. In the new hybrid stamp, a hard PDMS core (with a modulus of 10.5 MPa, compared with 1.26 MPa for the standard soft PDMS) fills about 12 µm of each 20 µm tall pillar, and it is fully wrapped in soft PDMS. The stamp is made by coating layers of soft PDMS, hard PDMS and soft PDMS again into a mold, so the core forms inside each pillar on its own, without extra masks or alignment steps.",
+      "url": "https://www.microled-info.com/researchers-develop-microled-transfer-stamp-stiff-core-halves-chip-placement",
+      "source": "MicroLED-Info",
+      "published": "2026-11-17T11:44:52Z",
+      "authors": [],
+      "score": 6
+    },
+    {
+      "id": "url:43441e272fc7cb20",
+      "kind": "news",
+      "title": "SFC withdraws its IPO a day before the public subscription, reveals it lost the blue dopant slot in Samsung's latest IT OLED material set",
+      "abstract": "Korea-based blue OLED emitter maker SFC (Sun Fine Chem) withdrew its planned IPO on Korea's KOSPI exchange, a day before the public subscription was set to begin. SFC says that after it completed the demand forecast with institutional investors (held on November 9-13), it decided together with its underwriters to cancel the offering, as it is currently difficult for the company to receive a fair valuation. SFC cleared its preliminary listing review in October . It planned to offer 5 million shares at $23.7 to $27.0 per share, which would have raised up to $135 million and valued the company at $480 to $550 million - well below the $750 million valuation that was expected earlier . An SFC official said that market conditions have deteriorated significantly since the company started to prepare its listing, and that it is now considering another attempt in the first quarter of 2027, depending on the market. Two other Korean IPO candidates also withdrew after their demand forecasts in the past week.",
+      "url": "https://www.oled-info.com/sfc-withdraws-its-ipo-day-public-subscription-its-filing-reveals-it-lost-blue",
+      "source": "OLED-Info",
+      "published": "2026-11-18T05:05:44Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:5163210c7f5613bf",
+      "kind": "news",
+      "title": "AP Systems in talks to bring its spatial ALD system for HMO backplanes into large-area IT OLED production",
+      "abstract": "Korea-based display and semiconductor equipment maker AP Systems says that it is in discussions with an OLED producer to bring its atomic layer deposition (ALD) system for high-mobility oxide ( HMO ) TFT backplanes into mass production of large-area OLED panels for IT applications such as laptops, tablets and monitors. AP Systems did not name the panel maker, but says that its goal is to see the tool adopted for a major customer's next-generation IT OLED production. In July, we reported that AP Systems is developing a plasma-enhanced ALD (PeALD) system for HMO deposition , and the company now says that it has improved the system's performance and is preparing to supply it.",
+      "url": "https://www.oled-info.com/ap-systems-talks-bring-its-spatial-ald-system-hmo-backplanes-large-area-it-oled",
+      "source": "OLED-Info",
+      "published": "2026-11-17T18:00:09Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:2fba72036e3098a9",
+      "kind": "news",
+      "title": "고려아연, 美 솔라사이클과 태양광 폐패널 협력",
+      "abstract": "고려아연이 미국 태양광 폐패널 재활용 전문기업 솔라사이클과 합작법인을 설립한다.고려아연은 17일 솔라사이클과 합작법인 '주피터' 설립 계약을 체결했다고 밝혔다. 거래가 완료되면 고려아연 측이 의결권의 70%, 솔라사이클 측이 30%를 확보한다.합작법인은 고려아연의 미국 자원순환 자회사 페달포인트가 보유한 에브테라 지분과 솔라사이클의 사업 부문을 결합하는 방식으로 설립한다. 양사는 각각 보유 지분을 현물출자한다.솔라사이클은 미국에서 태양광 폐패널 수거망을 구축한 기업이다. 마이크로소프트는 2024년 전략적 투자자로 참여했으며 미국 투",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65561",
+      "source": "The Elec",
+      "published": "2026-11-17T16:49:59Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:37950bfad14eceee",
+      "kind": "news",
+      "title": "TCL developing 500Hz, 5K and 6K printed OLED displays",
+      "abstract": "Also panels with blue PHOLED",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1794898746",
+      "source": "FlatpanelsHD",
+      "published": "2026-11-17T07:45:00Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:5071229d2c532179",
+      "kind": "news",
+      "title": "Japan Display sells its former OLED fab in Mobara to Shinko Electric Industries",
+      "abstract": "On September 30, 2026, Japan Display (JDI) signed a definitive agreement to sell the Mobara fab, in Chiba Prefecture, to Shinko Electric Industries, a Japanese maker of semiconductor package substrates. Shinko plans to turn the site into a new core plant for its flip-chip packages, which are used in AI accelerators and other advanced chips, and expects to start operating it in its fiscal year 2028. JDI did not disclose the price, but it expects to book a gain of $322 million on the sale. As that gain is the price minus the fab's book value ($167 million) and the sale expenses, the price should be at least $490 million. JDI reports that its net assets turned positive again, reaching $31 million at the end of September 2026, up from negative $46 million at the end of March. This matters quite a bit to JDI, as it must show positive net assets on March 31, 2027 to keep its listing on the Prime Market of the Tokyo Stock Exchange (TSE). The recovery relies mainly on new shares issued to its main shareholder, and on the sale of its Mobara fab - the site of JDI's only OLED production line, which is now set to become a semiconductor packaging plant.",
+      "url": "https://www.oled-info.com/japan-display-returns-positive-net-assets-it-sells-its-former-oled-fab-mobara",
+      "source": "OLED-Info",
+      "published": "2026-11-17T08:14:38Z",
+      "authors": [],
+      "score": 3
+    }
+  ],
+  "errors": [],
+  "plain": "显示行业日报 | 2026-11-18\n今日 13 篇论文 · 7 条新闻\n\n【论文日报】\n\n# 显示面板论文日报 2026-11-18\n\n- 检索机构关键词: 88 个 | 时间窗口: 2026-11-15 ~ 2026-11-18 | 新增论文: 13 篇\n\n## 一般 [An integrated machining performance framework considering tool wear and hole integrity attributes during drilling via indexable drilling inserts using entropy-weights and TOPSIS](https://doi.org/10.1038/s41598-026-78568-1)\n- 作者: Muhammad Farzik Ijaz, Muhammad Zubair Afzal, Samina Ishtiaq\n- 期刊: Scientific Reports | 发表: 2026-11-15\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Quantification of machinability is challenging, especially with the development of new materials like DC 53 steel and new tooling, such as the fabrication of indexable inserts. In this context, an integrated machining performance framework named the Integrated Hole Integrity Index (IHII) is proposed…\n\n## 一般 [Elongatable Liquid Crystal Elastomer Optical Waveguide Actuator](https://doi.org/10.1002/adfm.79659)\n- 作者: Nuo Li, Haojun Liu, Tanxi Wang\n- 期刊: Advanced Functional Materials | 发表: 2026-11-15\n- 技术分类: 显示光学 | 机构类别: \n- 摘要: ABSTRACT Facing the application demand for flexible and low‐damage elongation actuators in interventional medicine, conventional liquid crystal elastomer (LCE) devices are constrained by the alignment of liquid crystal mesogens and struggle to achieve efficient linear elongation. Inspired by leeches…\n\n## 一般 [Single‐Cell and Bulk Transcriptomic Dissection of Ferroptosis‐Associated VSMC Remodeling in Rat Carotid Neointimal Hyperplasia](https://doi.org/10.1096/fj.202603862rr)\n- 作者: Chen Ya, Deng Chunhua, Zhengli Liu\n- 期刊: The FASEB Journal | 发表: 2026-11-15\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Vascular smooth muscle cell remodeling contributes to neointimal hyperplasia after vascular injury. We examined ferroptosis-associated transcriptional observations and selected candidate markers in rat carotid injury datasets and tissue specimens. We examined day-28 single-cell data (GSE174098), day…\n\n## 一般 [A Perchlorate Pentagonal-Bipyramidal Dy(III) Single-Ion Magnet: Structure–Magnetism Correlations and Computational Analysis of Magnetization Relaxation](https://doi.org/10.1021/acsomega.6c11095)\n- 作者: Yi-Ting Lei, Yu-Hsuan Liu, Gene-Hsiang Lee\n- 期刊: ACS Omega | 发表: 2026-11-16\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract First-sphere axiality is a key design principle for high-performance Dy(III) single-ion magnets, but magnetic relaxation can also be influenced by the surrounding solid-state environment. Here, we report a perchlorate member of the phosphine-oxide-supported pentagonal-bipyramidal Dy(III) SI…\n\n## 一般 [Content licensing strategy in AI–publisher coopetition: the role of asymmetric comparative advantages and citation intensity](https://doi.org/10.1108/apjml-05-2026-1311)\n- 作者: Weixue Diao, Yulin Zhang\n- 期刊: Asia Pacific Journal of Marketing and Logistics | 发表: 2026-11-16\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Purpose This study examines strategic content licensing between a generative artificial intelligence (AI) platform and a digital news publisher in digital news markets, an important issue for understanding where AI platforms rely on publisher content while competing for user attention. It analyzes h…\n\n## 一般 [Controlling four degrees of freedom of perfect vector vortex beams via wavelength-multiplexed metasurfaces](https://doi.org/10.1186/s43074-026-00296-6)\n- 作者: Mengran Jiang, Limin Lin, Zuhai Ma\n- 期刊: PhotoniX | 发表: 2026-11-16\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Perfect vector vortex beams (PVVBs) have emerged as a powerful platform for high-dimensional information processing, high-capacity optical communications and encryption. To further expand the information capacity of PVVBs, collaborative manipulation of their multiple degrees of freedom unde…\n\n## 一般 [Introducing a Germanene/Phosphorene Heterostructure as High-Performance Anode Material in Li, Na, and Mg-ion Batteries: A DFT Study](https://doi.org/10.1007/s11664-026-13332-9)\n- 作者: Yahaya Saadu Itas, Mayeen Uddin Khandaker, Faiza Benabdallah\n- 期刊: Journal of Electronic Materials | 发表: 2026-11-16\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Maternal and early life obesity programs CD4+ T cell fate to impair vaccine immunity](https://doi.org/10.1038/s41590-026-02700-6)\n- 作者: Michaël F. Michieletto, Monica T. Jimenez, Atishay Jay\n- 期刊: Nature Immunology | 发表: 2026-11-16\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: In their first 3 years, children experience an average of 14 infections and receive vaccines against roughly 15 pathogens, yet whether maternal and early life obesity alters adaptive immune responses during this critical period remains largely undefined. Using a mouse model that mirrored the epidemi…\n\n## 一般 [Non-linear patterns of biodiversity and carbon stocks along an elevation gradient in Himalayan forests](https://doi.org/10.1016/j.catena.2026.110769)\n- 作者: Furbe Lama, Allan Degen, Sudeep Thakuri\n- 期刊: CATENA | 发表: 2026-11-16\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Regulating photocatalytic nitrogen reduction via d-electron-mediated synergistic adsorption in dual-atom catalysts](https://doi.org/10.1039/d6mh01371f)\n- 作者: Chenxi Xia, Hongwei Li, Qiu He\n- 期刊: Materials Horizons | 发表: 2026-11-16\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: antibonding orbitals, which was confirmed through crystal orbital Hamilton population (COHP) and Bader charge analyses. This mechanism underpins the superior NRR performance of NbRu@g-CN, which exhibits the lowest limiting potential (-0.43 V), while MoMo@g-CN and RuPd@g-CN display superior photocata…\n\n## 一般 [Single-cell profiling of PBMCs reveals distinct immune signatures associated with methotrexate response in rheumatoid arthritis](https://doi.org/10.1186/s13075-026-03948-x)\n- 作者: Lei Pei, Linmang Qin, Yafang Deng\n- 期刊: Arthritis Research & Therapy | 发表: 2026-11-16\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Rheumatoid arthritis (RA) is a systemic autoimmune disease with complex pathogenesis and clinical heterogeneity. Methotrexate (MTX) is the cornerstone treatment for RA, yet 30–40% of patients exhibit an inadequate response. This study aims to systematically compare the differences in immune characte…\n\n## 一般 [Validity, Judgment, and Authority: The Hypotension Prediction Index as a Test Case for Clinical AI Alignment](https://doi.org/10.62838/jccm-2026-0068)\n- 作者: Stefan Andrei, Pierre-Grégoire Guinot, David Holcman\n- 期刊: The Journal of Critical Care Medicine | 发表: 2026-11-16\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: The Hypotension Prediction Index (HPI) estimates from the arterial waveform the likelihood of impending hypotension and, when the index is high, prompts review of a secondary screen that displays pulse pressure or stroke volume variation (PPV/SVV), peripheral arterial dP/dt, and dynamic arterial ela…\n\n## 一般 [Data and supplemental evidence for \"Scholarly Publications as Big Data for Artificial Intelligence: Text and Data Mining Law and Journal Publishers' Rights Reservations in Comparative Perspective\"](https://doi.org/10.5281/zenodo.24291321)\n- 作者: Aiman Omarova, Sholpan Malikova, Beknur Yerzhanuly Abdirazak\n- 期刊: Zenodo (CERN European Organization for Nuclear Research) | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: This dataset accompanies the manuscript “Scholarly Publications as Big Data for Artificial Intelligence: Text and Data Mining Law and Journal Publishers’ Rights Reservations in Comparative Perspective”, prepared for Publications. It contains the codebook (S1), coding workbook (S2), source-address re…\n\n【行业新闻】\n\n显示行业日报 | 2026-11-18\n今日 13 篇论文 · 7 条新闻\n\n今日条目集中在MicroLED与OLED两条主线：TCL华星发布0.1英寸超高亮度单芯片全彩MicroLED微显示，韩国高校联合LG电子推出改进型转印印章以提升巨量转移精度；OLED方面，SFC因估值问题撤回IPO并披露失去三星IT OLED材料中的蓝色掺杂剂位置，AP Systems洽谈将HMO背板空间ALD设备导入大尺寸IT OLED量产。此外，JDI出售茂原工厂、TCL研发500Hz与5K/6K印刷OLED等消息显示面板厂在产能与技术上持续调整。\n\n行业新闻\n\n1. TCL华星发布0.1英寸全彩MicroLED微显示，峰值亮度超100万尼特\n   MicroLED-Info · 2026-11-17\n   TCL华星在武汉DTC 2026活动上发布0.1英寸单芯片全彩MicroLED微显示，峰值亮度超过100万尼特，面向AR眼镜等近眼设备。该器件采用硅基架构，蓝、绿外延层垂直堆叠，红光由TCL自研量子点材料进行颜色转换，从而省去红色MicroLED芯片并降低多芯片集成与对准复杂度。\n   https://www.microled-info.com/tcl-csot-unveils-01-inch-full-color-microled-microdisplay-peak-brightness-over\n\n2. 研究人员开发刚性芯体MicroLED转印印章，芯片放置误差减半\n   MicroLED-Info · 2026-11-17\n   韩国汉阳大学、美国莱斯大学与LG电子生产技术研究院合作，开发出用于MicroLED转印的弹性印章，每个微柱在软PDMS中嵌入刚性PDMS芯体。刚性芯体可防止压合时微柱侧弯，软外层保持贴合接触，使芯片放置精度较标准印章显著提升、误差减半。\n   https://www.microled-info.com/researchers-develop-microled-transfer-stamp-stiff-core-halves-chip-placement\n\n3. SFC在公开认购前一天撤回IPO，并披露失去三星最新IT OLED材料中的蓝色掺杂剂位置\n   OLED-Info · 2026-11-18\n   韩国蓝色OLED发光材料企业SFC在公开认购开始前一天撤回KOSPI上市计划，称在11月9日至13日机构需求预测后难以获得合理估值。公司原计划发行500万股、每股23.7至27.0美元，最高募资1.35亿美元，估值480至550亿美元区间远低于此前预期的7.5亿美元。\n   https://www.oled-info.com/sfc-withdraws-its-ipo-day-public-subscription-its-filing-reveals-it-lost-blue\n\n4. AP Systems洽谈将其HMO背板空间ALD设备导入大尺寸IT OLED量产\n   OLED-Info · 2026-11-17\n   韩国设备商AP Systems表示正与一家OLED生产商讨论，将其用于高迁移率氧化物（HMO）TFT背板的原子层沉积设备导入笔记本、平板和显示器等大尺寸IT OLED面板量产。公司未披露客户名称，称目标是进入主要客户下一代IT OLED产线，并已提升该系统的性能、准备供货。\n   https://www.oled-info.com/ap-systems-talks-bring-its-spatial-ald-system-hmo-backplanes-large-area-it-oled\n\n5. 高丽锌业与美国SolarCycle合作开展光伏废弃面板回收\n   The Elec · 2026-11-17\n   高丽锌业17日与美国光伏废弃面板回收企业SolarCycle签署合同，成立合资公司Jupiter，交易完成后高丽锌业持有70%表决权、SolarCycle持有30%。合资公司通过结合高丽锌业美国资源循环子公司PedalPoint持有的Ebvterra股份与SolarCycle的业务部门设立，双方以实物出资。\n   https://www.thelec.kr/news/articleView.html?idxno=65561\n\n6. TCL研发500Hz、5K与6K印刷OLED显示屏\n   FlatpanelsHD · 2026-11-17\n   据FlatpanelsHD报道，TCL正在研发500Hz、5K和6K印刷OLED显示屏，并涉及蓝色PHOLED面板。摘要信息有限，请见原文。\n   https://www.flatpanelshd.com/news.php?subaction=showfull&id=1794898746\n\n7. 日本显示器将茂原OLED工厂出售给新光电气工业\n   OLED-Info · 2026-11-17\n   日本显示器（JDI）于2026年9月30日签署协议，将千叶县茂原工厂出售给半导体封装基板企业新光电气工业，后者计划将其改造为倒装芯片封装核心工厂，预计2028财年投产。JDI未披露价格，但预计录得3.22亿美元收益，按其账面价值1.67亿美元及出售费用推算，售价至少约4.9亿美元；截至2026年9月底净资产回升至3100万美元。\n   https://www.oled-info.com/japan-display-returns-positive-net-assets-it-sells-its-former-oled-fab-mobara\n"
+}
