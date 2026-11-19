@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T05:13:20Z",
+  "digest": {
+    "overview": "今日两条新闻均围绕OLED终端应用展开：一条涉及苹果iMac OLED项目可能延期或取消，另一条涉及Philips OLED电视新增自动游戏检测功能。整体来看，OLED在IT与电视两大终端市场的推进节奏与产品功能迭代仍是关注焦点。",
+    "papers": [],
+    "news": [
+      {
+        "id": "url:49a904780a398e8b",
+        "kind": "news",
+        "title_zh": "苹果考虑取消iMac搭载OLED计划",
+        "summary_zh": "据报道，苹果正全面重新审视在iMac上搭载OLED的计划，并与三星显示讨论开发日程延期乃至项目取消的可能性。业界认为，OLED面板价格偏高以及既有OLED产品销量不佳是影响因素。",
+        "why": "若计划延期或取消，将影响OLED面板在IT显示器领域的渗透节奏，并对三星显示等相关面板厂的供货预期产生压力。",
+        "tags": [
+          "OLED",
+          "苹果",
+          "iMac",
+          "面板供应链"
+        ]
+      },
+      {
+        "id": "url:4d5dc19c56e33c4f",
+        "kind": "news",
+        "title_zh": "Philips OLED电视新增自动游戏检测功能",
+        "summary_zh": "Philips 2026年OLED电视及MLED981获得自动游戏检测功能。摘要信息有限，请见原文。",
+        "why": "游戏检测等智能化功能成为OLED电视差异化竞争点，有助于提升电视端OLED产品的使用体验与市场吸引力。",
+        "tags": [
+          "OLED",
+          "电视",
+          "游戏",
+          "Philips"
+        ]
+      }
+    ],
+    "trends": [
+      "OLED在终端产品中的应用推进与调整是今日条目的共同主题",
+      "面板成本与产品销量成为影响OLED终端落地决策的关键因素",
+      "OLED电视与IT产品均在通过功能或规格迭代寻求差异化"
+    ]
+  },
+  "items": [
+    {
+      "id": "url:49a904780a398e8b",
+      "kind": "news",
+      "title": "애플, 아이맥 OLED 탑재 백지화 검토",
+      "abstract": "애플이 아이맥에 유기발광다이오드(OLED)를 탑재하는 계획을 전면 재검토하고 있는 것으로 알려졌다.삼성디스플레이와 개발 일정 연기 및 백지화 가능성을 논의 중인 것으로 전해진다. 높은 OLED 패널 가격과 기존 OLED 탑재 제품의 판매 부진이 영향을 미친 것으로 풀이된다.19일 업계에 따르면 애플은 최근 삼성디스플레이와 OLED 아이맥 개발 일정 조정을 논의하고 있다. 당초 계획을 연기하는 방안뿐 아니라 프로젝트 자체를 중단하는 방안도 검토 대상에 오른 것으로 전해졌다.업계 관계자는 \"현재로서는 일정을 늦추고 시장 상황을 지켜보는",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65641",
+      "source": "The Elec",
+      "published": "2026-11-19T13:15:21Z",
+      "authors": [],
+      "score": 5
+    },
+    {
+      "id": "url:4d5dc19c56e33c4f",
+      "kind": "news",
+      "title": "Philips OLED TVs gain automatic game detection",
+      "abstract": "2026 OLED TVs and MLED981",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1794993645",
+      "source": "FlatpanelsHD",
+      "published": "2026-11-18T08:23:00Z",
+      "authors": [],
+      "score": 3
+    }
+  ],
+  "errors": [
+    "RSS OLED-Info: 403 Client Error: Forbidden for url: https://www.oled-info.com/rss.xml",
+    "RSS MicroLED-Info: 403 Client Error: Forbidden for url: https://www.microled-info.com/rss.xml"
+  ],
+  "plain": "显示行业日报 | 2026-11-19\n今日 17 篇论文 · 2 条新闻\n\n【论文日报】\n\n# 显示面板论文日报 2026-11-19\n\n- 检索机构关键词: 88 个 | 时间窗口: 2026-11-16 ~ 2026-11-19 | 新增论文: 17 篇\n\n## 一般 [Antioxidant‐functionalized quantum dots mitigate cadmium toxicity and enhance grain quality and yield in wheat ( Triticum aestivum L.) cultivars](https://doi.org/10.1002/jsfa.71235)\n- 作者: Muhammad Anas, Amjid Khan, Eman A. Mahmoud\n- 期刊: Journal of the Science of Food and Agriculture | 发表: 2026-11-16\n- 技术分类: QLED/QD | 机构类别: \n- 摘要: Abstract BACKGROUND Cadmium (Cd) contamination limits wheat productivity and grain quality by disrupting growth, photosynthesis, redox homeostasis, and nutrient allocation. This study evaluated the effectiveness of ascorbate‐, glutathione‐, and berberine‐functionalized quantum dots (ASCQDs, GLUQDs, …\n\n## 一般 [Evaluating safety benefits and driver responses to in-vehicle advance warnings for heavy vehicles approaching abnormal roadway hazards on mountainous freeways](https://doi.org/10.1016/j.aap.2026.108886)\n- 作者: Rui Ding, Yongfeng Ma, Baikun Zhu\n- 期刊: Accident Analysis & Prevention | 发表: 2026-11-16\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [High Performance F/P Hybrid White OLEDs Based on A New HLCT Blue‐Emitting Material](https://doi.org/10.1002/aelm.70651)\n- 作者: Yuwen Chen, Xinyue Hu, Jianwen Qin\n- 期刊: Advanced Electronic Materials | 发表: 2026-11-16\n- 技术分类: OLED | 机构类别: \n- 摘要: ABSTRACT Fluorescence/Phosphorescence (F/P) hybrid white organic light‐emitting diodes (WOLEDs) have emerged as a promising technology for next‐generation lighting sources and achieved remarkable progress in recent years. Nevertheless, developing high‐performance F/P hybrid WOLEDs that simultaneousl…\n\n## 一般 [A modified shear strength prediction method for soil-cement pile composite foundation in subgrade slope](https://doi.org/10.1007/s10064-026-05392-2)\n- 作者: Siyu Ren, Yiliang Tu, Ruyi Deng\n- 期刊: Bulletin of Engineering Geology and the Environment | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Beyond Classical Photocatalysis: Linking the Distinctive Properties of Quantum-Confined Nanocrystals to Photochemical Reactivity](https://doi.org/10.1007/s11814-026-00889-8)\n- 作者: Ryun Na Kim, Namhoon Kim, Jihoon Kim\n- 期刊: Korean Journal of Chemical Engineering | 发表: 2026-11-17\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: Quantum-confined semiconductor nanocrystals offer distinctive ways to control excitation energy and probe photochemical reactivity. Size-dependent electronic structures tune redox energetics, carrier interactions and dopant states redistribute excitation energy, and discrete excitonic transitions pr…\n\n## 一般 [Box H/ACA snoRNP regulates development and lipid metabolism in Drosophila melanogaster](https://doi.org/10.1093/genetics/iyag335)\n- 作者: Hui Yang, Liu Zhao, Xuying Zhou\n- 期刊: Genetics | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Lipid homeostasis is essential for organismal function, as its disruption drives various metabolic disorders. Using an unbiased genetic modifier screen in Drosophila, we identified GAR1, a core component of the box H/ACA small nucleolar ribonucleoprotein complex, as a key regulator of syste…\n\n## 一般 [Comparison of gastric cancer statistics in China and Japan based on the GLOBOCAN and CI5Plus databases](https://doi.org/10.3389/fonc.2026.1929870)\n- 作者: Haoran Zhang, Chang Yan, Jun Luo\n- 期刊: Frontiers in Oncology | 发表: 2026-11-17\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: Introduction Gastric cancer (GC) is a major global public health burden. In this comparative ecological study, we used the 2022 Global Cancer Observatory (GLOBOCAN) database to compare the national GC burden between China and Japan and the Cancer Incidence in Five Continents Plus (CI5Plus) database …\n\n## 一般 [Comprehensive Genomic Landscape Across Histopathological Stages of Lung Adenocarcinoma: A Retrospective Cross‐Sectional Study](https://doi.org/10.1002/mco2.71150)\n- 作者: Xueting Hu, Yongsheng Huang, Yuyan Cao\n- 期刊: MedComm | 发表: 2026-11-17\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: ABSTRACT The genomic features associated with the histopathological spectrum from precursor glandular lesions to invasive lung adenocarcinoma remain incompletely characterized. In this retrospective cross‐sectional study, we performed targeted sequencing of 823 resected lesions from 823 patients, in…\n\n## 一般 [Cross-Linking Architecture Governs Interactions between Opposing Microgel Monolayers Probed by Total Internal Reflection Microscopy](https://doi.org/10.1021/acs.langmuir.6c04911)\n- 作者: Li Zhang, Zuwei Zhao, Pui Wo Felix Yeung\n- 期刊: Langmuir | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract We investigate how internal network architecture governs interlayer interactions and confined dynamics in microgel monolayers using total internal reflection microscopy (TIRM). Three poly(N-isopropylacrylamide) (PNIPAM) microgels with distinct architectures─dense-core (DC), dense-shell (DS)…\n\n## 一般 [Dynamic alterations of the oral-gut microbiome during colorectal adenoma progression and their clinical associations](https://doi.org/10.3389/fcimb.2026.1948776)\n- 作者: Shuning Ding, Chenwei Xiao, Shuangshuang Guo\n- 期刊: Frontiers in Cellular and Infection Microbiology | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Background The “oral-gut axis” drives colorectal tumorigenesis, yet cross-niche microbial succession during early precancerous adenoma progression remains poorly understood. Methods We performed 16S rRNA amplicon sequencing on matched salivary and fecal samples from 81 individuals spanning three his…\n\n## 一般 [Health literacy in the digital era and shared decision-making among patients with autoimmune inflammatory rheumatic diseases: a mixed-methods study](https://doi.org/10.1186/s12911-026-03948-6)\n- 作者: Junghee Yoon, Soo‐Kyung Cho, Soo-Bin Lee\n- 期刊: BMC Medical Informatics and Decision Making | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Shared decision-making (SDM) is recommended for patients with autoimmune inflammatory rheumatic diseases (AIRD), whose treatment decisions are recurrent, preference-sensitive, and increasingly mediated through digital health environments. Yet patients often report only partial involvement, and how t…\n\n## 一般 [Knockout of RAG complex genes in chicken reveals distinct dosage effects on avian B cell development after V(D)J recombination](https://doi.org/10.3389/fimmu.2026.1945045)\n- 作者: Seung Je Woo, Thirubasyini Songodan, Hong Jo Lee\n- 期刊: Frontiers in Immunology | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Introduction In chickens, B cell receptor (BCR) diversity is generated primarily through gene conversion rather than V(D)J recombination. Unlike in mammals, RAG1 haploinsufficiency impairs chicken B cell development and subsequent gene conversion, indicating an avian-specific dosage requirement. How…\n\n## 一般 [Simplicity from chaos: new perspectives on quantum dynamics and quantum gravity](https://doi.org/10.48660/26110063)\n- 作者: Shreya Vardhan\n- 期刊: PIRSA | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Chaos is often associated with unpredictability and complexity. Nevertheless, generic quantum many-body dynamics often exhibit simple and universal features arising from quantum chaos. I will show with two examples how this perspective can help address core questions in fields ranging from quantum c…\n\n## 一般 [Site-Selective Peripheral Aryl Substitution Tunes Red-to-Near-Infrared Fluorescence in Thienopyrazine-Fused Pyrene Heteroacenes](https://doi.org/10.26434/chemrxiv.15012350/v1)\n- 作者: Kuang Xu, Niranjan Ganje, Kiran Sai Venkata Godi\n- 期刊: ChemRxiv | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: We report four thienopyrazine-fused pyrene heteroacenes with aryl substituents varied at the pyrene core and flanking thiophene rings. Compounds 1–3 exhibit neat-film photoluminescence quantum yields of 64–88% at 564–589 nm, whereas compound 4 displays an emission maximum at 767 nm in solution. Sing…\n\n## 一般 [The environmental fates, exposure routes, and human health implications of liquid crystal monomers: an emerging global contaminant](https://doi.org/10.1007/s00204-026-04655-x)\n- 作者: Fangru Chen, Yang Liu, Yan Xia\n- 期刊: Archives of Toxicology | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Transient and steady-state heat transfer in unit-cell-based thermal metamaterials for point-source thermal management](https://doi.org/10.1016/j.ijheatmasstransfer.2026.129905)\n- 作者: Kyungbeom Seo, Shouhong Ji, Ming Zi Hong\n- 期刊: International Journal of Heat and Mass Transfer | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Research Materials for \"Designing Corrective Feedback: How Interface Structure Shapes User Review, Training Data, and Model Outputs\"](https://doi.org/10.5281/zenodo.24320865)\n- 作者: Yao Du\n- 期刊: Zenodo (CERN European Organization for Nuclear Research) | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: De-identified research materials accompanying the manuscript \"Designing Corrective Feedback: How Interface Structure Shapes User Review, Training Data, and Model Outputs.\" The deposit contains derived Study 1 behavioral-path and eye-tracking AOI tables; the Study 2 full-corpus trace-audit dataset, a…\n\n【行业新闻】\n\n显示行业日报 | 2026-11-19\n今日 17 篇论文 · 2 条新闻\n\n今日两条新闻均围绕OLED终端应用展开：一条涉及苹果iMac OLED项目可能延期或取消，另一条涉及Philips OLED电视新增自动游戏检测功能。整体来看，OLED在IT与电视两大终端市场的推进节奏与产品功能迭代仍是关注焦点。\n\n行业新闻\n\n1. 苹果考虑取消iMac搭载OLED计划\n   The Elec · 2026-11-19\n   据报道，苹果正全面重新审视在iMac上搭载OLED的计划，并与三星显示讨论开发日程延期乃至项目取消的可能性。业界认为，OLED面板价格偏高以及既有OLED产品销量不佳是影响因素。\n   https://www.thelec.kr/news/articleView.html?idxno=65641\n\n2. Philips OLED电视新增自动游戏检测功能\n   FlatpanelsHD · 2026-11-18\n   Philips 2026年OLED电视及MLED981获得自动游戏检测功能。摘要信息有限，请见原文。\n   https://www.flatpanelshd.com/news.php?subaction=showfull&id=1794993645\n"
+}
