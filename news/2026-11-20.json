@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T05:00:37Z",
+  "digest": {
+    "overview": "今日条目集中在OLED产业链的调整与需求侧变化：LG Display正式撤销P10 10.5代OLED TV线投资并整合大/中型事业部，Apple据报重新评估OLED iMac计划；同时QD-OLED游戏显示器与OLED显示器出货保持增长，MSI在2026年三季度升至OLED显示器品牌第二。另有AR眼镜成本目标与OLED堆叠材料供应链情报类内容。",
+    "papers": [],
+    "news": [
+      {
+        "id": "url:c8b6aba8f8c48e48",
+        "kind": "news",
+        "title_zh": "三星显示在釜山G-STAR上推广QD-OLED",
+        "summary_zh": "三星显示在釜山BEXCO于19日至22日举办的G-STAR 2026上，与CD Projekt Red、Krafton合作设立QD-OLED游戏体验区，展出92台搭载QD-OLED面板的显示器，包括MSI 27英寸QHD MAG 272QP QD-OLED X24和三星电子32英寸4K Odyssey OLED G8。",
+        "why": "借助全球游戏IP与展会场景推广QD-OLED，有助于扩大高端游戏显示器面板的需求与品牌认知。",
+        "tags": [
+          "QD-OLED",
+          "游戏显示器",
+          "三星显示",
+          "展会"
+        ]
+      },
+      {
+        "id": "url:c368cea6932430b2",
+        "kind": "news",
+        "title_zh": "LG Display撤销坡州10.5代OLED 3万亿韩元投资",
+        "summary_zh": "LG Display于19日公告，决定不再推进坡州P10工厂10.5代OLED生产设施投资，该投资于2019年决定、原定2028年3月结束，规模为3万亿韩元。公司称新冠疫情、俄乌战争、高物价高利率等外部环境恶化，且OLED TV市场增长放缓。",
+        "why": "大尺寸OLED扩产计划落空，将影响上游设备与材料需求节奏，并强化面板厂以现有产能应对市场的策略。",
+        "tags": [
+          "LG Display",
+          "10.5代",
+          "OLED TV",
+          "投资撤销"
+        ]
+      },
+      {
+        "id": "url:a9ce2649ce2dd54f",
+        "kind": "news",
+        "title_zh": "LG Display正式取消P10工厂约22.5亿美元10.5代OLED TV线投资",
+        "summary_zh": "LG Display宣布正式取消在韩国坡州P10工厂约22.5亿美元的10.5代OLED TV生产线投资，董事会于11月19日决定不推进该2019年7月批准、此后多次延期的项目。公司监管文件称疫情、俄乌战争、高通胀与高利率、以色列-哈马斯战争等不可控事件改变市场环境，OLED TV增长放缓、LCD向OLED转换慢于预期。",
+        "why": "该决定确认大尺寸OLED产能扩张暂缓，产业链需重新评估设备、材料及大尺寸面板供给预期。",
+        "tags": [
+          "LG Display",
+          "10.5代",
+          "OLED TV",
+          "产能投资"
+        ]
+      },
+      {
+        "id": "url:97df50824c59c269",
+        "kind": "news",
+        "title_zh": "100/4/100挑战：显示产业能否让AR眼镜走向大众市场？",
+        "summary_zh": "在Bay Area SID（BASID）One Day Conference上，显示产业领袖、技术开发者和制造商围绕“100/4/100挑战”展开讨论，目标是将包含波导在内的显示子系统平均售价降至约100美元，使带显示的智能眼镜价格可负担并达到1亿台市场规模。",
+        "why": "若成本目标推进，将牵动AR眼镜显示方案、波导与MicroLED等微显示供应链的降本路径。",
+        "tags": [
+          "AR眼镜",
+          "MicroLED",
+          "成本",
+          "SID"
+        ]
+      },
+      {
+        "id": "url:b1a474e4d64e49d7",
+        "kind": "news",
+        "title_zh": "OLED-Info Pro新增交互式OLED堆叠材料报告，含可自建市场预测",
+        "summary_zh": "OLED-Info Pro发布关于OLED堆叠材料的市场报告，以交互式数据工具和PDF形式汇总已知信息，覆盖空穴注入层及其p掺杂剂、空穴传输与prime层、主体与发光体、电子传输与注入层、串联器件中的电荷产生层以及覆盖层，并列出各层供应商、已知客户及信息可靠度。",
+        "why": "提升OLED材料供应链透明度，为面板厂与材料商的供应关系研判提供参考工具。",
+        "tags": [
+          "OLED材料",
+          "供应链",
+          "市场报告",
+          "OLED-Info Pro"
+        ]
+      },
+      {
+        "id": "url:c754a6cbc3a9d691",
+        "kind": "news",
+        "title_zh": "LG Display合并大尺寸与中尺寸事业部，郑哲东社长留任",
+        "summary_zh": "LG Display在19日公布2027年定期高管人事与组织改编，将原有大尺寸、中尺寸、小尺寸三个事业部重组为中大尺寸和小尺寸两个事业部，以支持中尺寸产品向OLED转换并加快决策速度；郑哲东社长继续担任代表理事。",
+        "why": "组织整合反映面板厂向中尺寸OLED倾斜资源，可能影响IT/车载等中尺寸OLED供给与竞争格局。",
+        "tags": [
+          "LG Display",
+          "组织改编",
+          "中尺寸OLED",
+          "人事"
+        ]
+      },
+      {
+        "id": "url:f0d3828c05cd553a",
+        "kind": "news",
+        "title_zh": "报道称Apple重新考虑OLED iMac计划，或延期甚至取消",
+        "summary_zh": "据韩国报道，Apple正重新考虑在iMac一体机中采用OLED显示屏的计划，并与三星显示就调整开发日程进行协商，当前方向是延期观察市场，取消也在考虑之中。主因是成本：iMac销量远低于智能手机和笔记本，昂贵OLED面板难以维持价格竞争力，且2024年推出的采用双层串联OLED的iPad Pro销售未达预期。",
+        "why": "若OLED iMac延期或取消，将影响中大尺寸OLED面板的IT应用需求预期与面板厂客户规划。",
+        "tags": [
+          "Apple",
+          "OLED iMac",
+          "成本",
+          "IT OLED"
+        ]
+      },
+      {
+        "id": "url:0cf694578e36b09c",
+        "kind": "news",
+        "title_zh": "TrendForce：MSI在2026年三季度超越三星成为第二大OLED显示器品牌",
+        "summary_zh": "TrendForce称2026年三季度全球OLED显示器出货环比增长13%、同比翻倍，主要受品牌新品和面板供应充足推动；华硕以21.7%份额居首，MSI份额从12.8%升至14.5%首次升至第二，前三季度出货与三星大致相当。",
+        "why": "OLED显示器需求与二线品牌扩张并行，利好面板供应端出货，同时加剧品牌端竞争。",
+        "tags": [
+          "OLED显示器",
+          "TrendForce",
+          "MSI",
+          "市场份额"
+        ]
+      },
+      {
+        "id": "url:4d715b61de041be6",
+        "kind": "news",
+        "title_zh": "LG电子晋升李相佑、白承台为社长",
+        "summary_zh": "LG电子更换负责TV与媒体业务的MS事业本部负责人，原LG经营战略部门负责人李相佑升任社长并担任MS事业本部长兼显示器事业部长；生活家电解决方案HS事业本部长白承台也升任社长。公司于19日经董事会批准实施2027年高管人事与组织改编，人事自明年1月1日、组织改编自下月1日生效。",
+        "why": "TV与显示器业务负责人更替，可能影响LG电子在OLED TV及显示相关业务的策略节奏。",
+        "tags": [
+          "LG电子",
+          "人事",
+          "OLED TV",
+          "组织改编"
+        ]
+      }
+    ],
+    "trends": [
+      "大尺寸OLED扩产趋于谨慎：LG Display撤销10.5代OLED TV线投资，Apple据报重估OLED iMac，显示需求与成本压力受关注。",
+      "OLED显示器与游戏场景成为需求增长点：三星显示在G-STAR推广QD-OLED，TrendForce显示三季度OLED显示器出货环比增长13%。",
+      "面板厂组织与人事调整并行：LG Display合并大/中尺寸事业部，LG电子更换MS事业本部负责人，反映对中尺寸OLED与业务效率的重视。"
+    ]
+  },
+  "items": [
+    {
+      "id": "url:c8b6aba8f8c48e48",
+      "kind": "news",
+      "title": "삼성D, 부산 지스타서 QD-OLED 알린다",
+      "abstract": "삼성디스플레이가 부산에서 열리는 지스타 2026에서 글로벌 게임업체와 함께 퀀텀닷(QD)-유기발광다이오드(OLED) 게이밍 체험존을 운영한다.삼성디스플레이는 19~22일 부산 벡스코에서 열리는 지스타 2026에서 CD 프로젝트 레드, 크래프톤과 협업해 QD-OLED 모니터를 전시한다고 20일 밝혔다.행사에는 QD-OLED 패널을 탑재한 모니터 92대가 전시된다. MSI의 27인치 QHD 'MAG 272QP QD-OLED X24'와 삼성전자의 32인치 4K '오디세이 OLED G8' 등이다.CD 프로젝트 레드 부스에서는 '더 위쳐 3",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65694",
+      "source": "The Elec",
+      "published": "2026-11-20T08:26:32Z",
+      "authors": [],
+      "score": 8
+    },
+    {
+      "id": "url:c368cea6932430b2",
+      "kind": "news",
+      "title": "LG디스플레이, 파주 10.5세대 OLED 3조 투자 철회",
+      "abstract": "LG디스플레이가 경기 파주 P10 공장의 10.5세대 유기발광다이오드(OLED) 생산라인에 대한 3조원 규모 투자 계획을 철회했다. 2019년 투자 결정을 내린 지 7년 만이다.LG디스플레이는 19일 10.5세대 OLED 생산시설 투자를 진행하지 않기로 결정했다고 공시했다. 당초 투자 종료 시점은 2028년 3월이었다.LG디스플레이는 2019년 초대형 OLED 시장 선점과 생산 경쟁력 강화를 위해 투자를 결정했었다. 이후 코로나19와 러시아·우크라이나 전쟁, 고물가·고금리 등으로 대외 여건이 악화했고 OLED TV 시장 성장세도 둔",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65689",
+      "source": "The Elec",
+      "published": "2026-11-19T18:33:41Z",
+      "authors": [],
+      "score": 6
+    },
+    {
+      "id": "url:a9ce2649ce2dd54f",
+      "kind": "news",
+      "title": "LG Display officially cancels its $2.25 billion 10.5-Gen OLED TV line investment at its P10 fab",
+      "abstract": "LG Display announced that it has officially cancelled its plan to invest around $2.25 billion in a 10.5-Gen OLED TV production line at its P10 fab in Paju, Korea. The company's board decided on November 19 not to go ahead with the investment, which was approved back in July 2019 and has been postponed several times since. In our spotlight on LG Display last month we wrote that the project had effectively been shelved - and now it is official. In its regulatory filing, LGD explains that since it made the investment decision, events beyond its control - the global pandemic, the Russia-Ukraine war, high inflation and interest rates, and the Israel-Hamas war - changed the market environment and made it difficult to carry out the investment as planned. Demand changed too: OLED TV growth slowed down and the transition from LCD to OLED took longer than expected, so the large OLED market has been in a slump for several years. In 2019, large and ultra-large TV panels were the main large-area OLED products, but today the fastest growth is in smaller premium products, such as gaming OLED monitors.",
+      "url": "https://www.oled-info.com/lg-display-officially-cancels-its-225-billion-105-gen-oled-tv-line-investment",
+      "source": "OLED-Info",
+      "published": "2026-11-20T04:50:10Z",
+      "authors": [],
+      "score": 5
+    },
+    {
+      "id": "url:97df50824c59c269",
+      "kind": "news",
+      "title": "The 100/4/100 Challenge: Can the Display Industry Make AR Glasses a Mass-Market Reality?",
+      "abstract": "By Sri Peruvemba, a self-described Pixelhiker who has spent nearly three decades pursuing the elusive pixel. A tech CEO, board member and advisor, Sri works with companies around the world to navigate technology, innovation and business strategy. He has been an active SID volunteer since 2002. Reach him at Sri@miinc.co . The future of augmented reality (AR) smart glasses may depend on a deceptively simple number: $100. At the Bay Area SID (BASID) One Day Conference, display industry leaders, technology developers and manufacturers came together around an ambitious goal known as the 100/4/100 challenge: $100 for 100 million. The idea is straightforward but far from easy to achieve. The industry wants to bring the average selling price (ASP) of the display subsystem, including the waveguide, to approximately $100, making display-equipped smart glasses affordable enough to reach a market of 100 million units. This is more than a cost-reduction exercise. It is a call for the display ecosystem to work together on manufacturing scale, technology roadmaps, common standards, testing and integration. The conference made clear that no single company can solve all these challenges alone.",
+      "url": "https://www.microled-info.com/1004100-challenge-can-display-industry-make-ar-glasses-mass-market-reality",
+      "source": "MicroLED-Info",
+      "published": "2026-11-19T04:58:43Z",
+      "authors": [],
+      "score": 4
+    },
+    {
+      "id": "url:b1a474e4d64e49d7",
+      "kind": "news",
+      "title": "New on OLED-Info Pro: an interactive OLED stack materials report, with a build-your-own market forecast",
+      "abstract": "An OLED display is built from a stack of about a dozen organic layers, and each layer has its own short list of qualified suppliers. Who supplies which layer to which panel maker is rarely announced, and it changes with every new material set. Our new OLED-Info Pro market report on OLED stack materials brings together what is known, as an interactive data tool and a PDF report. The report covers the whole evaporated stack: the hole injection layer and its p-dopant, the hole transport and prime layers, the hosts and emitters, the electron transport and injection layers, the charge generation layers used in tandem devices, and the capping layer. For each one it lists the companies that make it, their known customers, and how firm the information is.",
+      "url": "https://www.oled-info.com/oled-stack-materials-makers-customers-and-market-scenarios-interactive-data",
+      "source": "OLED-Info",
+      "published": "2026-11-19T10:57:52Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:c754a6cbc3a9d691",
+      "kind": "news",
+      "title": "LG디스플레이, 대형과 중형 사업부 통합…정철동 사장 유임",
+      "abstract": "LG디스플레이가 대형과 중형 사업부를 하나로 합친다. 중형 제품의 유기발광다이오드(OLED) 전환을 뒷받침하고 의사결정 속도를 높이기 위해서다. 정철동 사장은 대표이사를 계속 맡는다.LG디스플레이는 19일 2027년 정기 임원인사와 조직 개편 내용을 밝혔다. 이번 개편으로 대형, 중형, 소형으로 나뉘었던 3개 사업부는 중대형과 소형 2개 사업부로 재편된다.LG디스플레이는 이날 이사회 승인을 거쳐 6명을 전무로 승진시키고 11명을 상무로 신규 선임했다. 연구개발과 OLED 분야에서 성과를 낸 인물이 전무 승진자에 포함됐다.핵심 기술의",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65660",
+      "source": "The Elec",
+      "published": "2026-11-19T18:32:16Z",
+      "authors": [],
+      "score": 4
+    },
+    {
+      "id": "url:f0d3828c05cd553a",
+      "kind": "news",
+      "title": "Reports suggest Apple is reconsidering its OLED iMac plans, and may delay or even cancel the project",
+      "abstract": "Reports from Korea suggest that Apple is reconsidering its plans to adopt OLED displays in its iMac all-in-one computers . Apple is said to be in talks with Samsung Display to adjust the development schedule. The current direction is to delay the project and see how the market develops, but cancelling it altogether is also on the table. The main reason is cost. The iMac sells in much lower volumes than smartphones or laptops, and an expensive OLED panel would make it hard for Apple to keep the iMac's price competitive. Apparently, weak sales of the OLED iPad Pro also played a role. The iPad Pro, launched in 2024, adopted a 2-stack tandem OLED , but the high panel cost pushed up the device's price, and sales did not meet Apple's expectations .",
+      "url": "https://www.oled-info.com/reports-suggest-apple-reconsidering-its-oled-imac-plans-and-may-delay-or-even",
+      "source": "OLED-Info",
+      "published": "2026-11-19T10:53:52Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:0cf694578e36b09c",
+      "kind": "news",
+      "title": "TrendForce: MSI overtakes Samsung to become the second-largest OLED monitor brand in Q3 2026",
+      "abstract": "TrendForce says that global OLED monitor shipments grew 13% in Q3 2026 compared to Q2, and doubled compared to Q3 2025. The growth was driven by new product launches from the major brands, and also by ample panel supply, which enabled second-tier and emerging brands to significantly expand their shipments. ASUS remains the market leader, with a 21.7% market share. Its shipments grew 6% from Q2, as supply constraints on its high-end 27\" QHD 540Hz panels eased, and new models launched for the brand's 20th anniversary also helped. MSI climbed to second place for the first time, as its market share rose to 14.5% (up from 12.8%). MSI's growth was driven by orders for its 27\" QHD monitors ahead of the holiday season, and by several new models, including 27\" QHD 320Hz monitors. Over the first three quarters of 2026, MSI's shipments were roughly on par with Samsung's.",
+      "url": "https://www.oled-info.com/trendforce-msi-overtakes-samsung-become-second-largest-oled-monitor-brand-q3",
+      "source": "OLED-Info",
+      "published": "2026-11-19T06:31:51Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:4d715b61de041be6",
+      "kind": "news",
+      "title": "LG전자, 이상우·백승태 사장 승진",
+      "abstract": "LG전자가 TV, 미디어 사업을 맡는 미디어엔터테인먼트솔루션(MS)사업본부 수장을 교체했다. 이상우 (주)LG 경영전략부문장이 LG전자 MS사업본부장 겸 디스플레이사업부장을 맡으며 사장으로 승진했다. 백승태 생활가전솔루션(HS)사업본부장도 사장으로 승진했다.LG전자는 19일 이사회 승인을 거쳐 2027년 임원인사와 조직개편을 실시했다고 밝혔다. 임원인사는 내년 1월 1일, 조직개편은 다음 달 1일부터 적용한다.이상우 신임 사장은 1996년 LG정보통신 중앙연구소에 입사한 뒤 LG전자에서 LCD TV 플랫폼기획그룹장, HE신사업그룹장",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65671",
+      "source": "The Elec",
+      "published": "2026-11-19T16:26:01Z",
+      "authors": [],
+      "score": 2
+    }
+  ],
+  "errors": [],
+  "plain": "显示行业日报 | 2026-11-20\n今日 24 篇论文 · 9 条新闻\n\n【论文日报】\n\n# 显示面板论文日报 2026-11-20\n\n- 检索机构关键词: 88 个 | 时间窗口: 2026-11-17 ~ 2026-11-20 | 新增论文: 24 篇\n\n## 一般 [Compact Split-Lohmann Lens via Dual-domain Phase Optimization](https://doi.org/10.1145/3829340.3842337)\n- 作者: Yong-Ju Jeon, Byounghyo Lee, Jiwoon Yeom\n- 期刊: SIGGRAPH Asia Conference Papers | 发表: 2026-11-17\n- 技术分类: 显示光学 | 机构类别: \n- 摘要: Rendering accurate virtual depths in accommodation-supporting near-eye displays relies on generating wavefronts with spatially varying curvature. The Split-Lohmann lens uses a cubic-phase plate, a relay lens, and a spatial light modulator (SLM), offering an effective method for generating these wave…\n\n## 一般 [Leveraging a human-integrated mouse organoid platform to identify ERBB signalling as a target in β-catenin mutation-driven hepatocellular carcinoma](https://doi.org/10.1136/gutjnl-2025-337370)\n- 作者: Tin Lok Wong, 吴焕文, Ianto Bosheng Huang\n- 期刊: Gut | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Background Although the repertoire of systemic therapies for advanced hepatocellular carcinoma (HCC) continues to expand, patient outcomes remain highly variable and often suboptimal. Emerging evidence suggests that treatment efficacy is significantly influenced by the underlying disease aetiology a…\n\n## 一般 [Tandem Architecture of Luminescent Solar Concentrator Based on AgInS 2 /ZnS Quantum Dots for Maximizing Light Harvesting](https://doi.org/10.1002/sys3.70051)\n- 作者: Lei Jin, Xin Liu, Gurpreet Singh Selopal\n- 期刊: SmartSys | 发表: 2026-11-17\n- 技术分类: QLED/QD | 机构类别: \n- 摘要: ABSTRACT Luminescent solar concentrators (LSCs) offer a promising solution for building‐integrated photovoltaics by combining large‐area light collection with edge‐mounted solar cells. To date, their widespread adoption has been limited by three fundamental challenges: (1) reabsorption losses in flu…\n\n## 一般 [Thermal–UV dual-curing of acrylic pressure-sensitive adhesives: structure-property relationships and stage-specific adhesion modulation](https://doi.org/10.1080/01694243.2026.2756372)\n- 作者: Younghoon Kim, HoYeon Moon, Junyoung Park\n- 期刊: Journal of Adhesion Science and Technology | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Pressure-sensitive adhesives (PSAs) are versatile materials that adhere to surfaces under light pressure and can be removed without leaving residue. Acrylic PSAs are particularly attractive owing to their optical transparency, weather resistance, and tunable physicochemical properties, which make th…\n\n## 一般 [Visual stimuli modulate phonological prediction during listening comprehension: Evidence from visual world paradigms](https://doi.org/10.3758/s13423-026-03047-7)\n- 作者: Taohui Li, Xiaodong Xu\n- 期刊: Psychonomic Bulletin & Review | 发表: 2026-11-17\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [ACSS2 modulates endothelial glycolysis in angiogenesis](https://doi.org/10.1073/pnas.2528240123)\n- 作者: Yunyun Wang, QingQiao ZHA, Rong‐Mo Zhang\n- 期刊: Proceedings of the National Academy of Sciences | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Endothelial cells (ECs) sustain high glycolytic flux and display remarkable metabolic plasticity. Although molecular pathways regulating endothelial glycolysis are well characterized, metabolic mechanisms underlying hypoxia-induced glycolytic activation during angiogenesis remain poorly understood. …\n\n## 一般 [Bifunctional Ligand Engineering of Aminophosphine‐Derived InP Quantum Dots for Efficient Green Electroluminescence](https://doi.org/10.1002/smll.76731)\n- 作者: Awais Ali, Zakir Ullah, Habib Ullah\n- 期刊: Small | 发表: 2026-11-18\n- 技术分类: QLED/QD | 机构类别: \n- 摘要: ABSTRACT Tris(dimethylamino)phosphine ((DMA) 3 P)‐derived InP QDs commonly suffer from surface oxidation, undercoordinated surface atoms, and inefficient interfacial charge injection, which limit their optical and electroluminescent performance. Herein, we report a bifunctional ligand‐engineering st…\n\n## 一般 [Chaperone modulation and the structural basis for sRNA recognition by the conserved ribonuclease YicC](https://doi.org/10.1073/pnas.2621133123)\n- 作者: Kai Katsuya-Gaviria, Giulia Paris, Ben F. Luisi\n- 期刊: Proceedings of the National Academy of Sciences | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: The broadly conserved bacterial endoribonuclease YicC represents a widespread but enigmatic family of RNA processing enzymes with poorly defined substrate selectivity. Here, we show that Escherichia coli YicC displays a distinct selectivity, cleaving small regulatory RNAs (sRNAs) such as RyhB and Rp…\n\n## 一般 [Chemical Bonds, Gendered Boundaries: Doing and Undoing Gender Among People Who Use Methamphetamine in China](https://doi.org/10.1177/15570851261508084)\n- 作者: Serena Yunran Zhang, Peng Wang, Hua Zhong\n- 期刊: Feminist Criminology | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Drawing on in-depth interviews with men and women who use methamphetamine in China, this article applies the concepts of “doing gender” and “undoing gender” to examine the gendered dynamics of drug use. Drug practices often reproduce gender norms: men emphasize masculinity, control, and dominance, w…\n\n## 一般 [Common early-life exposure of the colorectal epithelium to the microbiome-derived mutagen colibactin](https://doi.org/10.64898/2026.11.16.766949)\n- 作者: Henry N. Marshall, My H. Pham, Hyunchul Jung\n- 期刊: bioRxiv (Cold Spring Harbor Laboratory) | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Colibactin is a mutagen produced by bacterial strains in the colorectal microbiomes of some healthy people. It generates somatic mutations characterised by the mutational signatures SBS88 and ID18 in normal human colorectal epithelial cells in vivo. Increasing prevalence of colibactin mutagenesis du…\n\n## 一般 [Effects of Co- and Ni-Based Brazing Filler Alloys on the Microstructure and Tensile Properties of DD5 Single-Crystal Superalloy](https://doi.org/10.3390/cryst16110728)\n- 作者: Dongling Yang, Shusuo Li, Taili Chen\n- 期刊: Crystals | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: DD5 Ni-based single-crystal superalloy was diffusion-brazed using Ni-based (NB) and Co-based (CB) filler alloys to systematically investigate the effects of filler alloy composition on joint microstructure, secondary phase formation, microhardness, and high-temperature tensile properties at 870 °C. …\n\n## 一般 [Exploiting the Class IIa-Specific Hydrophobic Pocket: A Linker-Driven Strategy for Designing HDAC7-Targeted Inhibitors](https://doi.org/10.3390/ph19111840)\n- 作者: Wei-Bin Wu, Jian-Sheng Chen, Hsuan-Chun Huang\n- 期刊: Pharmaceuticals | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Background/Objectives: Histone deacetylase 7 (HDAC7), a class IIa epigenetic regulator, is implicated in the progression of multiple malignancies; however, the development of selective HDAC7 inhibitors remains challenging due to the high structural conservation among HDAC isoforms, particularly with…\n\n## 一般 [Immunosenescence in Metabolic Disorders: From Cellular Mechanisms to Therapeutic Strategies](https://doi.org/10.1007/s13679-026-00778-5)\n- 作者: Dong Guo, Chen Qingqing, Hong Cai\n- 期刊: Current Obesity Reports | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n\n## 一般 [Insights into Lamellar Growth and Multilayer Structures in Cyclic Polymer Crystallization: A Molecular Dynamics Study](https://doi.org/10.1021/acs.macromol.6c02419)\n- 作者: Xiangfeng Zhang, Chuanfu Luo, Dadong Yan\n- 期刊: Macromolecules | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Obtaining well-ordered multilamellar polymer crystals across long time and length scales remains challenging in molecular dynamics simulations. Due to their closed topology, cyclic polymers display crystallization behavior distinct from their linear counterparts. Multilamellar growth has pr…\n\n## 一般 [Microfabrication Route Shapes Morphology and Performance in PEDOT:PSS Organic Electrochemical Transistors](https://doi.org/10.1002/advs.78796)\n- 作者: Martina Gini, Daniela Rana, Alejandra Flores Cáceres\n- 期刊: Advanced Science | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: ABSTRACT Organic mixed ionic‐electronic conductors (OMIECs), and in particular PEDOT:PSS, have become central to the development of bioelectronic interfaces. Nonetheless, their integration with standard microfabrication remains challenging, as OMIECs are sensitive to processes commonly used in litho…\n\n## 一般 [Noradrenergic input from sympathetic nerves to fibroblasts regulates lung fibrosis](https://doi.org/10.1126/scitranslmed.adw3631)\n- 作者: Genta Ishikawa, Alexander Ghincea, Xueyan Peng\n- 期刊: Science Translational Medicine | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Pulmonary fibrosis is a progressive, irreversible condition in which expansion of effector fibroblasts and extracellular matrix obliterates alveolar gas exchange regions of the lung through incompletely understood mechanisms. We found sympathetic nerve fibers in fibrotic alveolar regions enriched fo…\n\n## 一般 [OSMAC-facilitated discovery of isopimarane-type diterpenoids with nitric oxide-inhibitory activity from the coralline algicolous fungus Peroneutypa scoparia Km3347](https://doi.org/10.1186/s40529-026-00501-6)\n- 作者: Wen-Yee Chen, Chi-I Huang, Wei-Chiung Chi\n- 期刊: Botanical studies | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Background Marine-derived fungi are recognized as prolific producers of structurally diverse secondary metabolites with remarkable biological activities. The one strain–many compounds (OSMAC) strategy has emerged as a useful approach for accessing fungal chemical diversity through manipulat…\n\n## 一般 [Pathway Selection in Phenol Oxidation by a Ni(III)−Hydroxo Complex: Solvent and Substrate Control of Proton‐Coupled Electron Transfer](https://doi.org/10.1002/ange.7166912)\n- 作者: Hung‐Ruei Pan, Tsai Chun‐Ming, Po‐Hsin Wang\n- 期刊: Angewandte Chemie | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: ABSTRACT Understanding the factors governing pathway selection in proton‐coupled electron transfer (PCET) remains a challenge in oxidative chemistry. Herein, we investigate phenol oxidation by a late‐transition metal hydroxo complex [Na(15c5)][Ni(PS3″)(OH)] ([Na(15c5)][ 1 ], 15c5 = 15−crown−5 ether …\n\n## 一般 [Pathway Selection in Phenol Oxidation by a Ni(III)−Hydroxo Complex: Solvent and Substrate Control of Proton‐Coupled Electron Transfer](https://doi.org/10.1002/anie.7166912)\n- 作者: Hung‐Ruei Pan, Tsai Chun‐Ming, Po‐Hsin Wang\n- 期刊: Angewandte Chemie International Edition | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: ABSTRACT Understanding the factors governing pathway selection in proton‐coupled electron transfer (PCET) remains a challenge in oxidative chemistry. Herein, we investigate phenol oxidation by a late‐transition metal hydroxo complex [Na(15c5)][Ni(PS3″)(OH)] ([Na(15c5)][ 1 ], 15c5 = 15−crown−5 ether …\n\n## 一般 [Phase‐Inverted Dual‐Resonant 2D Photonic Crystal Phosphor Enabling High Excitation‐Photon Absorptance (∼80%) and Enhanced Color Conversion](https://doi.org/10.1002/advs.78783)\n- 作者: Lakjong Jeong, Hansol Lee, Taehyeok Kim\n- 期刊: Advanced Science | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: ABSTRACT Photonic crystal (PhC) phosphors have emerged as an effective platform for enhancing excitation‐photon absorption through resonant light‐matter interactions. In particular, an air‐hole‐based 2D PhC phosphor with a TiO 2 backbone layer enables strong light–matter interaction due to the signi…\n\n## 一般 [Protein Corona Selectivity on Carbon Nanotube Biosensors Is Driven by Surface Coating and Chirality](https://doi.org/10.1021/acsnano.6c13049)\n- 作者: Rebecca L. Pinals, Han Li, Randhal Ramirez\n- 期刊: ACS Nano | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: Abstract Semiconducting single-walled carbon nanotubes (SWCNTs) are versatile near-infrared fluorophores that can be engineered to create sensors for biological research and diagnostic applications. SWCNT properties depend on both surface functionalization and underlying lattice structure, defined b…\n\n## 一般 [Self‐Constructed Localized States in Mixed‐Low‐Dimensional Halide for Efficient Broadband Yellow Emitter](https://doi.org/10.1002/lpor.72249)\n- 作者: Xuefang Lu, Liang Li, Yangshuqin Hui\n- 期刊: Laser & Photonics Review | 发表: 2026-11-18\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: ABSTRACT Low‐dimensional halides are regarded as promising candidates for highly efficient, stable, and broadband luminescent materials owing to their strong localized excitons and significant electron‐phonon coupling. These properties address key challenges in solid‐state lighting and display appli…\n\n## 一般 [Uneven Home-to-Work Geographies during COVID-19: Evidence from U.S. LODES](https://doi.org/10.21203/rs.3.rs-11446207/v1)\n- 作者: Wanghao Wu, Xiaoming Li, Jianhang Feng\n- 期刊: Research Square | 发表: 2026-11-18\n- 技术分类: 封装/模组 | 机构类别: \n- 摘要: Abstract Changes in aggregate employment counts do not fully describe the geography of linked home and workplace locations during COVID-19. We use U.S. Census Bureau Longitudinal Employer--Household Dynamics Origin--Destination Employment Statistics (LODES) for 2019--2021 to compare employment-linka…\n\n## 一般 [Visible but not spoken? Linguistic visibility, family language policy, and youth dialect vitality in urbanizing China](https://doi.org/10.1080/14664208.2026.2763011)\n- 作者: 谢芳, Chunxiang Wu, Tianyi Gu\n- 期刊: Current Issues in Language Planning | 发表: 2026-11-18\n- 技术分类: 其他/跨领域 | 机构类别: \n- 摘要: This study examines the gap between the symbolic visibility of regional dialects and adolescents' opportunities to use them in urbanizing China. Drawing on language policy, linguistic-landscape research, family language policy and youth language-shift scholarship, it develops a symbolic visibility-c…\n\n【行业新闻】\n\n显示行业日报 | 2026-11-20\n今日 24 篇论文 · 9 条新闻\n\n今日条目集中在OLED产业链的调整与需求侧变化：LG Display正式撤销P10 10.5代OLED TV线投资并整合大/中型事业部，Apple据报重新评估OLED iMac计划；同时QD-OLED游戏显示器与OLED显示器出货保持增长，MSI在2026年三季度升至OLED显示器品牌第二。另有AR眼镜成本目标与OLED堆叠材料供应链情报类内容。\n\n行业新闻\n\n1. 三星显示在釜山G-STAR上推广QD-OLED\n   The Elec · 2026-11-20\n   三星显示在釜山BEXCO于19日至22日举办的G-STAR 2026上，与CD Projekt Red、Krafton合作设立QD-OLED游戏体验区，展出92台搭载QD-OLED面板的显示器，包括MSI 27英寸QHD MAG 272QP QD-OLED X24和三星电子32英寸4K Odyssey OLED G8。\n   https://www.thelec.kr/news/articleView.html?idxno=65694\n\n2. LG Display撤销坡州10.5代OLED 3万亿韩元投资\n   The Elec · 2026-11-19\n   LG Display于19日公告，决定不再推进坡州P10工厂10.5代OLED生产设施投资，该投资于2019年决定、原定2028年3月结束，规模为3万亿韩元。公司称新冠疫情、俄乌战争、高物价高利率等外部环境恶化，且OLED TV市场增长放缓。\n   https://www.thelec.kr/news/articleView.html?idxno=65689\n\n3. LG Display正式取消P10工厂约22.5亿美元10.5代OLED TV线投资\n   OLED-Info · 2026-11-20\n   LG Display宣布正式取消在韩国坡州P10工厂约22.5亿美元的10.5代OLED TV生产线投资，董事会于11月19日决定不推进该2019年7月批准、此后多次延期的项目。公司监管文件称疫情、俄乌战争、高通胀与高利率、以色列-哈马斯战争等不可控事件改变市场环境，OLED TV增长放缓、LCD向OLED转换慢于预期。\n   https://www.oled-info.com/lg-display-officially-cancels-its-225-billion-105-gen-oled-tv-line-investment\n\n4. 100/4/100挑战：显示产业能否让AR眼镜走向大众市场？\n   MicroLED-Info · 2026-11-19\n   在Bay Area SID（BASID）One Day Conference上，显示产业领袖、技术开发者和制造商围绕“100/4/100挑战”展开讨论，目标是将包含波导在内的显示子系统平均售价降至约100美元，使带显示的智能眼镜价格可负担并达到1亿台市场规模。\n   https://www.microled-info.com/1004100-challenge-can-display-industry-make-ar-glasses-mass-market-reality\n\n5. OLED-Info Pro新增交互式OLED堆叠材料报告，含可自建市场预测\n   OLED-Info · 2026-11-19\n   OLED-Info Pro发布关于OLED堆叠材料的市场报告，以交互式数据工具和PDF形式汇总已知信息，覆盖空穴注入层及其p掺杂剂、空穴传输与prime层、主体与发光体、电子传输与注入层、串联器件中的电荷产生层以及覆盖层，并列出各层供应商、已知客户及信息可靠度。\n   https://www.oled-info.com/oled-stack-materials-makers-customers-and-market-scenarios-interactive-data\n\n6. LG Display合并大尺寸与中尺寸事业部，郑哲东社长留任\n   The Elec · 2026-11-19\n   LG Display在19日公布2027年定期高管人事与组织改编，将原有大尺寸、中尺寸、小尺寸三个事业部重组为中大尺寸和小尺寸两个事业部，以支持中尺寸产品向OLED转换并加快决策速度；郑哲东社长继续担任代表理事。\n   https://www.thelec.kr/news/articleView.html?idxno=65660\n\n7. 报道称Apple重新考虑OLED iMac计划，或延期甚至取消\n   OLED-Info · 2026-11-19\n   据韩国报道，Apple正重新考虑在iMac一体机中采用OLED显示屏的计划，并与三星显示就调整开发日程进行协商，当前方向是延期观察市场，取消也在考虑之中。主因是成本：iMac销量远低于智能手机和笔记本，昂贵OLED面板难以维持价格竞争力，且2024年推出的采用双层串联OLED的iPad Pro销售未达预期。\n   https://www.oled-info.com/reports-suggest-apple-reconsidering-its-oled-imac-plans-and-may-delay-or-even\n\n8. TrendForce：MSI在2026年三季度超越三星成为第二大OLED显示器品牌\n   OLED-Info · 2026-11-19\n   TrendForce称2026年三季度全球OLED显示器出货环比增长13%、同比翻倍，主要受品牌新品和面板供应充足推动；华硕以21.7%份额居首，MSI份额从12.8%升至14.5%首次升至第二，前三季度出货与三星大致相当。\n   https://www.oled-info.com/trendforce-msi-overtakes-samsung-become-second-largest-oled-monitor-brand-q3\n\n9. LG电子晋升李相佑、白承台为社长\n   The Elec · 2026-11-19\n   LG电子更换负责TV与媒体业务的MS事业本部负责人，原LG经营战略部门负责人李相佑升任社长并担任MS事业本部长兼显示器事业部长；生活家电解决方案HS事业本部长白承台也升任社长。公司于19日经董事会批准实施2027年高管人事与组织改编，人事自明年1月1日、组织改编自下月1日生效。\n   https://www.thelec.kr/news/articleView.html?idxno=65671\n"
+}
