@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T07:43:34Z",
+  "digest": {
+    "overview": "今日条目集中在OLED产能与产业整合：三星显示通过人事晋升体现8.6代IT用OLED、QD-OLED与车载OLED的战略权重；LG Display调整大尺寸OLED路线，放弃10.5代转而依托8.5代并规划2029年Flipp OLED；BOE则被报道扩大对Visionox的收购讨论范围。整体看，头部面板厂正围绕世代线效率、差异化技术和外部并购重塑OLED竞争格局。",
+    "papers": [],
+    "news": [
+      {
+        "id": "url:4429fa1114c98c9e",
+        "kind": "news",
+        "title_zh": "三星显示晋升名单透视：8.6代、苹果、车载成为关键词",
+        "summary_zh": "三星显示在2027年定期高管人事中晋升16人，包括5名副总裁、9名常务和2名Master。其中负责8.6代IT用OLED量产与QD-OLED生产率改善的宋河正，以及负责车载OLED工艺和苹果折叠屏面板质量的 executives 均升任副总裁。",
+        "why": "显示三星显示正把资源与组织激励向IT用OLED、QD-OLED效率提升和车载、苹果折叠屏等高端客户方向集中，可能加剧相关细分市场的产能与订单竞争。",
+        "tags": [
+          "三星显示",
+          "OLED",
+          "QD-OLED",
+          "车载显示"
+        ]
+      },
+      {
+        "id": "url:544424f2f66170b4",
+        "kind": "news",
+        "title_zh": "LG Display据报目标2029年推出更便宜、更好的“Flipp”OLED",
+        "summary_zh": "据报道，LG Display计划通过改造现有8.5代线，在2029年推出更便宜、性能更好的“Flipp”OLED。报道未披露更多技术细节与投资规模。",
+        "why": "若按计划推进，将影响大尺寸OLED的成本结构与产品迭代节奏，并强化LG Display以现有产线升级替代新建产线的路径。",
+        "tags": [
+          "LG Display",
+          "OLED",
+          "8.5代线"
+        ]
+      },
+      {
+        "id": "url:76772a788dfaaa91",
+        "kind": "news",
+        "title_zh": "LG Display放弃10.5代工厂建设“超大尺寸”OLED电视计划",
+        "summary_zh": "LG Display已放弃建设10.5代工厂以生产“超大尺寸”OLED电视的计划，转而依赖现有8.5代OLED产线。报道未给出调整后的具体产能或时间表。",
+        "why": "这意味着超大尺寸OLED电视的扩产将更多依赖现有8.5代线效率提升，短期内可能影响超大尺寸OLED面板的供给弹性和成本下降速度。",
+        "tags": [
+          "LG Display",
+          "OLED",
+          "10.5代线",
+          "电视面板"
+        ]
+      },
+      {
+        "id": "url:8b02570c622ba8af",
+        "kind": "news",
+        "title_zh": "中国BOE推进收购Visionox",
+        "summary_zh": "据报道，中国BOE正推进收购Visionox，最初仅计划收购一座OLED生产线，近期已将讨论范围扩大至收购整个公司。BOE与合肥市政府高层上周会面讨论方案，合肥投资机构持有V3运营公司大部分股权，具体收购范围预计12月确定。",
+        "why": "若收购落地，将改变中国OLED产能与客户资源的集中度，并可能影响全球OLED面板的供给格局与价格竞争。",
+        "tags": [
+          "BOE",
+          "Visionox",
+          "OLED",
+          "产业并购"
+        ]
+      }
+    ],
+    "trends": [
+      "头部面板厂围绕OLED产能与产线世代选择进行战略调整，涉及8.6代、8.5代与10.5代路线取舍。",
+      "QD-OLED、车载OLED、折叠屏面板与IT用OLED等高端细分应用成为组织与资源倾斜重点。",
+      "中国与韩国面板厂通过并购、产线改造和人事激励等方式重塑OLED竞争格局。"
+    ]
+  },
+  "items": [
+    {
+      "id": "url:4429fa1114c98c9e",
+      "kind": "news",
+      "title": "삼성디스플레이 승진자 면면 보니… 8.6세대·애플·차량용이 키워드",
+      "abstract": "삼성디스플레이가 8.6세대 IT용 유기발광다이오드(OLED) 양산과 퀀텀닷(QD)-OLED 생산성 개선 성과를 낸 임원을 부사장으로 승진시켰다. 차량용 OLED 공정과 애플 폴더블 패널 품질을 맡은 임원도 부사장에 올랐다.삼성디스플레이는 24일 부사장 5명, 상무 9명, 마스터 2명 등 총 16명 규모의 2027년 정기 임원 인사를 실시했다고 밝혔다.부사장 5명 중 2명이 대형디스플레이사업부에서 나왔다. 송하정 BP기술팀장 겸 기술혁신팀장은 QD-OLED 주요 공정의 효율을 개선하고 제조라인을 고도화해 생산성을 높였다. QD-OLE",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65818",
+      "source": "The Elec",
+      "published": "2026-11-24T10:56:13Z",
+      "authors": [],
+      "score": 7
+    },
+    {
+      "id": "url:544424f2f66170b4",
+      "kind": "news",
+      "title": "LG Display reportedly targets 2029 for cheaper, better 'Flipp' OLEDs",
+      "abstract": "By converting an existing 8.5G line",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1795504848",
+      "source": "FlatpanelsHD",
+      "published": "2026-11-24T06:35:00Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:76772a788dfaaa91",
+      "kind": "news",
+      "title": "LG Display scraps plans for 10.5G factory to build 'super-sized' OLED TVs",
+      "abstract": "Will instead rely on existing 8.5G OLED plants",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1795422879",
+      "source": "FlatpanelsHD",
+      "published": "2026-11-23T10:04:00Z",
+      "authors": [],
+      "score": 3
+    },
+    {
+      "id": "url:8b02570c622ba8af",
+      "kind": "news",
+      "title": "中BOE, 비전옥스 인수 추진",
+      "abstract": "중국 BOE가 비전옥스 인수를 추진하고 있는 것으로 확인됐다.당초 유기발광다이오드(OLED) 생산라인 한 곳만 인수하려 했으나 최근 회사 전체를 인수하는 것으로 논의 범위를 확대한 것으로 전해졌다.24일 디일렉 취재를 종합하면 BOE와 허페이시 정부 고위 관계자들은 지난주 만나 비전옥스 인수 방안을 논의했다. 허페이시 측 투자기관들은 V3 운영사 지분 대부분을 보유하고 있다.중국 디스플레이 업계 관계자는 \"오는 12월 중 구체적으로 어디까지 인수할지 결정될 것으로 보인다\"고 말했다.비전옥스는 중국 장쑤성 쿤산과 허베이성 구안, 안후",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65798",
+      "source": "The Elec",
+      "published": "2026-11-24T15:17:35Z",
+      "authors": [],
+      "score": 2
+    }
+  ],
+  "errors": [],
+  "plain": "显示行业日报 | 2026-11-24\n今日 2 篇论文 · 4 条新闻\n\n【论文日报】\n\n# 显示面板论文日报 2026-11-24\n\n- 检索机构关键词: 88 个 | 时间窗口: 2026-11-21 ~ 2026-11-24 | 新增论文: 2 篇\n\n## 一般 [Minimum-cut bridges and unavoidable cycles in holographic graph entropies](https://doi.org/10.5281/zenodo.24435199)\n- 作者: Dehao Lin\n- 期刊: Zenodo (CERN European Organization for Nuclear Research) | 发表: 2026-11-22\n- 技术分类: 显示光学 | 机构类别: \n- 摘要: This preprint gives a minimum-cut bridge criterion and a slicing construction for holographic graph entropy vectors. It proves the C1 and C2 lifting assertions and certifies that the six-party ray 110 has no finite forest realization. Splicing copies of this ray produces extreme rays with arbitraril…\n\n## 一般 [waveguide-pixel-array: a coupled-waveguide pixel array for near-field image encoding](https://doi.org/10.5281/zenodo.24435542)\n- 作者: King Ho Chan\n- 期刊: Zenodo (CERN European Organization for Nuclear Research) | 发表: 2026-11-22\n- 技术分类: 显示光学 | 机构类别: \n- 摘要: A binary image is written into a photonic chip as the transverse position of guided light in a pair of coupled waveguides, and read back by imaging the near field above the chip. All 400 pixels of a 20 by 20 image and all 441 pixels of a 21 by 21 image read out correctly with a single threshold.…\n\n【行业新闻】\n\n显示行业日报 | 2026-11-24\n今日 2 篇论文 · 4 条新闻\n\n今日条目集中在OLED产能与产业整合：三星显示通过人事晋升体现8.6代IT用OLED、QD-OLED与车载OLED的战略权重；LG Display调整大尺寸OLED路线，放弃10.5代转而依托8.5代并规划2029年Flipp OLED；BOE则被报道扩大对Visionox的收购讨论范围。整体看，头部面板厂正围绕世代线效率、差异化技术和外部并购重塑OLED竞争格局。\n\n行业新闻\n\n1. 三星显示晋升名单透视：8.6代、苹果、车载成为关键词\n   The Elec · 2026-11-24\n   三星显示在2027年定期高管人事中晋升16人，包括5名副总裁、9名常务和2名Master。其中负责8.6代IT用OLED量产与QD-OLED生产率改善的宋河正，以及负责车载OLED工艺和苹果折叠屏面板质量的 executives 均升任副总裁。\n   https://www.thelec.kr/news/articleView.html?idxno=65818\n\n2. LG Display据报目标2029年推出更便宜、更好的“Flipp”OLED\n   FlatpanelsHD · 2026-11-24\n   据报道，LG Display计划通过改造现有8.5代线，在2029年推出更便宜、性能更好的“Flipp”OLED。报道未披露更多技术细节与投资规模。\n   https://www.flatpanelshd.com/news.php?subaction=showfull&id=1795504848\n\n3. LG Display放弃10.5代工厂建设“超大尺寸”OLED电视计划\n   FlatpanelsHD · 2026-11-23\n   LG Display已放弃建设10.5代工厂以生产“超大尺寸”OLED电视的计划，转而依赖现有8.5代OLED产线。报道未给出调整后的具体产能或时间表。\n   https://www.flatpanelshd.com/news.php?subaction=showfull&id=1795422879\n\n4. 中国BOE推进收购Visionox\n   The Elec · 2026-11-24\n   据报道，中国BOE正推进收购Visionox，最初仅计划收购一座OLED生产线，近期已将讨论范围扩大至收购整个公司。BOE与合肥市政府高层上周会面讨论方案，合肥投资机构持有V3运营公司大部分股权，具体收购范围预计12月确定。\n   https://www.thelec.kr/news/articleView.html?idxno=65798\n"
+}
