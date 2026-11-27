@@ -1,0 +1,144 @@
+# 显示面板论文日报 2026-11-27
+
+- 检索机构关键词: 88 个 | 时间窗口: 2026-11-24 ~ 2026-11-27 | 新增论文: 24 篇
+
+## 一般 [AMBN Proteinopathy in Amelogenesis Imperfecta and AMBN–ENAM Interaction](https://doi.org/10.1177/00220345261504013)
+- 作者: Y.-L. Wang, H.-C. Lin, Jung‐Tsu Chen
+- 期刊: Journal of Dental Research | 发表: 2026-11-24
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Amelogenin (AMEL), ameloblastin (AMBN), and enamelin (ENAM) are the 3 major enamel matrix proteins secreted by ameloblasts during enamel formation. Their functional importance has been established with animal models and human genetic disorders. While biallelic AMBN mutations are known to cause autos…
+
+## 一般 [Chip‐Scale Optical Interconnects Based on Micro‐LED: From Efficient Communication Links to Scalable Intelligent Networks](https://doi.org/10.1002/exp2.70257)
+- 作者: Ruifeng Liu, Tingwei Lu, Longteng Wang
+- 期刊: Exploration | 发表: 2026-11-24
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: The rapid development of artificial intelligence (AI) is propelling a transformation in computer architectures. As “Moore's Law” falters due to power and crosstalk limits in electronic integrated circuits, photonic integrated circuits (PICs) are emerging as a promising solution for more efficient da…
+
+## 一般 [Fiberization‐Reconstructed Nanocrystal–Glass Active Fibers With Ultrahigh Thermal Stability for Yellow Guided Emission](https://doi.org/10.1002/adom.72106)
+- 作者: Qianyi Chen, Min Sun, Xu Lü
+- 期刊: Advanced Optical Materials | 发表: 2026-11-24
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Thermally stable yellow active fibers require a host platform that combines visible emission, waveguiding, and high‐temperature reliability. Here we report a Dy 3+:Gd 3 ScGa 4 O 1 2 (Dy:GSGG) nanocrystal‐embedded glass composite fiber formed by fiberization‐enabled reconstruction. During fiberizatio…
+
+## 一般 [How do digital platforms reconfigure tourism space in the old city?](https://doi.org/10.1080/14616688.2026.2765562)
+- 作者: Yixuan Zhang, Shijie Sun, Jinyi Wang
+- 期刊: Tourism Geographies | 发表: 2026-11-24
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: With digital platforms deeply embedded in urban tourism, tourism space in China’s old cities is no longer defined solely by institutionally designated spaces such as A-level scenic areas and historic cultural blocks, but is reshaped through the interaction of official-institutional recognition and p…
+
+## 一般 [Narrowband Green Platinum(II) Complexes as Phosphors and Sensitizers for High‐Efficiency OLEDs With Green Gamut Close to BT.2020 Standard](https://doi.org/10.1002/adom.72111)
+- 作者: Lian Wang, Manli Huang, Jianing Zhu
+- 期刊: Advanced Optical Materials | 发表: 2026-11-24
+- 技术分类: OLED | 机构类别: 
+- 摘要: Phosphorescent Pt(II) complexes have achieved significant progress in narrowband blue emission, while achieving narrowband green emission remains a formidable challenge due to enhanced vibronic coupling. In this study, rigid tetradentate Pt(II) complexes, namely Pt5N‐2CF 3, Pt5N‐CF 3 ‐BF, and Pt5N‐2…
+
+## 一般 [Regioisomeric Folded TADF Emitters With Prominent Through‐Space Charge Transfer for Efficient Blue OLEDs](https://doi.org/10.1002/chem.71970)
+- 作者: Ziwei Chen, Tao Yang, Ruiqi Sun
+- 期刊: Chemistry - A European Journal | 发表: 2026-11-24
+- 技术分类: OLED | 机构类别: 
+- 摘要: Thermally activated delayed fluorescence (TADF) emitters based on through-space charge transfer (TSCT) are promising candidates for high-performance organic light-emitting diodes (OLEDs). Here, four regioisomeric blue TADF emitters are designed and synthesized using carbazole as donor, xanthone as a…
+
+## 一般 [Archetypal analysis provides interpretable mixture representations of microbiome community structure](https://doi.org/10.64898/2026.11.18.767757)
+- 作者: Ray Verma, Ava Albert, Alexander G. Ioannidis
+- 期刊: bioRxiv (Cold Spring Harbor Laboratory) | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Microbiome studies routinely reduce high-dimensional community profiles to a small number of coordinates for visualization and comparison. Ordination methods are powerful for detecting compositional differences, but their axes are often difficult to translate into explicit microbial community config…
+
+## 一般 [Augmenting reality with integrated photonics](https://doi.org/10.1038/s41586-026-11146-7)
+- 作者: Zhujun Shi, Jelena Notaroš, Youmin Wang
+- 期刊: Nature | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+
+## 一般 [Characteristics and formation mechanisms of China’s interprovincial embodied carbon flow network](https://doi.org/10.3389/fenvs.2026.1934557)
+- 作者: Shuaiwei Shi, Zhen Tian, Zhiguo Chen
+- 期刊: Frontiers in Environmental Science | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Cross-regional specialization spatially separates production, demand, and carbon emissions. This study integrates a multiregional input-output (MRIO) model, gross trade accounting, complex-network analysis, and exponential random graph models (ERGMs) to quantify interprovincial embodied carbon flows…
+
+## 一般 [Chimeric antigen receptor macrophage–derived extracellular vesicles engage neutrophils to suppress tumors in preclinical cancer models](https://doi.org/10.1126/scitranslmed.aee2583)
+- 作者: Peng Xia, Jie Liu, Minghe Zhang
+- 期刊: Science Translational Medicine | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Immunotherapy has transformed the treatment of hematologic cancers, but chimeric antigen receptor (CAR) T cell therapies have shown limited efficacy against solid tumors. Macrophages can infiltrate solid tumors, yet CAR macrophage therapy may be limited by systemic toxicity and the immunosuppressive…
+
+## 一般 [High-density bead-diode arrays enable rapid drift-resistant single-molecule counting in microliter tear samples](https://doi.org/10.1186/s12951-026-05212-5)
+- 作者: Zhiting Peng, Ho Cheung Shum, Hua Wang
+- 期刊: Journal of Nanobiotechnology | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Single-molecule digital immunoassays reach attomolar sensitivity by counting individual immunocomplexes, yet only a fraction of the microbeads is ultimately analyzed; microbead sampling efficiency typically falls below 40%, and this under-sampling limits not only ultimate sensitivity but also measur…
+
+## 一般 [Highly Spiro‐Configured Thermally Activated Delayed Fluorescence Materials for Improving Electroluminescence Efficiencies and Reducing Roll‐Offs of OLEDs](https://doi.org/10.1002/adfm.79850)
+- 作者: Xia Lan, Ruiqi Sun, Chengxi Lin
+- 期刊: Advanced Functional Materials | 发表: 2026-11-25
+- 技术分类: OLED | 机构类别: 
+- 摘要: Thermally activated delayed fluorescence (TADF) materials continue to encounter a significant challenge in concurrently attaining high solid‐state photoluminescence efficiency and minimal singlet–triplet energy splitting (Δ E ST). In this study, a rigid and sterically hindered weak electron acceptor…
+
+## 一般 [Homogeneous Interface Regulation of Boron Nitride Quantum Dots/Carbon Nitride for Efficient Photocatalytic Production of H 2 O 2](https://doi.org/10.1002/cssc.71260)
+- 作者: Yamei Ding, Zhengyu Lang, Huixia Wang
+- 期刊: ChemSusChem | 发表: 2026-11-25
+- 技术分类: QLED/QD | 机构类别: 
+- 摘要: Graphitic carbon nitride (g‐C 3 N 4) is regarded as a promising non ‐ metallic photocatalyst for solar‐driven hydrogen peroxide (H 2 O 2) production, which critically depends on efficient spatial charge separation. However, the intrinsic strong excitonic effects and sluggish charge transfer of C 3 N…
+
+## 一般 [Machine learning-based prediction model for incident dementia in patients with hearing loss](https://doi.org/10.1038/s41598-026-81053-4)
+- 作者: Jang Ho Ahn, Hyung-Chul Lee, So Young Kim
+- 期刊: Scientific Reports | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Hearing loss is a major modifiable risk factor for dementia, but the predictive value of longitudinal hearing trajectories remains unclear. This study aimed to develop and internally validate artificial intelligence–based models using longitudinal pure-tone audiometry (PTA) data to predict incident …
+
+## 一般 [Magnetic-texture-controlled transverse spin-wave routing in artificial domain-wall rings](https://doi.org/10.1016/j.jmmm.2026.174761)
+- 作者: Huiting Li, Xue-Feng Zhang, Yuhan Jiang
+- 期刊: Journal of Magnetism and Magnetic Materials | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+
+## 一般 [Model input settings and figure source data for volatile-assisted eclogite-pyroxenite lithospheric drips](https://doi.org/10.5281/zenodo.24523852)
+- 作者: Yiren Gou, Mian Liu
+- 期刊: Zenodo (CERN European Organization for Nuclear Research) | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Modified I2VIS flow-law function, model initial conditions (init.t3c), and figure source snapshots for Gou and Liu, Geophysical Research Letters: Volatile-Assisted Eclogite-Pyroxenite Lithospheric Drips: Implications for Andean Topographic Evolution and Magmatism. Display time in the figures is mode…
+
+## 一般 [Multimodal Explainable AI for Comparing Urban Energy-Related Patterns Across Korean New-Town Generations](https://doi.org/10.3390/land15122279)
+- 作者: Hee Young Kim, Sung Su Jo, Sang Ho Lee
+- 期刊: Land | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: This study explores the potential of multimodal explainable artificial intelligence (XAI) as a tool for comparing urban energy-related patterns across 152 neighbourhoods in nine Korean new towns. A jointly trained CNN–MLP–LSTM framework integrates land-use plan images, quantitative neighbourhood att…
+
+## 一般 [Optimized laboratory cultivation of Prevotella histicola identifies key requirements for cryopreservation, growth, and phenotypic stability](https://doi.org/10.1128/jb.00424-26)
+- 作者: Kelyah Spurgeon, Nicole R. Falkowski, Gary B. Huffnagle
+- 期刊: Journal of Bacteriology | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Prevotella histicola is a prominent mucosa-associated human commensal that is frequently detected in oral and respiratory microbiome data sets and increasingly associated with chronic and autoimmune conditions. Despite growing interest in the organism, mechanistic studies of P. histicola have been l…
+
+## 一般 [Spatiotemporal patterns and drivers of eco-environmental quality in Xizang border counties](https://doi.org/10.3389/fenvs.2026.2012457)
+- 作者: Wang Yubing, Hao Guo, Lu Xuebin
+- 期刊: Frontiers in Environmental Science | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Assessing spatiotemporal changes in ecological quality and their drivers in high- altitude border regions is important for ecological conservation and differentiated environmental management. This study developed an AOD-integrated Remote Sensing Ecological Index (ARSEI) on the Google Earth Engine (G…
+
+## 一般 [Sputtered p-channel TeSeO thin-film transistors](https://doi.org/10.1016/j.mser.2026.101337)
+- 作者: Yuning Guo, Taesu Choi, Xuanchen Liu
+- 期刊: Materials Science and Engineering R Reports | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+
+## 一般 [Stabilizing Large-Sized SWIR InSb Quantum Dots through Zinc Acetate Post-treatment](https://doi.org/10.1021/acsami.6c15825)
+- 作者: Peihan Sun, Haiyun Ma, Ran An
+- 期刊: ACS Applied Materials & Interfaces | 发表: 2026-11-25
+- 技术分类: QLED/QD | 机构类别: 
+- 摘要: The short-wave infrared (SWIR) spectral region exhibits multiple prominent advantages for cutting-edge imaging and sensing applications. Colloidal InSb quantum dots (QDs) are promising candidate materials for the fabrication of high-performance, cost-effective, and heavy-metal-free SWIR photodetecto…
+
+## 一般 [Surrogate-driven end-to-end fabrication optimization for nanoimprinted free-form micro-optics in MicroLED HUDs](https://doi.org/10.21203/rs.3.rs-11604421/v1)
+- 作者: Wen‐Di Li, Rongchen Qin, Zijie Jiang
+- 期刊: Research Square | 发表: 2026-11-25
+- 技术分类: OLED | 机构类别: 
+- 摘要: Augmented-reality head-up displays demand compact light engines with high directional luminance. MicroLEDs have excellent brightness, but their inherent Lambertian emission pattern demands precise micro-optical elements for beam reshaping. In this work, free-form cylindrical microlens arrays (FCMLAs…
+
+## 一般 [Three-Dimensional Structure and Spatiotemporal Evolution of Ionospheric Disturbances During the 19--22 January 2026 Geomagnetic Storm](https://doi.org/10.21203/rs.3.rs-11610579/v1)
+- 作者: Wenbin Liang, Xiyan Sun, Yuanfa Ji
+- 期刊: Research Square | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Storm-time total electron content integrates disturbances whose signs and amplitudes can vary with altitude, limiting the interpretation of horizontal maps alone. We formulate multi-pattern propagation–evolution tomography for signed three-dimensional electron-density residuals and examine the accom…
+
+## 一般 [Valence Transition Engineering Enables Time‐Dependent Color‐Tunable Persistent Luminescence in Halide Nanocrystals for Machine Learning‐Assisted Information Security](https://doi.org/10.1002/adfm.79878)
+- 作者: Bingyin Kong, Mengke Wang, Gencai Pan
+- 期刊: Advanced Functional Materials | 发表: 2026-11-25
+- 技术分类: 其他/跨领域 | 机构类别: 
+- 摘要: Achieving time‐dependent color‐tunable persistent luminescence (PersL) in inorganic materials remains a formidable challenge, primarily due to physical limits arising from the intrinsic transition levels of dopant ions and their comparable decay kinetics. Here, Pr 3+ ‐doped Cs 2 NaYbCl 6 nanocrystal…
